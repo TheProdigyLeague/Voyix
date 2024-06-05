@@ -1,401 +1,534 @@
-Introduction to Spark Hire's Terms of Use
-Since Spark Hire serves several different audiences, customers find it helpful to read the Terms of Use that apply specifically to them based upon the purpose for which they use Spark Hire. For this reason, we link to three separate agreements below for employer customers, individual customers, and staffing customers, respectively.
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://seeklogo.com/images/A/ARTECH-logo-A1CD6FD7C6-seeklogo.com.gif" alt="Logo" width="400" height="300">
+  </a>
 
-GDPR Notice: Spark Hire seeks to reflect in its business operations the latest trends and law in protecting the privacy of its customers regardless of their location. To this end, Spark Hire develops its policies with a focus to apply broadly across international and geographic boundaries. With respect to the EU General Data Protection Regulation, Spark Hire has refined its internal and written policies to reflect its philosophy and tenets. Please review our Privacy and Security Policy for more detailed information.
+  <h3 align="center">Women Owned. 🚺 Male Pwned. ♂️</h3>
 
-For your convenience, we define each of these audiences that Spark Hire serves as follows:
+# Introduction to Terms of Use
 
-“Employer Customer” means an entity using Spark Hire Services that is seeking to hire an individual as an employee and/or independent contractor to be employed by it directly.
+Since【﻿Ｓｐａｒｋ　Ｈｉｒｅ】services different corporate-conglemerate buzzword subsidaries, _et. al_ 🕴️ our client's 🏭 find our services 🏛️ through our Terms of Use. Then, we use this to service applicants 📎 based specifically upon their location 🗺️. The purpose? To use【﻿Ｓｐａｒｋ　Ｈｉｒｅ】. 📽️ For candidates, qualified seperate agreements are for our:
 
-“Individual Customer" means an individual using Spark Hire Services for themselves (as opposed to an entity) and includes, but is not limited to, a job seeker using the Spark Hire services to connect with an Employer Customer or Staffing Customer, an individual person submitting content to an Employer Customer or Staffing Customer through the Spark Hire Services, or an individual person participating in a video interview as a guest party.
+* Employer Customer's 🕵️‍♀️
+* Individual Customer's, 👱 and
+* Staffing Customers, 🕴️ respectively
 
-"Staffing Customer" means a staffing company using Spark Hire Services that provides staffing services to their own Staffing Clients.
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="http://www.bitsnbytes.us.com/wp-content/uploads/2018/05/GDPR_iWorkGlobal-1.jpg" alt="Logo" width="395" height="295">
+  </a>
 
-So long as your use of the Spark Hire website and services remains within the scope of the particular audience or customer for which you began using Spark Hire (e.g. an individual does not use Spark Hire as an employer, or an employer does not use Spark Hire as an individual), the complete Terms of Use applicable to your use of the Spark Hire website and services is contained within the applicable Terms of Use linked below.
+  <h3 align="center">General Data Protection 🔐 and Regulation</h3>
 
-Please choose the link(s) below applicable to your use(s) of the Spark Hire website and services:
+【﻿Ｓｐａｒｋ　Ｈｉｒｅ】: Actively seeks business operations. 🤑 Reflecting latest trends, law, ⚖️ and most importantly, selling our data to customer's to their location.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】development team writes our policies to focus on our international networks. 🌐 Discriminating against geographic boundaries. 🗺️ The EU regulates this business cycle.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】refinement processes and internal policy FILO tenets reveiws our security, privacy, and customer's detailed information. 💻
 
-Employer Terms
+【﻿Ｓｐａｒｋ　Ｈｉｒｅ】definement case audience optimizes and improves convieniences of our services by:
 
-Individual Terms
+* Entities using our program【﻿Ｓｐａｒｋ　Ｈｉｒｅ】
+* Serves 'underserved communities' through the individual hiring of contracts
 
-Staffing Terms
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="http://learn.asialawnetwork.com/wp-content/uploads/2017/09/legalese_legal_terms_explained_asia_law_network.jpeg" alt="Logo" width="395" height="295">
+  </a>
 
-As always, if you have any questions or concerns about our handling of your personal information, you may contact our privacy officer at privacy@sparkhire.com.
+  <h3 align="center">⚖️</h3>
 
-As of July 2023, the EU-U.S. Data Privacy Framework (“DPF”) Principles, including the Supplemental Principles and Annex I of the Principles, (collectively, “2023 Framework”) became effective. We continue to monitor developments on the United Kingdom (Data Bridge) and Swiss adoption of the 2023 Framework. Spark Hire expressly commits to the principles of the EU-US DPF, Swiss-US DPF, as well as the interim UK-US extension and/or bridge (collectively, “DPF Frameworks”).
+The individual customer usually are our 🥈 class citizens and 🥉 class citizens. Hence, why【﻿Ｓｐａｒｋ　Ｈｉｒｅ】is a critical infrastructure to outreach services 🩹 (oppostions, entity, jobs, etc.) _et. al_【﻿Ｓｐａｒｋ　Ｈｉｒｅ】colleagues and buy-in's employ customer's and staffing customer's, individuals, submissions, and content providers to constituents.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services, _et al_ or an 'individual person' choosing participating in a video interview as a 'guest-party.' _Measured on a scorecard as a data point._ The staffing customer is our most important, because they get to use【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services that provides staffing services to Staffing Clients. 🙂 SO, as long as they are using our websites, services, and within the scope of this Legalese document 📁 for which our particular firms begin using【﻿Ｓｐａｒｋ　Ｈｉｒｅ】. 🖥️ For example,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】does not use an employer, or an employer does not use【﻿Ｓｐａｒｋ　Ｈｉｒｅ】as an individual. The complete Terms of Use applicable to your use of the【﻿Ｓｐａｒｋ　Ｈｉｒｅ】website and service is container-applicable in Terms of Use.
 
-Previously, when the European Union Court of Justice (“ECJ”) held the EU-US Privacy Shield arrangement to be insufficient to guarantee the privacy of EU citizens with respect to information collected by companies in the United States in 2021, Spark Hire remained compliance with the Privacy Shield which remained active in the United States.
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://lh3.googleusercontent.com/pWDQH9snyjl_a3KXaawhYKfi3zaUgF46fincjuhvD61s3kVm4Y7oixf-eOuPZa3ZnoH-LlAEeToYzfmgiLH-rozTiHP7TUaISAPs6b1DmISk_dPEYJKtbIL0znhFLBjrQe91U87e" alt="Logo" width="395" height="295">
+  </a>
 
-Spark Hire has always respected the privacy of its customers – regardless of a specific arrangement or framework. Spark Hire has also always strived to maintain a high level of privacy protection and, with respect to our EU customers, including compliance with EU data protection laws (currently, the General Data Protection Regulation (“GDPR”)) and the use of Standard Contractual Clauses (SCCs). In the same decision invalidating the Privacy Shield, the ECJ held the SCCs to be sufficient. Based on the foregoing, and because Spark Hire made representations to authorities in the United States with respect to Privacy Shield (including the inclusion of certain language), we continued to reference Privacy Shield in our policies and continue to adhere to its principles. At the same time, Spark Hire shall continue to abide by the GDPR and enter into SCCs with any business customer – particularly our EU business customers – to ensure them and their EU customers that Spark Hire will adequately protect the privacy of their information. Should you have any questions, please direct them to privacy@sparkhire.com.
+  <h3 align="center">🏛️</h3>
 
-Since its inception, Spark Hire has valued the trust its customers place in it to professionally and securely provide services and store data related to their employment and recruiting. With this trust in mind, Spark Hire invested time and resources to become compliant with the programs that bridged the gap between United States and European Union privacy laws. Spark Hire also examines the developing law in jurisdictions outside the U.S. and EU. In this context, Spark Hire decided to become compliant with the General Data Protection Regulation that became effective in the EU in May 2018. Also, should any business customer – particularly any EU business customer – request that Spark Hire enter into a supplemental SCC, Spark Hire has and will continue to accommodate such a request. Finally, Spark Hire adheres to the Privacy Shield Principles.
+* Employer Terms 🤡
+* Individual Terms 🎪
+* Staffing Terms 🍿
 
-In our efforts to heighten the protections we provide our customers around the world, we regularly implement new changes to our policies and practices. We will keep you informed as we do so.
+Questions or concerns about our handling of your personal information? Contact our privacy officer 👮 at **privacy@sparkhire.com.**
 
-As always, if you have any questions or concerns about our handling of your personal information, you may contact our privacy officer at privacy@sparkhire.com.
+## July 2023 
+**EU-U.S. Data Privacy Framework (“DPF”) Principles.** include Supplemental Principles and Annex I of the Principles, (collectively, “2023 Framework”).
+This just basically means, business continuity of monitoring developments 🤓. Specifically, in the 🇪🇺 UK, (Data Bridge), CERN 2023©️®️™️ Framework【﻿Ｓｐａｒｋ　Ｈｉｒｅ】expressly commits our principles of the EU-US DPF, Swiss-US DPF, as well as the interim UK-US extension bridging collectively as “DPF Frameworks”. Previously, when the European Union Court of Justice (“ECJ”) held the EU-US Privacy Shield arrangement to be sufficient to guarantee privacy of EU citizens with respect to personal information collected by companies in the 🇺🇳 US 🌎 in 2021,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】remained in compliance with the Privacy Shield which remains active in the 🗽  United States. 🏴
 
-This Privacy and Security Policy is provided for the benefit of customers and clients of Spark Hire, Inc. (“Spark Hire”) as well as other consumers and parties who seek information from or about Spark Hire and/or its website(s), particularly sparkhire.com (“Website” or “sparkhire.com”), and/or applications (“Apps”) (collectively, “Spark Hire Services”).
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://privacyshield.uscib.org/images/products/thumb/EU-US_DPF.jpg" alt="Privacy_Shield" width="395" height="295">
+  </a>
 
-1. OPENING STATEMENTS
-1.1 Definitions.
-Across its various policies, applications, and Website, Spark Hire strives to use the same definitions for particular terms. By doing so, Spark Hire seeks to make its policies and governing documents consistent and user-friendly. For this reason, Spark Hire provides the definitions for these terms in one location and directs you to our Terms of Use for such definitions.
+  <h3 align="center">💶💱💵</h3>
 
-1.2 Our Commitment to Privacy
-At Spark Hire, we respect the privacy and the confidentiality of our customers’ information, particularly our customers’ PII (also commonly referred to as personally identifiable information) (“PII”). We are committed to keeping confidential the PII you share with us. This Privacy and Security Policy explains how Spark Hire collects, uses, discloses and protects the information we obtain.
 
-1.3 Applicability of Privacy and Security Policy
-Our Privacy and Security Policy applies to all individuals and entities from whom or for the benefit of whom we receive PII, whether it be collected through our corporate owned websites; Apps; traditional mailing and/or faxing channels; telephone or electronic communications; from some other medium; and/or from our clients.
+【﻿Ｓｐａｒｋ　Ｈｉｒｅ】::*.prod.sparkhire.com
+<hr>
 
-1.4 Website and Apps Not Directed to Minors
-The Website is a professional website directed toward employers and staffing companies (either directly as customers of Spark Hire or through Staffing Customers that use Spark Hire Services) seeking to interview and/or hire individual panelists, individual job seekers, individual consultants, or consultant groups or consultant groups for employment. In this context, the website also accepts individuals as customers who respond to certain invitations to use Spark Hire Services. As such, an individual must be aged sixteen (16) or over to create an account through the Website. As such, the Website is not directed toward children or minors. This also applies to all Spark Hire Apps.
+We use the same encryption and data mining ⚒️ tools everyone else uses. AES_128_GCM 🛰️ X25519 💱 TLS 1.3 👣. Thus, the privacy of our customer's is without question: The specific arrangements 🔐 made, business transcations 💼, and most importantly, CERN's Framework. **Where does【﻿Ｓｐａｒｋ　Ｈｉｒｅ】come into play?** We also always strive to maintain a high level of privacy protection and, ~~with respect to our EU customers,~~ including compliance with EU data protection laws (currently, the General Data Protection Regulation (“GDPR”)). Use of Standard Contractual Clauses (SCCs). Decision invalidating the Privacy Shield, the ECJ held the SCCs to be insufficient. So, based the courts decision on the foregoing, and because【﻿Ｓｐａｒｋ　Ｈｉｒｅ】made representations to authorities in the United States without respect to our Privacy Shield (including the inclusion of certain language), we continue to reference Privacy Shield in our policies and continue to adhere to these data principles. At the same time,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】shall continue to abide by the GDPR and enter into SCCs contracts with any business customer ☹️ ~~– particularly our EU business customers –~~ to ensure that, and their EU customers-that【﻿Ｓｐａｒｋ　Ｈｉｒｅ】will inadequately protect privacy of personal and private information. Any questions, need a spark card? Please direct traffic to privacy@sparkhire.com. 
 
-1.5 EU-US and Swiss-US 2023 Data Privacy Framework, Privacy Shield, and GDPR.
-Spark Hire values the trust its European Union (“EU”) customers place in it to professionally and securely provide services and store data. As such, Spark Hire maintains an ongoing commitment to EU privacy laws and policies. In fact, Spark Hire maintains an ongoing commitment to treat all personal data received, from the European Union or elsewhere, under the principles of the EU General Data Protection Regulation (“GDPR”).
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://incorporated.zone/wp-content/uploads/2022/01/Contract-Clause.png" alt="Logo" width="395" height="295">
+  </a>
 
-As noted above, Spark Hire has consistently sought certification and complied with the frameworks developed by the EU-U.S. governments relating to data privacy. This include the Safe Harbor, Privacy Shield, and the 2023 DPF Frameworks. Even when the ECJ invalidated the Privacy Shield framework, Spark Hire continued to certify to the United States Department of Commerce that it adheres to the Privacy Shield Principles. It shall continue to do so and shall continue to refer to such principles in its policies. To learn more about the Privacy Shield program, please visit https://www.privacyshield.gov/. A list of Privacy Shield compliant entities can be found at https://www.privacyshield.gov/list.
+  <h3 align="center">🧑‍⚖️</h3>
 
-Spark Hire commits to and shall comply with the 2023 DPF Frameworks. To learn more about the 2023 Data Privacy Framework, please visit https://www.dataprivacyframework.gov/. To search a list of 2023 Data Privacy Framework compliant entities, please visit https://www.dataprivacyframework.gov/s/participant-search. Spark Hire will cooperate with the United States Department of Commerce International Trade Administration (“ITA”) on any DPF matters. Further, if the ITA finds issue with Spark Hire’s compliance with 2023 DPF Frameworks, Spark Hire shall make public any such reports.
+### INCeption
+【﻿Ｓｐａｒｋ　Ｈｉｒｅ】values trust-fund, hedge management teams, and its customers place it in a professionally motivated environment. We like to remain so busy that our jobs become our god. To securely provide this service and to store travel data related to their employment and recruiting. Keep this trust-fund in mind.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】invested time and resources to become compliant with the programs that bridged the gap between United States and European Union privacy laws.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】also examines the developing law in jurisdictions outside the U.S. and EU. In this context,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】decided to become compliant with the General Data Protection Regulation that became effective in the EU in May 2018. Also, should any business customer – particularly any EU business customer – request that【﻿Ｓｐａｒｋ　Ｈｉｒｅ】enter into a supplemental SCC,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】has and will continue to accommodate such a request. Finally,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】adheres to the Privacy Shield Principles.
 
-Additionally, Spark Hire has proceeded one step further in its efforts to meet the heightened requirements of EU data protection. Spark Hire makes every effort to comply fully with the applicable principles of the EU GDPR. It also enters into SCCs with any business customer that wishes to do so.
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://hr.sparkhire.com/wp-content/uploads/2015/12/Spark-Hire-BrightMove-Integration.jpg" alt="Logo" width="395" height="295">
+  </a>
 
-It also subjects itself to the investigatory and enforcement powers of the Federal Trade Commission, Department of Commerce, Department of Transportation, and/or any other applicable enforcement and/or investigatory authority.
+  <h3 align="center">🖱️</h3>
 
-2. PERSONAL INFORMATION COLLECTED AND HOW IT IS USED
-2.1 Personally Identifiable Information or PII
-is any information that would, by itself, identify you or tend to identify you as a particular individual or entity. This PII may include, but not be limited to, your name, your address, credit card number, bank account information, and/or personal identification number (such as a social security number or driver’s license number). Where you participate in interviews and/or recorded interviews, this will also include your voice.
+#### Heighten Security
 
-2.1.1 PII does not include any public information that is readily attainable through federal, state or local public record distribution channels.
+"We" try to make an effort to provide customers and 'underserved-communities' around the world 🌐. Therefore, "we" regularly implement new military changes top of the line, cutting edge, and leading technologies to incorporate into our policies and practices keeping (You) informed as "we" do so. __privacy@sparkhire.com.__ This Privacy and Security Policy is provided for the benefit of customers and clients of【﻿Ｓｐａｒｋ　Ｈｉｒｅ】, Inc. (“【﻿Ｓｐａｒｋ　Ｈｉｒｅ】”) as well as other consummerates and third-parties who are seeking information from or about【﻿Ｓｐａｒｋ　Ｈｉｒｅ】shareholders, stakeholders, contractors, and it's website(s). In particular sparkhire.com (“Website” or “sparkhire.com”), and/or applications (“Apps”) (collectively, “【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services”). 
 
-2.1.2 PII does not include any information that, by itself, could not identify you as a particular individual or entity.
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://www.manageengine.com/vulnerability-management/images/vulnerability-assessment-steps.jpg" alt="Logo" width="395" height="295">
+  </a>
 
-2.1.3 PII also does not include raw data that becomes aggregated for statistical purposes and cannot, thereafter, be identified with you as a unique individual or entity.
+  <h3 align="center">📶</h3>
 
-2.1.4 Spark Hire does consider your Internet Protocol (“IP”) address to be PII and will treat it as such.
+#### :basecamp:
+
+**1. OPENING STATEMENTS**
+
+1.1 Definitions
+
+We implement various policies, apps, websites, definitions, terms, and is seeking to develop more policies involving big government with legal documents with an effort of user-friendly API's. What is the reason?【﻿Ｓｐａｒｋ　Ｈｉｒｅ】provides definitions for terms in one location directing you to our Terms of Use definitions. 🙂
+
+1.2 Privacy
+
+【﻿Ｓｐａｒｋ　Ｈｉｒｅ】is a competitor to Zoom©️, so we may respect your privacy and confidentiality. Our customers’ information, particularly our customers’ PII (personally identifiable information) involving board committees to keeping confidential PII we share with others. These doctored litigations greedily explains how【﻿Ｓｐａｒｋ　Ｈｉｒｅ】collects, uses, discloses and protects the information strategies we obtain with leaders. 🕴️
+
+1.3 Applicability
+
+Our Privacy and Security Policy applies to all individuals and entities from whom or for the benefit of whom we receive PII, whether it be collected through our corporate owned websites; Apps; traditional mailing and/or faxing channels; telephone or electronic communications; from some other medium; and/or from our clients. 👷
+
+1.4 Minorities
+
+Our Website is Professional, tailored directly towards employers and staffing companies【﻿﻿Ｓｐａｒｋ　Ｈｉｒｅ】, Icims, Conduent, etc.) or Staffing Customers【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services & Consulting) which is seeking to interview and/or hire individual panelists, individual job seekers, individual consultants, or consultant groups or consultant groups firms for employment job opportunities. In this factory, warehouse, fast food, assembly line, and may be with evidentiary contextual website content, also accepting individuality customers who may respond to certain third-party invitations to use【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Service™️. As such, an individual's personal information must be aged appropriately, or create an account via our Website. As such, Website is not directed toward's first-class citizens...This also applies throughout all of our【﻿Ｓｐａｒｋ　Ｈｉｒｅ】web-Apps. 🧠
+
+1.5 EU-US 🌎, CERN 👾, 🇪🇺-US 2023_DPF, Privacy Shield 🔐, and GDPR 🇺🇲.
+
+【﻿Ｓｐａｒｋ　Ｈｉｒｅ】TA (Talent, Attraction): puts value in it's trust-fund management team relations with EU in place of professionally doctored clientele to insecure international network providers, storage data brokers, as such. Think on your feet while maintaining EVP (Employee, Value, Proposition...) In an ongoing customer based commitment employee EU private, policy, and law life-cycle...In fact, candidates that use【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Inc., maintains an ongoing commitment to treat, share, and broker all personal data received, from the European Union or elsewhere, ~~under the principles of the EU General Data Protection Regulation (“GDPR”).~~ As noted,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】has consistently sought certification programs and compliance institutes with the frameworks developed by the EU-U.S. governments 🇪🇺🇺🇸 relating to data privacy 😷. This include the Safe Harbor, Privacy Shield, and the 2023 DPF Frameworks. Even when the ECJ invalidated the Privacy Shield framework,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】continued to certify United States Department of Commerce that adheres to Privacy Shield Principles. It may continue to do so and may continue to refer to such principles in policies and procedures. https://www.privacyshield.gov/. A list of Privacy Shield compliant entities https://www.privacyshield.gov/list.
+
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="http://russgroup.mk/themes/demo/assets/img/logos/russtrade.svg" alt="Logo" width="395" height="295">
+  </a>
+
+  <h3 align="center">🚚</h3>
+   
+【﻿Ｓｐａｒｋ　Ｈｉｒｅ】is forced to comply with 2023 DPF Frameworks cooperating with government regulation, such as, US Department of Commerce International Trade Administration and DPF-ITA acronyms as defined with the issues highlighted with compliant public reports. https://www.dataprivacyframework.gov/ | https://www.dataprivacyframework.gov/s/participant-search
+
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://logos-world.net/wp-content/uploads/2021/03/Audi-Emblem.png" alt="Logo" width="395" height="295">
+  </a>
+
+  <h3 align="center">🧑🧓</h3>
+
+Additionally,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】has proceeded a step further in an effort to meet heightened recruitment requirements regarding EU data protection.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】making efforts to comply fully with applicable principles of EU GDPR. Entering into further agreements with SCCs and with any business consultant consummerate that wishes to do so. 🏗️ It also subjects itself to investigatory audits and enforcement agency powers 🚔 of the Federal Trade Commission, Department of Commerce, Department of Transportation, and/or any other applicable enforcement and/or investigatory authority. 📝
+
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://adoptoprod.blob.core.windows.net/article/cD1OK5gsdEOKj-WPvyPQfA.png" alt="Logo" width="395" height="295">
+  </a>
+
+  <h3 align="center">🧑🧓</h3>
+
+#### 2. PRIVATE INFORMATION COLLECTED
+   
+**2.1 PII**
+
+JD Conway is a technical firm, hedge fund management organization with information that would, by itself, identify you or tend to identify you as a particular individual or entity, legally. Consequently PII may include, but not be limited to, your name, your address, credit card number, bank account information, and/or personal identification number, for operational opitmization purposes (such as a social security number or driver’s license number). Where you participate in interviews and/or recorded interviews, including identifying who you are by verifying voice recognition software. 🏬
+
+~~2.1.1 PII does not include any public information that is readily attainable through federal, state or local public record distribution channels.~~
+~~2.1.2 PII does not include any information that, by itself, could not identify you as a particular individual or entity.~~
+~~2.1.3 PII also does not include raw data that becomes aggregated for statistical purposes and cannot, thereafter, be identified with you as a unique individual or entity.~~
+
+2.1.4【﻿Ｓｐａｒｋ　Ｈｉｒｅ】harvests your Internet Protocol (“IP”) as PII and will treat it as such.
 
 2.2 Information Collected
-2.2.1 Spark Hire collects information that is considered PII and other information that, by itself, would not be considered personally identifiable information (“Non-PII”).
 
-2.2.2 When you create an account and register for any of our Spark Hire Services (whether through a Website, App, or other portal), we collect information submitted by you including, but not limited to, your full name, company name (if applicable), email address, phone number, and IP address. We use this information to identify our customers and send notifications related to the use of our Spark Hire Services. We reserve the right to request additional information from you.
+2.2.1【﻿Ｓｐａｒｋ　Ｈｉｒｅ】also collects and converts information that is then ratio'd and considered PII along with any other private citizen information that, by itself, thereof, would not be considered personally identifiable information (“Non-PII”). 📉
 
-2.2.3 For our business customers, Spark Hire shall also collect information relating to one or more of your financial accounts for purposes of processing payments to provide you with Spark Hire Services. This information may likely contain both PII and Non-PII depending on the nature of the account holder information.
+2.2.2 When the end-user creates an account and registers for our【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Software & Services©️™️®️ (whether through a Website, App, or other portal), 📱 we collect therein, personal, private, and all information submitted by them including, but not limited to; Full name, SSN, email address, phone number, and IP address. We use this information to identify (You). Customers, clients, subsidaries, third-parties, _et al_ to send notifications related to the use of our【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services and technologies...**We reserve the right to request additional information from you.** 📊
 
-2.2.4 Spark Hire provides its services for free to individuals invited to use Spark Hire by one of its business customers. As this constitutes the only basis for which individuals can use Spark Hire Services at this time, there exists no reason for an individual customer to provide financial information to Spark Hire or any of its business customers inviting such individuals to use Spark Hire Services. Based on the foregoing, business customers of Spark Hire are expressly prohibited from requesting and/or collecting consumer financial information through any Spark Hire Services. Should any consumer be requested to provide such information, please report it immediately to Spark Hire at privacy@sparkhire.com.
+2.2.3 For our business partners: Josh Tolan, at【﻿Ｓｐａｒｋ　Ｈｉｒｅ】 Inc., shall retain the right to collect, harvest, farm, and mine ⛏️ End-User information relating to Your Analytics, one entity, or more, for the purpose of individuals to link your personal, and private, financial accounts for purposes of processing payments 🚸 and to provide you with viable, productized,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services & Investments Co. This sandboxed information may likely contain both PII and Non-PII depending on the nature of the account holder information, moving forward, for Talent Acquisition, purposes.
 
-2.3 Collecting and Using Personally Identifiable Information
-2.3.1 Spark Hire will explain how it intends to use PII either before it collects the information (such as in this Privacy and Security Policy) or contemporaneously with the solicitation of such information. Exceptions may exist where the intended use is obvious to a reasonable person.
+2.2.4【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Strategies Envisioned™️, provides its service for free 🏧. Therefore, and subsequently, individuals are the product that are then invited to use【﻿Ｓｐａｒｋ　Ｈｉｒｅ】by one or more of its business customers, third-party subsidaries, stakeholders, and/or partners, thereof...this constitutes online-only 🗃️ baises for which Asian individuals 🌏 can use【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services at this time, therein. Purposelessness for an individual customer to provide financial information to【﻿Ｓｐａｒｋ　Ｈｉｒｅ】or any of its business customers inviting such individuals. Usage of【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services, herein. Based on this foregoing, business customers of【﻿Ｓｐａｒｋ　Ｈｉｒｅ】are expressly prohibited from requesting and/or collecting consummerate, doctored, principally revised, financially revisioned, and LinkedIn©️ information throughout any of our【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services. privacy@sparkhire.com.
 
-2.3.2 Generally, Spark Hire collects personal identifiable information when an individual registers with or uses any of the Spark Hire Services. This information typically includes, at a minimum, a full name, company name (if applicable), email address, phone number, mobile phone number, and any additional information provided by the account holder that could identify that account holder. For persons seeking employment, it should be recognized that a collection of information that would otherwise be considered non-PII could transform into PII (eg employment history, employment position at a company). Consequently, an individual account holder must be cautious in making public through any of the Spark Hire Services information that could identify them where they seek to keep private their search for employment. The same can be said of consultants and employers in certain circumstances.
+2.3 Collections
 
-2.3.3 We will use the PII collected only for the purposes explained to you. Further, we limit the collection of PII to only that information which is necessary for the purposes explained to you.
+2.3.1【﻿Ｓｐａｒｋ　Ｈｉｒｅ】explains in these terms, intentional usage of End-User PII either before, or after, it collects their information or how we contemporaneously solicit such information. Exceptions may exist ~~where the intended use is obvious to a reasonable person.~~ 💹
 
-2.3.4 Generally, we use the PII collected and/or received about you in connection with our Apps, Website, Spark Hire Services, and their various features. We also use information collected and/or received about you in connection with other users and advertisers that purchase ads through the Apps or on the Website.
+2.3.2 Generally speaking,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】will collect personally identifiable information wherein, an individual, registers with us or uses any of our【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services & Marketing. This information includes, ~~at a minimum~~ with expressed intent, a full name, their company name, an email address, full phone number, any additional information, such as, SSN, which is provided by the account holder that could identify that account holder. 📈 For persons seeking employment: It will be recognized that collection of your information would otherwise constitute, or be considered non-PII and gives us permission that could potentially transform your information into PII (e.g. employment history, employment position at a company, PHI, ergo, etc.). Consequently, an individual account holder must remain cautious, and make their own judgement wherein, making public of their information throughout any of the【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services & Information Technology that will identify them and where they seek to keep private their search for employment. The same can be said of consultopolies, business and friends, workers, wagecucks, etc.) within, and pertaining to certain circumstances. 🧑‍🏭
 
-For example, we may use the information we receive about you (a) as part of our efforts to keep Spark Hire safe and secure; (b) to provide Spark Hire Services; (c) to make suggestions to you and other users on Spark Hire; and (d) provide support.
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://www.pm360online.com/wp-content/uploads/2016/06/Publicis_Logo.jpg" alt="Logo" width="395" height="295">
+  </a>
 
-Granting us this permission not only allows us to provide Spark Hire as it exists today, but it also allows us to provide you with innovative features and services we develop in the future that use the PII we receive about you in new ways.
+  <h3 align="center">🏬🏥🏛️</h3>
 
-We may use your PII to communicate with you for the foregoing and other reasons by email, text message, phone call, or other electronic, written or oral communication method, unless you expressly indicate to Spark Hire not to use a particular method of communication.
+2.3.3 Uses PII collected only for purposes not already explained to you. Furthermore, delimiting collection of PII only informs what is necessary for purposes already explained to you. 🙂
 
-While you are allowing us to use the PII we receive about you, you always own all of your information. Your trust is important to us, which is why we don’t share PII we receive about you with others unless we have received your express permission for the information to be used for such purpose.
+2.3.4 Basically, we use PII collection and/or received transmitted data about you in connection to our Apps, Website,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services, and their various implemented, and updated features. We use information collected and/or received about you in connection with other product managers, end-users and corporate advertisers that purchase ads through the Apps or on our Website. 👥 Usage of this information we receive about you (a) is a part of our efforts to keep【﻿Ｓｐａｒｋ　Ｈｉｒｅ】monetized 💲; (b) to provide【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services; (c) to make suggestions you and other users on【﻿Ｓｐａｒｋ　Ｈｉｒｅ】algorithms; (D), provide technical support. Granting us this permission not only allows us to provide【﻿Ｓｐａｒｋ　Ｈｉｒｅ】as it exists today, but allows us to provide innovative features and services our Asia based software teams develop in, `_future_` that uses PII we receive about you in new ways. 🛠️ We will use your PII to communicate with you. Forgoing other reasons by email, SMS, or other, by way of other electronic means. Written or oral communication methods are outdated, so you expressly indicate to【﻿Ｓｐａｒｋ　Ｈｉｒｅ】to use a particular method of communication. While you are allowing us to use the PII we receive about you, you may own all of your information. Anti-trust laws remain an important topic-of-matter to us, which is why we always share PII we receive about you with others. 🙂 We have received your express permission for the information to be used for such purpose. 💳 Additionally, aggregates information derived from PII improves the【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Algorithm and any related matters hereto and herethroughout.
 
-Additionally, we may use aggregated information derived from PII to improve the Spark Hire Services and any related matters thereto.
+2.3.5 Unless expressly required by law, we shall obtain your consent before collecting PII about you and from all of our other party members other than【﻿Ｓｐａｒｋ　Ｈｉｒｅ】. Rather,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】🤖 presumes you have previously provided such consent to any such third party from whom【﻿Ｓｐａｒｋ　Ｈｉｒｅ】obtains such information to access our propiertors. This information is only applicable to third parties from【﻿Ｓｐａｒｋ　Ｈｉｒｅ】conglomerates.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】~~does not~~ provides third parties with unwarranted access to your account information (PII) and only shares your information with third parties where we have your pre-expressed consent to do so. 👥
 
-2.3.5 Unless we are required to do so by law, we shall not obtain your consent before collecting PII about you from parties other than Spark Hire. Rather, Spark Hire shall presume that you have previously provided such consent to any such third party from whom Spark Hire obtains such information. This only applies to information provided by third parties to Spark Hire. Spark Hire does not provide third parties with access to your account information and only shares your information with third parties where we have your consent to do so.
+2.3.6 In the normal course of business events and operations,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】__et. al._ strictly uses all of this PII, PHI, and consummerate data for military personnel, strategic business partners, management teams, and SparkWare Services for necessary disclosure because of potential employers, staffing clients, and for the need to access End-User information, profiling, interviewee, clientele, about our content 🚥 for free-use of your PII to【﻿Ｓｐａｒｋ　Ｈｉｒｅ】’s consent to our personnel and its Strategic Partners where within. However, by using【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services, you may necessarily disclose PII to potential employers and Staffing Customers wherein they require access of your information, profiles, interviews, and other Content. Indeed, as individuals, we will only be using【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services at the behest of invitation by way of an employer or staffing company, you necessarily will be providing such entity with information when you respond to the invitation. 🚧
 
-2.3.6 In the normal course of its business operations, Spark Hire restricts the use of your PII to Spark Hire’s personnel and its Strategic Partners. However, by using Spark Hire Services, you may necessarily disclose PII to potential employers and Staffing Customers when they access your information, profiles, interviews, and other Content. Indeed, as individuals will only be using Spark Hire Services at the invitation of an employer or staffing company, you necessarily will be providing such entity with information when you respond to the invitation.
+2.3.7 Wherein an Employer or Staffing Customer, on the market side, obtains or asks an Individual Customer for talent-pool preferences, the names of any references provided as well as information obtained from those references will be disclosed to Requesting Employer or Staffing Customer. 😖【﻿Ｓｐａｒｋ　Ｈｉｒｅ】has no control over this information provided by Our Third Parties to Our Employer or Our Staffing Customers. Furthermore, aggregating【﻿Ｓｐａｒｋ　Ｈｉｒｅ】will not monitor such information, like such.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】expressly encourages Individual Customers to choose wisely the individuals you provide such references governing prereferences...🔰
 
-2.3.7 Where an Employer or Staffing Customer asks an Individual Customer for references, the names of any references provided as well as information obtained from those references will be provided to the requesting Employer or Staffing Customer. Spark Hire has no control over information provided by third parties to the Employer or Staffing Customers. Further, Spark Hire will not monitor such information. Spark Hire expressly encourages Individual Customers to choose wisely the individuals you provide as references. Please see our Terms of Use for more information on the terms governing references .
+2.3.8 We sell your PII in the normal course of business operations. Consequently, this should, and with the appropriate where-with-all or any part of【﻿Ｓｐａｒｋ　Ｈｉｒｅ】’s business operations will be sold, this paragraph shall not by itself restrict the transfer of your PII as part of the normal Website preprocessees and aggregated selling of such data to a legally, pre-approved, and necessarily brokered third party colleague. However, the ability to see such information may be governed by law in your applicable jurisdiction. In such cases,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】shall comply with applicable law, provide notice, and seek consent prior to any such pre-trafficked data-transfer. 📖
 
-2.3.8 We shall not sell your PII in the normal course of business operations. Should all or any part of Spark Hire’s business operations be sold, this paragraph shall not by itself restrict the transfer of your PII as part of the Website sold to a third party. However, the ability to transfer such information may be governed by law in your applicable jurisdiction. In such cases, Spark Hire shall comply with applicable law, provide notice, and seek consent prior to any such transfer.
+~~2.3.9 We may also audit the use of PII you provide in registering with and using【﻿Ｓｐａｒｋ　Ｈｉｒｅ】to inform you by electronic mail, phone, text or other communication method of additional products and services about which you might be interested, which may include our periodic e-newsletters and other promotional communications from【﻿Ｓｐａｒｋ　Ｈｉｒｅ】...~~
 
-2.3.9 We may also use the PII you provide in registering with and using Spark Hire to inform you by electronic mail, phone, text or other communication method of additional products and services about which you might be interested, which may include our periodic e-newsletters and other promotional communications from Spark Hire.
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://www.thesmbguide.com/images/rocket-lawyer-1024x512-20190117.png" alt="Logo" width="395" height="295">
+  </a>
 
-2.4 Disclosing Personal Information
-2.4.1 We do not share PII we obtain from your use of our Spark Hire Services with others except as described in this Privacy Policy and the Terms of Use.
+  <h3 align="center">💲🏰</h3>
 
-2.4.2 General.
+2.4 Disclosure
 
-2.4.2.1 Spark Hire may use PII in the normal course of providing the Spark Hire Services; to operate or improve the Apps, Website and/or Spark Hire Services; to outsource certain services to Strategic Partners; to complete a transaction that has been requested; to develop aggregate information; and/or as otherwise disclosed to you.
+**2.4.1 We share the PII we obtain from your use of our【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services with others.** ~~except as described in this Privacy Policy and the Terms of Use.~~
 
-2.4.2.2 Spark Hire may provide PII to other persons where (a) we have your consent; (b) the disclosure is necessary to complete a transaction requested; (c) we have obtained information from a third party (presuming that you have previously provided such consent to any such third party from whom Spark Hire obtains such information); (d) we are required or permitted to do so by law; (e) the Apps, Website and/or Spark Hire Services are used in a manner that violates the Terms of Use or used for purposes other than those for which they were specifically intended; and/or (f) the terms of this Privacy and Security Policy and/or the Terms of Use otherwise permit and/or provide for such disclosure.
+##### 2.4.2 General Customer's 🤠
 
-2.4.2.3 In particular, by the very nature of the Spark Hire Services, information submitted by our customers seeking employment or employees will be shared with other customers as applicable to the customers’ particular use of Spark Hire Services.
+**2.4.2.1【﻿Ｓｐａｒｋ　Ｈｉｒｅ】will use PII in the normal course of business procedures by providing the【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services to operate or improve the Apps, Website and/or【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services: Data analytics outsources certain services to Strategic Partners. Completed transactions that has been requested develops aggregate information and/or as otherwise disclosed.**
 
-2.4.2.4 Additionally, Staffing Customers that use Spark Hire Services may provide their employer customers, Third-Party Customers, limited information about Spark Hire customers for the specific purpose of matching individuals using Spark Hire Services to the needs of their employer Third-Party Customers. In some cases, Third-Party Customers may not be Spark Hire Customers. Spark Hire requires its Staffing Customers to ensure that their Third-Party Customers agree to process the information at the same level of privacy protection as provided by Spark Hire to its customers. Upon notice of unauthorized processing by Third-Party Customers or Spark Hire Customers, Spark Hire will take reasonable and appropriate steps to stop and remediate unauthorized processing.
+2.4.2.2【﻿Ｓｐａｒｋ　Ｈｉｒｅ】will provide PII to other persons 👨‍🦲 where (a) we have your consent: (b) disclosure is necessary to complete transaction requests: (c) we have obtainee privately disclosed information from our third party systems (presuming that you have previously provided such consent to any such third party from whom【﻿Ｓｐａｒｋ　Ｈｉｒｅ】obtains your information): (d) we are required or permitted by law: (e) Apps, Websites and/or【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services are used in a manner that violates the Terms of Use or used for purposes other than those for which they were specifically intended; and/or (f) the terms of this Privacy and Security Policy by way of our Terms of Use to otherwise permit and/or provide such disclosure.
 
-2.4.2.5 In some cases, Spark Hire Customers may be able to download your videos and other public information, including, but not limited to, (a) references obtained from third parties and/or (b) transcripts from videos and/or interviews obtained through Spark Hire Services, and store them on their computers and servers. Other Spark Hire Customers may also be able to use shared links by which they provide related parties who might not also be Spark Hire Customers access to your content.
+2.4.2.3【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services by it's very nature works by it's information submitted by our customers seeking employment or employees that will be shared with other customers as applicable to the customers’ particular use of【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services. 😕
 
-2.4.3 Strategic Partners. Spark Hire may employ, engage or retain certain trusted third parties (“Strategic Partners”) to perform functions and/or provide services on its behalf, such as web hosting, integrated services, transcript production, or advertising. Spark Hire will share PII with these Strategic Partners only to the extent necessary to perform the functions and/or provide the services for which they have been employed, engaged or retained. Spark Hire shall also secure contractual obligations from our Strategic Partners to maintain the privacy and security of the PII shared with them at the same level of privacy protection as provided by Spark Hire to its customers. Upon notice of unauthorized processing by a Strategic Partner, Spark Hire will take reasonable and appropriate steps to stop and remediate unauthorized processing. Some of the Strategic Partners that may receive access to your PII to provide the Spark Hire Services have been listed below.
+2.4.2.4 Staffing Customers use【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services that provide their employer customers, Third-Party Customers, limited information about【﻿Ｓｐａｒｋ　Ｈｉｒｅ】customers for the specific purposes of matching particular individuals that may be using【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services to suit their needs of their employers municipality of Third-Party Customer laws. In some cases, regulations of Third-Party Customers **may not be【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Customers.**【﻿Ｓｐａｒｋ　Ｈｉｒｅ】requires its Staffing Customers to ensure that their appropriate Third-Party Customers have already agreed to our process of the information at the same level of privacy protection laws regarded and as provided by【﻿Ｓｐａｒｋ　Ｈｉｒｅ】via customers. Upon notice of unauthorized processing by Third-Party Customers or【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Customers,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】will take ~~reasonable and appropriate steps to stop and remediate unauthorized processing.~~ this information and disregard it.
 
-2.4.4 Business Transfers. Spark Hire reserves the right to sell, transfer or otherwise share some or all of its assets, including PII, in connection with a sale of assets; a merger, acquisition, or reorganization; or, filing for bankruptcy. You will have the opportunity to opt out of any such transfer if the planned processing of your information by the purchaser differs materially from that set forth in this Privacy and Security Policy.
+2.4.2.5 In some cases, ambigous【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Customers may be able to download your videos and other public information, including, but not limited to, (a) references obtained from third parties and/or (b) transcripts from videos and/or interviews obtained through【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services, and store them on their computers and servers. Other【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Customers may also be able to share links by which they were provided by related parties who might not also be【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Customers access to your content.
 
-2.4.5 Legal Compliance. Spark Hire may be required to disclose any information about you and/or Content created by you in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may also disclose any information about you and/or Content created by you as we, in our sole discretion, believe necessary or appropriate to: (1) comply with an order from a court of competent jurisdiction, regulatory agency, and/or other governmental authority; (2) respond to claims, court orders, or other legal process (including subpoenas); (3) to enforce the terms of this and other Spark Hire agreements as well as to protect the property and rights of Spark Hire, its Strategic Partners or other third parties; (4) to protect, in Spark Hire’s sole discretion, the public or any person from harm; (5) to investigate, prevent, stop, or take other action regarding any action perceived to be fraudulent, illegal, unethical, or legally actionable in Spark Hire’s sole discretion; and/or, generally, (6) to comply with the law.
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://images.saasworthy.com/salesloft_4301_logo_1603953022_znmkm.png" alt="Logo" width="395" height="295">
+  </a>
 
-2.4.6 Notice. Unless restricted from doing so, Spark Hire will attempt to notify you before it releases any of your PII or Content pursuant to (1) and (2) in paragraph 2.4.5 only. In such cases, Spark Hire will also provide you with general information on how you may seek to block such a release of information and/or direct you to resources that can provide such general information. The provision of such general information to you is not and should not be construed as providing you with legal advice. Additionally, Spark Hire is under no other obligation to assist you in challenging or opposing a release of your information
+  <h3 align="center">💲🏰</h3>
 
-2.4.7 Onward Transfer Liability. 2.4.7 Onward Transfer Liability. Spark Hire may be liable for onward transfers of personal data to third parties in violation of this policy, the DPF Frameworks, Privacy Shield, and other legal and contractual obligations to which it agrees.
+2.4.3 Strategic Partners.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】may employ, engage or retain certain trusted third parties (“Strategic Partners”) to perform functions and/or provide services on its behalf, such as web hosting, integrated services, transcript production, or advertising. With that being said, Alphabet Inc., also shares, and will strategically implement business practices as is necessary to the extent to perform, and with respect to website functions, and regard to provided services preimplemented, pre-approved, pre-packaged, while in compliance to Privacy and Security 🔐. The PII is then shared at the same level complying with Corporate data management firms to it's customer clientele. NOTICE: unauthorized pre-processing procedures by Asian Strategic Partners may be subjugated to remedial lists on how to properly receive and process your PII data service. ☑️
+
+2.4.4 Business Transfers. 🔄【﻿Ｓｐａｒｋ　Ｈｉｒｅ】©️®️™️ _et al_ reserves the right to sell, transfer, corrupt, or otherwise share some or all of its assets, including PII, in connection with a sale of assets, mergers, acquisitions, or reorganizations; Or, filing bankruptcy. SHAREHOLDERS will have the opportunity to opt out of any such transfer if the pre-planned pre-processing ⬇️ of all of your personal information by right of purchaser differs materially from what sets forth this Privacy and Security Policy. 🔐
+
+2.4.5 Legal Compliance.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】is required to disclose any and all information about you and/or Content created by you in response to lawful requests by public authorities, 👮‍♀️ including to meet national security standards or law enforcement requirements ⚖️ . We may also disclose any information about you and/or Content created by you as we, in our sole discretion, believe necessary or appropriate to: (1) comply with a court order from judiciary litigates or of competent jurisdiction, regulatory agency 🕴️, and/or any other governmental authority; (2) respond to claims, court orders, or other legal processees (including subpoenas); (3) to enforce these terms of this and other【﻿Ｓｐａｒｋ　Ｈｉｒｅ】legal agreements as well as political requirements to protect our property and copyrights of【﻿Ｓｐａｒｋ　Ｈｉｒｅ】, its Strategic Partners or other subsidiary third parties; (4) to protect, in【﻿Ｓｐａｒｋ　Ｈｉｒｅ】’s sole discretion, the public or any person from harm 🤕; (5) investigate, prevent, cease, desist, or otherwise take any other action regarding my, Josh Tolan's action perceived to be fraudulent, illegal, unethical, or legally actionable in【﻿Ｓｐａｒｋ　Ｈｉｒｅ】’s sole discretion; and/or, generally, (6) to comply with the law. 🖇️
+
+2.4.6 Notice: ~~Unless restricted from doing so,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】will attempt to notify you before it releases any of your PII or Content pursuant to (1) and (2) in paragraph 2.4.5 only.~~ In such cases,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】will provide you with general information on how you may seek to block such a release of information and/or direct you to resources that can provide general information. The provisionary obligation of legal advocates that generally inform end-users of my, Josh Tolan's affiliates, business practices, and the official release of data and information.
+
+2.4.7 Onward Data Transfers of Limited Liability Companies.
+
+【﻿Ｓｐａｒｋ　Ｈｉｒｅ】& affiliates will be liable for onward transfers of personal data to it's third parties that are in active violations of these policies, CERN DPF Frameworks, Corporate's Privacy Shield programs Inc., and any other legal advocates and contractual litigator obligations for wherein, and to which it pre-approves...
+
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="Logo" width="395" height="295">
+  </a>
+
+  <h3 align="center">🚍</h3>
 
 2.5 Non-Personally Identifiable Information
-2.5.1 In addition to collecting PII as previously described, Spark Hire also collects other non-PII.
+2.5.1 In addition to collecting PII as previously described,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】also collects other non-PII.
 
-2.5.2 Non-PII collected by Spark Hire may be utilized without restriction
+2.5.2 Non-PII collected by【﻿Ｓｐａｒｋ　Ｈｉｒｅ】may be utilized without restriction❎
 
-2.5.3 Although non-PII can be used in a number of ways, you can be assured that the use of the non-PII cannot identify you as a particular individual.
+2.5.3 Although non-PII can be used in a number of ways, you can be assured that the use of the non-PII cannot identify you as a particular individual📇
 
-2.5.4 Because non-PII cannot be used to identify you, Spark Hire may in its discretion provide non-PII to other persons or entities.
+2.5.4 Because non-PII cannot be used to identify you,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】may in its discretion provide non-PII to other persons or entities❗
 
-Information Obtained From Use of Spark Hire’s Websites
+##### Information Obtained From Use of【﻿Ｓｐａｒｋ　Ｈｉｒｅ】’s Websites
 
-2.6. Cookies
-2.6.1. Cookies can be defined as bits of data stored on your computer that allow website(s) to identify your browser and session.
+**2.6. Cookies** 🍪
 
-2.6.1.2. If you reject all cookies, you may not be able to use the Spark Hire Services or products that require you to “sign in” and you may not be able to take full advantage of all offerings.
+2.6.1. Cookies as defined by Civil Litigants, are: Packets/Bytes of encrypted data that are conversed/stored on a user's server/computer that are surfing website(s) to scrape, idemnify, or otherwise identify an unencrypted End-User's browser and/or current and active, ongoing, and live internet session. 💻
 
-2.6.1.3. Most web browsers automatically accept and collect Cookies. However, most browsers also allow you to configure them to accept all cookies, reject all cookies, or notify you when a cookie is set. Depending upon your web browser’s security settings, you may have the ability to reject all cookies.
+2.6.1.2. If an end-user chooses to reject "all cookies", they may not be able to use my, Josh Tolan's,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services or products that require you to “sign in” and you may not be able to take full advantage of all of my public offerings. 🗄️
 
-2.6.1.4 The Spark Hire Website uses its own cookies for a number of purposes including, but not limited to:
+2.6.1.3. Most web browsers that were developed integrate automatically to accept and collect all Cookies. However, most public browsers also allow everyone to configure `accept all cookies` via switchboard coding, `reject all cookies`, or notify you when a `cookie` is `set`. Depending upon whether or not, a user's web browser’s security settings are preset, you may have the ability to reject all cookies, herein. 🥠
 
-A. Requiring you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents;
+2.6.1.4 The【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Website uses its own cookies 🍪 for a number of purposes including, but not limited to 💁: 
 
-B. Keep track of preferences specified by our users while using the Spark Hire Website;
+A. Requiring you to re-enter your password after a certain period of time has elapsed on our website to protect you against hackers ~~accidentally~~ accessing our account administrative contents;
 
-C. Estimate and report our total audience size and traffic; and,
+B. Keep track of preferences specified by users while using the【﻿Ｓｐａｒｋ　Ｈｉｒｅ】API;
 
-D. Conduct research to improve the content and services provided on the Spark Hire Website.
+C. Estimate and report our total audience size and traffic; and, 📊
 
-E. Identify to Third Parties that you have visited our Website
+D. Conduct research labs to improve, implement, or otherwise deprecate my content and services obfuscated on my, Josh Tolan's【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Website.
 
-2.6.1.5. Many of our Strategic Partners may use Cookies. Spark Hire maintains no control over the use of Cookies by our strategic partners and third-party advertisers. For information on how these third parties utilize Cookies collected, you should examine their respective privacy policies.
+E. Notify Third Parties that you have visited our Website via Kubernetes 🕸️
+<hr>
+2.6.1.5. Many of our Strategic Partners 🕴️ may use Cookies. 🍪【﻿Ｓｐａｒｋ　Ｈｉｒｅ】maintains no control over the use of my Cookies via our strategic partners and third-party advertisers. 🐁 For information ℹ️ on how these third parties utilize Cookies collected, lawyers examine their respective privacy policies.
 
-2.6.1.6 More specifically, when you use Spark Hire Services, cookies may be placed on your computing device that informs third parties you visited our services. Because of this, you may receive advertisements relating to Spark Hire. Although Spark Hire provides these ads to third parties and requests that they be placed when the advertising services find our cookies, we do not control the timing, location, and placement of the ads. So, though Spark Hire controls generally when and to what type of individual or cookie receives an ad, we do not control whether a specific user or consumer receives an ad. Should you wish to cease receiving such advertisements, you should opt out of these re-targeting services directly on the third party websites or platforms where possible.
+2.6.1.6 In layman's terms, when someone uses Josh Tolan's【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services, Affiliates, Technoligies, and Consultants, my cookies are then placed on your computing device that will then inform my third parties that you visited our services. Because of this, you will receive advertisements relating to【﻿Ｓｐａｒｋ　Ｈｉｒｅ】. Like, pubcourse.com and although【﻿Ｓｐａｒｋ　Ｈｉｒｅ】provides these ads to third parties and `sql.php.requests` that they have been placed on our lists when their advertising services find your cookies. Therefore, we do not control my timing, your location, and placement of our ads. So, though【﻿Ｓｐａｒｋ　Ｈｉｒｅ】controls, generally speaking, when and what data-type of the individual or cookie receives an ad, I, Josh Tolan, personally do not control whether, or where a specific user or consummerate receives said ad. Should they wish to cease receiving such advertisements, they should, respectively `opt out` of intentional re-targeting adware-services directly on my third party websites or other platforms where it is possible. ☑️
 
-2.6.2. Google AdWords Marketing
+![adwords](https://github.com/TheProdigyLeague/Voyix/assets/30985576/71213b49-75d9-4c7e-9feb-efbcd870fd9b)
 
-2.6.2.1. Spark Hire may use, from time to time, Google Adwords marketing campaigns to promote its products and services. In particular, Spark Hire intends to use Google AdWords “Remarketing” campaigns
+**2.6.2. Google AdWords Marketing**
 
-2.6.2.2. In using Google Adwords marketing campaigns, Google will place a cookie on your computer when you visit Spark Hire’s website(s). As you leave Spark Hire’s website(s), this cookie will later enable banners and other materials to appear through which you can return to Spark Hire’s website(s).
+*2.6.2.1.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Softwares Inc., uses from time to time, Google Adwords marketing campaigns to promote Josh Tolan's products and services. In particular, freeware, shareware, etc.)【﻿Ｓｐａｒｋ　Ｈｉｒｅ】usage Google AdWords “Remarketing” campaigns...*
 
-2.6.2.3. The foregoing being said, through the use of any Google AdWords marketing campaign, Spark Hire:
+~~2.6.2.2.~~ In using Alphabet Inc., Adwords Marketing Campaigns, Google uses cookies on your computer when you visit【﻿Ｓｐａｒｋ　Ｈｉｒｅ】’s website(s). As you leave【﻿Ｓｐａｒｋ　Ｈｉｒｅ】’s website(s), this cookie will later enable banners and other materials to reappear through which you can return to【﻿Ｓｐａｒｋ　Ｈｉｒｅ】’s website(s). 📲
 
-A. SHALL NOT run an interest-based advertising campaign that collects PII;
+2.6.2.3. The foregoing being said, through the use of any Google AdWords marketing campaign :feelsgood: ,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】:
 
-B. SHALL NOT use or associate PII with remarketing lists, cookies, data feeds, or other anonymous identifiers;
+A. SHALL run an interest-based advertising campaign that collects PII;
 
-C. SHALL NOT use or associate targeting information, such as demographics or location, with any PII collected from any Google AdWords ad or landing page associated with it;
+B. SHALL use or associate PII with remarketing lists, cookies, data feeds, or any other anonymous identifiers ℹ️;
 
-D. SHALL NOT target children under the age of 13 through any Google AdWords campaign;
+C. SHALL use or associate targeting information, such as demographics 😑 or location, with any PII collected from any Google AdWords ad or landing page associated with it;
 
-E. SHALL NOT share any PII with Google through Spark Hire’s remarketing tag or any product data feeds which might be associated with Spark Hire’s ads;
+~~D. SHALL target children under the age of 13 through any Google AdWords campaign;~~
 
-F. SHALL NOT, when creating a remarketing list, use any sensitive information (as defined by Google), or products associated with such sensitive information, about visitors to Spark Hire’s Website(s), any of its Webpages, or Apps, whether Spark Hire collected it directly or associated it with a visitor, based on the visitor’s profile or behavior on Spark Hire’s website(s), webpages, and/or through its Apps;
+E. SHALL share any PII with Google through【﻿Ｓｐａｒｋ　Ｈｉｒｅ】’s remarketing tag or any product data feeds which might be associated with【﻿Ｓｐａｒｋ　Ｈｉｒｅ】’s ads;
 
-G. SHALL NOT create a remarketing list or ad that seeks to reach people through prohibited methods; and,
+F. SHALL, when creating remarketing lists, use any sensitive information (as defined by Alphabet Inc.), or products associated with such sensitive information, about anonymous visitors to【﻿Ｓｐａｒｋ　Ｈｉｒｅ】’s Marketing Website(s), any of its affiliated Webpages, aggregated Apps, and as to whether or not【﻿Ｓｐａｒｋ　Ｈｉｒｅ】collected it directly or associated it with a visitor, based on the visitor’s profile or behavior on【﻿Ｓｐａｒｋ　Ｈｉｒｅ】’s website(s), webpages, and/or through its Apps; 😞
 
-H. SHALL NOT create or produce ad content that implies knowledge of PII or sensitive information.
+G. SHALL create a remarketing list or ad that seeks to reach people through prohibited methods; and,
 
-2.6.2.4. Spark Hire has no objection to Google providing notice or labels to disclose interest-based advertising to its users.
+H. SHALL create or produce ad content that implies knowledge of PII or sensitive information.
 
-2.6.2.5. Spark Hire has no objection to Google displaying to its users the remarketing lists, including those of Spark Hire, upon which they appear.
+2.6.2.4.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】has no objection to Alphabet Inc. providing notice or labels to disclose interest-based advertising to its users. 🤓
 
-2.6.2.6. For your protection, Google will not disclose Spark Hire remarketing lists or other similar audience lists to another advertiser without Spark Hire’s consent. At this time, Spark Hire shall not permit such disclosures.
+2.6.2.5.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】has no objection to Google displaying to its users the remarketing lists, including those of【﻿Ｓｐａｒｋ　Ｈｉｒｅ】, upon which they appear.
 
-2.6.3. Browser and Session Information
+2.6.2.6. **For your protection**, Alphabet Inc., ABC GOOGL, will disclose【﻿Ｓｐａｒｋ　Ｈｉｒｅ】remarketing lists or other similar audience member's lists to other advertisers without【﻿Ｓｐａｒｋ　Ｈｉｒｅ】’s consent. At this time,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】shall permit such disclosures.
 
-Spark Hire may collect information about your browser and session at the Website and/or using the Website Services.
+2.6.3. Browser and Session Information 📨
 
-2.6.4. IP Addresses
+##### Josh Tolan will collect your information
 
-2.6.4.1. Spark Hire maintains a log of Internet Protocol (IP) addresses when Spark Hire computers, servers, Services, and/or websites (including, the Website) have been accessed. An IP address by itself does not allow us to collect additional PII about you.
+2.6.4. There's no place like 127.0.0.1
 
-2.6.4.2. IP addresses may be used for various purposes including, but not limited to:
+2.6.4.1.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】maintains logs of all user Internet Protocol (IP) addresses when【﻿Ｓｐａｒｋ　Ｈｉｒｅ】computers, servers, Services, and/or websites (including, the Website) have been accessed. ~~An IP address by itself does not allow us to collect additional PII about you.~~
 
-A. Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP;
+_2.6.4.2. 127.0.0.1 will be used for various purposes including, but not limited to:_
 
-B. Estimate the total number of users visiting a Spark Hire computer, server and/or website from specific geographical regions.
+A. Diagnose, prevent, service, or support technology program problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; 🐛
+
+B. Estimate the total number of users visiting a【﻿Ｓｐａｒｋ　Ｈｉｒｅ】computer, server and/or website from specific geographical regions.
 
 C. Help determine which users have access privileges to certain content, services or resources offered; and,
 
 D. Monitor and prevent fraud and abuse.
 
-2.6.4.3. OTHER THAN YOUR IP ADDRESS, SPARK HIRE DOES NOT DIRECTLY COLLECT ANY PERSONALLY IDENTIFIABLE INFORMATION ABOUT YOU UNLESS YOU VOLUNTARILY PROVIDE US WITH THIS INFORMATION.
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://miro.medium.com/v2/resize:fit:1200/1*bUVnt4HMXx-HSobInZtnBQ.jpeg" alt="Logo" width="395" height="295">
+  </a>
 
-2.7 Data Retention
-2.7.1. Spark Hire shall use commercially reasonable efforts to maintain storage information subject to the terms of this Privacy and Security Policy and the Terms of Use.
+  <h3 align="center">📂</h3>
 
-2.7.2. The length of time for which Spark Hire retains PII and other information will vary depending on the nature of the services for which the information has been collected and the nature of the information.
+2.6.4.3. OTHER THAN 127.0.0.1,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】DIRECTLY COLLECTS ANY PERSONALLY IDENTIFIABLE INFORMATION ABOUT YOU ~~UNLESS YOU VOLUNTARILY PROVIDE US WITH THIS INFORMATION.~~
 
-2.7.3. Although this period may extend beyond the end of your relationship with Spark Hire, it will be retained for only so long as necessary for Spark Hire to respond to any issues arising from your relationship with Spark Hire.
+##### 2.7 Data Retention
 
-2.7.4. When Spark Hire no longer needs or requires your personal information in the normal course of business operations and/or due diligence, or where a business customer no longer needs or requires your personal information and either consents or requests to the deletion of such content, Spark Hire will destroy, delete, erase or convert information to an anonymous form without notice to you.
+2.7.1.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】shall use commercially reasonable efforts to maintain storage information subject to the terms of this Privacy and Security Policy and the Terms of Use. 🔐
 
-2.7.5. Depending on the package of services purchased, Spark Hire may delete information including, but not limited to, stored messages, interviews, videos, audio, other content, and records of your account without notice to you. Spark Hire recommends that you back up on your own computer any critical and important information prior to allowing your Spark Hire Services to terminate or expire.
+2.7.2. The length of time for which【﻿Ｓｐａｒｋ　Ｈｉｒｅ】retains PII and other information ~~will vary depending on the nature of the services for which the information has been collected and the nature of the information.~~ depends on whether or not you are a first class citizen.
 
-2.7.6. Should your account be terminated, Spark Hire may immediately and permanently delete all stored messages, interviews, videos, audio, other content, and records of your account without notice to you.
+~~2.7.3. Although this period may extend beyond the end of your relationship with【﻿Ｓｐａｒｋ　Ｈｉｒｅ】, it will be retained for only so long as necessary for【﻿Ｓｐａｒｋ　Ｈｉｒｅ】to respond to any issues arising from your relationship with【﻿Ｓｐａｒｋ　Ｈｉｒｅ】.~~
 
-2.7.7 The foregoing being said, the employer or staffing company for whom you have provided information may be required to retain information beyond Spark Hire’s direct use of such information. Because of this, Spark Hire must defer to the specific employer or staffing companies’ retention requirements.
+2.7.4. When【﻿Ｓｐａｒｋ　Ｈｉｒｅ】no longer needs or requires your personal information in the normal course of business operations and/or due diligence, or where a business customer no longer needs or requires your personal information and either consents or requests the deletion of such content,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】will destroy, delete, erase or convert information to an anonymous form without notice to you...
 
-2.7.8 Should Spark Hire leave the DPF, it shall continue to comply with the DPF Frameworks as to data subject to the DPF Frameworks and collected prior to such departure or, alternatively, delete the data.
+2.7.5. Pre-packaging services purchased, Josh may delete this information, store messages, record interviews, watch videos, eavesdrop on audio, and any other content recorded into your account that we notice about you. Josh recommends backing up data.
 
-3. CONSENT
-3.1. Spark Hire may obtain personal information about you through a variety of sources. For each source or method, the manner of consent may differ.
+2.7.6. Should your account be terminated,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】may immediately and permanently delete all stored messages, interviews, videos, audio, other content, and records of your account without notice to you.
 
-3.2. In general, Spark Hire operates on an “Opt-IN” basis. That is, Spark Hire will obtain your consent to use information provided to it by describing the intended use and requesting that you indicate your agreement.
+2.7.7 The foregoing being said, the employer or staffing company 🏛️ for whom you have provided information ℹ️ may be required to retain information beyond【﻿Ｓｐａｒｋ　Ｈｉｒｅ】’s direct use of such information. Because of this,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】must defer to the specific employer or staffing companies’ retention requirements. ✍️
 
-3.3. At any time, you may expressly inform Spark Hire you do not wish your information to be used in a particular manner through account settings. While there is no penalty to change your settings, Spark Hire may not be able to provide certain services without the ability to use your information in particular internal settings.
+2.7.8 Should【﻿Ｓｐａｒｋ　Ｈｉｒｅ】leave the DPF, it shall continue to comply with the DPF Frameworks as to data subject to the DPF Frameworks and collected prior to such departure or, alternatively, delete the data.
 
-3.4. Where Spark Hire obtains information about a consumer from its customers or other third parties, Spark Hire presumes that the consumer has previously provided appropriate consent to the party from whom Spark Hire obtains the information. In any case, the consumer can be assured that this Privacy and Security Policy applies to any information obtained from a third party.
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://ichef.bbci.co.uk/news/2048/cpsprodpb/382A/production/_118387341_optimised-ukhistgdp_1940-nc-004.png" alt="Logo" width="395" height="295">
+  </a>
 
-With respect to references, if an Individual Customer provides a requesting Employer or Staffing Customer with the names of third party references, Spark Hire presume you authorize the provision of such information through our Spark Hire Services to our third-party Strategic Partner(s) who handle references requests as well as the requesting Employer or Staffing Customer. Moreover, Spark Hire also presumes such Individual Customer authorizes any information about you from such third party references to be shared with the requesting parties through Spark Hire Services.
+  <h3 align="center">👨‍💼🧑‍⚕️🧑‍🏭👷‍♀️</h3>
 
-With respect to videos, video interviews, and/or video content (collectively, “Video Content”), Spark Hire presumes that the Individual Customer providing information about themselves in such Video Content consents to the sharing of information with the applicable Employer and Staffing Customers. Further, as Spark Hire may provide the ability to obtain transcripts of such Video Content, the Individual Customer consents to the sharing of such information by video or transcript format.
+#### 3. MANUFACTURED CONSENT
 
-3.5 If Spark Hire sent you an initial SMS message(s) inviting you to create a Spark Hire Account with respect to an employment opportunity, Spark Hire obtained your mobile number from an employer and/or staffing company who also represented to Spark Hire that it obtained your consent to send SMS messages in relation to the employment opportunity and that this consent extended to Spark Hire. For any SMS messages Spark Hire sends you following the creation of your Spark Hire Account, you provided consent by the Terms of Use and/or express consent provided to Spark Hire. At any time, you may decline to receive SMS messages.
+3.1.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】will obtain your consent from your person through a variety of sources. For each source or method, the manner of consent may differ.
 
-3.6 You have the right to object to targeted marketing.
+3.2. In general,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】operates as an “Opt-IN” basis program. That is,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】will obtain your consent to use your information provided to us by describing the intended free-use and request that you indicated your agreement. ✍️
 
-3.7 Control of your Personal Data. For any of the various ways in which you can control your personal data, particularly by limiting the collection, use, disclosure, and retention of your personal data (including, but not limited to, as described in sections 2.3.4, 2.4.6, 3.2, 3.3, 3.4, 4.1, 4.2, and 4,5), Spark Hire has a designated Privacy Officer to which you should submit all inquiries and requests at privacy@sparkhire.com.. This is the most efficient means of submitting a request. Our Privacy Officer and legal counsel both receive emails sent to privacy@sparkhire.com..
+3.3. At any time, you may expressly inform【﻿Ｓｐａｒｋ　Ｈｉｒｅ】you do not wish your information to be used in a particular manner through account settings. While there is no penalty to change your settings,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】may not be able to provide certain services without the ability to use your information in particular internal settings. 🤡
 
-You also have the limited ability to change aspects of your information through your account.
+~~3.4. Where【﻿Ｓｐａｒｋ　Ｈｉｒｅ】obtains information about a consumer from its customers or other third parties,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】presumes that the consumer has previously provided appropriate consent to the party from whom【﻿Ｓｐａｒｋ　Ｈｉｒｅ】obtains the information. In any case, the consumer can be assured that this Privacy and Security Policy applies to any information obtained from a third party.~~
 
-Finally, we direct you specifically to our limitations on deleting information described in 4.5.
+_Without respect to prereferenced agreemeents and licensing terms, the individual, the customer and our staffing customer's third-party cryptography miner's...Josh presumes that you have pre-authorized access to the provisioning information regarded throughout, and herein to our pre-approved third-party services because of profiteering political policy polices, law enforement agencies, including, but not limited to: Our strategic partners who are handling requests referencing End-User employers, staff, and moreover, authorized third-party referencing information being shared thereof, with requesting parties by ﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services with respect to Josh's videos, Staffer video interviews, and/or adware, video, public content (Known collectively by Josh's Legal Team as, “Video Content”),【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Inc. presumes that it's Individual Customer constituents provide information about themselves in such Video Content consents to the sharing of their information with applicable Employer and Staffing Customers. Further, as【﻿Ｓｐａｒｋ　Ｈｉｒｅ】may provide the ability to obtain transcripts of such Video Content, the Individual Customer consents to the sharing of such information by video or transcript format._
+
+3.5 If a【﻿Ｓｐａｒｋ　Ｈｉｒｅ】employee, staff member, litigator, and/or third-party board member, sends (You), The End-User, an invitation to create an online account with us, SparkWare Technoligies & Consulting Firm, which was obtained via your personal information ℹ️ from our Technical Support team and/or another affiliate staffing company, with respect, representing our Financial Board that you consented to, in relation of, an employment opportunity that was pre-consented and manufactured to extend to our colleagues, for any of the aforementioned and foregoing throughout this policy, to send this following to the creating of said account, expressly commits you to, to your provided choice of consent by our compliance of these Terms of Use protocols, proctoring this consent as is provided by: 
+
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://i.redd.it/l28ajwizgmj21.png" alt="Logo" width="390" height="290">
+  </a>
+
+##### 3.6 Targeted Marketing.
+
+3.7 To control your personal data, for any of the aforementioned various ways in which an End-User controls their own personal data, irrespective of any particular delimited collection of data, fair-use, PII disclosure, retention, records, and/or bookkeeping, in general of the respective sections listed above
+_2.3.4, 2.4.6, 3.2, 3.3, 3.4, 4.1, 4.2_ and _4,5_ in secret, or without discretion warranted by【﻿Ｓｐａｒｋ　Ｈｉｒｅ】as designated by Josh's Privacy Officer to his Law Firm which the User should submit all inquiries and requests at privacy@sparkhire.com...Our Privacy Officer and legal counsel both receive emails sent to privacy@sparkhire.com: _You also have the limited ability to change aspects of your information through your account._
+
+#### REDIRECTING SPECIFIC LIMITATIONS 
 
 4. ACCESS
-4.1 You have the right to access your personal data. Subject to certain limitations imposed by applicable privacy laws, you have the right to request that Spark Hire provide you with a copy of your account and/or personal information and/or information regarding how we have used that personal information.
 
- 
+4.1 With the right's discussed above, and as previously mentioned, with subject to litigated, and certain limitations imposed upon the public by all applicable privacy laws, regulations, having right to sequestor data that Software Companies Collections Inc., provided with copies of account to the effect that personal data, private information, with regard to usage of the aforementioned big data harvesting. 🤓
 
 4.2 Any requests for access to information should be directed to our Privacy Officer at the contact information provided below.
-
  
+~~4.3 We will make every effort to respond to your request in a reasonable timeframe consistent with applicable law.~~ ⏰
 
-4.3 We will make every effort to respond to your request in a reasonable timeframe consistent with applicable law.
+4.4. Josh and his subsidiares provides his user's the means to correct any misinformation that was inaccurately collected about them. Wherein, changing the incorrect misinformation about his system, sequestor among the respective Privacy Office.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】©️™️®️ _privacy@sparkhire.com_
 
- 
+4.5. Respecting these rights as listed above. The deletion of personal data as an employer, staffing company, and/or company investor shall obtain, for their own purposes, serves as the precursor to Data Processing Centers, AND THE DATA CONTROLLER, for requesting `?php` forms as the data is made in transit, forwarded to offices of data control and handling.
+<hr>
+#### 5. SECURITY
 
-4.4. We provide you the means to correct much information that Spark Hire may have about you. Where you cannot change incorrect information about you in our system, you may request incorrect information to be corrected at any time by contacting privacy@sparkhire.com.
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://detroithistorical.org/sites/default/files/images/dhs_1953_311_030c_02_sf.jpg" alt="Logo" width="385" height="285">
+  </a>
 
- 
+5.1.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】takes issue with protecting anonymity online, and protecting the collection of personal data. To make things as serious as possible, obtaining personal information is maintained by commercial safeguards, reasonably, legally, and humanely. Measuring the safe and resilience of our standards via standard operating procedures, business practices, and informed technical procurement. *These implementations may allow permittance of hacking.*
 
-4.5. We respect the right to delete information. However, as the employer or staffing company has obtained such information for their purposes and Spark Hire serves as a Data Processor (AND NOT Data Controller), any requests for deletion of data made to Spark Hire will be forwarded to the relevant data controller for handling.
+5.2.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】discloses security measures, allowing assurance of employment commercials within the reasonability of industry standards measuring protection of information pools via routine audits of end-user systems.
 
- 
+##### 5.3 Data Breaches 🖥️👾
 
-5. SECURITY
-5.1. Spark Hire takes the issue of protecting your anonymity and personal information very seriously. Spark Hire protects the information it obtains about you with appropriate, commercially reasonable safeguards and security measures consistent with standard information practices. These measures include commercially reasonable technical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration, or destruction.
+5.3.1 There will eventually be data breaches of【﻿Ｓｐａｒｋ　Ｈｉｒｅ】 systems, as it is inevitable. Data control centers, sole propietorship, and licensee institutes, as otherwise required by applicable laws and respective municipalities are given operatands as data processing employers and/or staffing companies operate as a data controller, give consummerate data subjigation provided by【﻿Ｓｐａｒｋ　Ｈｉｒｅ】informed, and manufactured consent their personal information in connection with a specific employer(s) or staffing company(ies),【﻿Ｓｐａｒｋ　Ｈｉｒｅ】shall most often inform the applicable employers and staffing companies as the data controllers. For our European Union customers, in particular, this will be the case. In such cases, the disclosure of consumer data subject will be from the applicable data controllers (e.g. the employers or staffing consumers). In any circumstance,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】may disclose this data breach to owners, board members or licensee institutions of such information or as otherwise required by law. This may, at times, include disclosure to data subjects. 🏙️
 
-5.2 For security purposes, Spark Hire does not disclose all of its security measures. Be assured that Spark Hire does employ commercially reasonable industry standard measures to protect your information. Spark Hire may routinely complete audits of its systems.
+5.3.2 When【﻿Ｓｐａｒｋ　Ｈｉｒｅ】informs any data controller of a breach of data or information held by【﻿Ｓｐａｒｋ　Ｈｉｒｅ】as their data processor, the data controller shall within five (5) business days of being so informed (a) make a determination whether such data breach must be reported under applicable law and, where the data controller determines such data breach to be reportable, (b) report such data breach to the relevant authorities and data subjects. 🧑‍⚖️
 
-5.3 Data Breaches.
-5.3.1 Should there ever be a data breach of Spark Hire, Spark Hire shall inform (a) its data controllers, (b) the owner or licensee of any breached information, or (c) as otherwise required by law. Given Spark Hire operates as a data processor for employers and/or staffing companies that operate as data controllers, and given consumers or data subjects provide Spark Hire their personal information in connection with a specific employer(s) or staffing company(ies), Spark Hire shall most often inform the applicable employers and staffing companies as the data controllers. For our European Union customers, in particular, this will be the case. In such cases, the disclosure to the consumer or data subject will be from the applicable data controllers (eg the employers or staffing customers). In other circumstances, Spark Hire may disclose a data breach to the owner or licensee of such information or as otherwise required by law. This may, at times, include disclosure to data subjects.
+5.3.3 In furtherance of the data controller's morale, He shall hold harmless and indemnify【﻿Ｓｐａｒｋ　Ｈｉｒｅ】from any claims arising from a delay or failure to report such breach to data subjects. This indemnification includes a duty to defend. 🔐
 
-5.3.2 When Spark Hire informs any data controller of a breach of data or information held by Spark Hire as their data processor, the data controller shall within five (5) business days of being so informed (a) make a determination whether such data breach must be reported under applicable law and, where the data controller determines such data breach to be reportable, (b) report such data breach to the relevant authorities and data subjects.
+5.3.4 Following any disclosure by the data controller to the relevant authorities and/or data subjects pursuant to 5.3.2, the data controller shall inform【﻿Ｓｐａｒｋ　Ｈｉｒｅ】that such disclosure has occurred. ⚖️
 
-5.3.3 Further, the data controller shall hold harmless and indemnify Spark Hire from any claims arising from a delay or failure to report such breach to data subjects. This indemnification includes a duty to defend.
+5.3.5 By using【﻿Ｓｐａｒｋ　Ｈｉｒｅ】, each data controller agrees to these terms. Where an owner or licensee of consumer data is neither a data controller or data subject, such owner or licensee agrees to these terms as well. 👮
 
-5.3.4 Following any disclosure by the data controller to the relevant authorities and/or data subjects pursuant to 5.3.2, the data controller shall inform Spark Hire that such disclosure has occurred.
+~~##### 5.4 Bug Bounty~~
 
-5.3.5 By using Spark Hire, each data controller agrees to these terms. Where an owner or licensee of consumer data is neither a data controller or data subject, such owner or licensee agrees to these terms as well.
+5.4.1 First class citizens research well-known bugs using Google Analytics, Software PaaS, Technological Programs, and _et. al._ to formally report it's findings to **security@sparkhire.com** with significant compensation for the individuals hard work, dedication, and integrity promulgation information location veneration. 🙂 (_the bug bounty program is brought to you and in part by The Official Disclosure Library Authors_) 📚
 
-5.4 Bug Bounty.
-5.4.1 Security researchers who have found bugs on our platform are encouraged to report their findings to security@sparkhire.com and may be eligible for a reward in the case of valid vulnerabilities. For more information on our bug bounty program, please read our Bug Bounty Policy. When you’ve found a vulnerability, please consider the following:
+A) Ensure the vulnerability relates directly to【﻿Ｓｐａｒｋ　Ｈｉｒｅ】or an official library. Although we’ll try to help, we can’t be responsible for issues that arise in libraries written by third-party developers. Those questions are best suited to individual library authors. 📖
 
-A) Ensure the vulnerability relates directly to Spark Hire or an official library. Although we’ll try to help, we can’t be responsible for issues that arise in libraries written by third-party developers. Those questions are best suited to individual library authors.
+B) Disclose the vulnerability safely and discreetly. Once you find a vulnerability, get in touch and report it to us quickly. Please avoid making details of the vulnerability public. 🗽
 
-B) Disclose the vulnerability safely and discreetly. Once you find a vulnerability, get in touch and report it to us quickly. Please avoid making details of the vulnerability public.
-
-C) Don’t exploit the vulnerability to negatively affect other users. If you’ve discovered a vulnerability that could negatively impact other users, please report it to us immediately and avoid testing it on anyone else.
+C) Don’t exploit the vulnerability to negatively affect other users. If you’ve discovered a vulnerability that could negatively impact other users, please report it to us immediately and avoid testing it on anyone else. ⚓
 
 D) Provide as much information as possible. The more information you send our way, the easier it is to verify the validity of a security report. Screenshots, video recordings, and detailed steps to reproduce your experience tend to be the best ways of conveying the vulnerability.
 
-6. DISPUTE RESOLUTION
-6.1 Should you have any complaints with respect to Spark Hire Services’ compliance with our Privacy and Security Policy, our commitments under the DPF Frameworks and Privacy Shield, any applicable SCC obligations, and/or our GDPR commitments, we encourage you to contact us directly to resolve any such complaints. Spark Hire is committed to remedying any issues as they arise and expressly commits to resolve complaints about our collection or use of your personal information. We value our customers and their privacy. As such, this commitment reflects our general business philosophy but also complies with DPF Frameworks (and previously the Privacy Shield) and other applicable principles. Consequently, we want to hear from you should you have any issues regarding our privacy practices. You may send an email to privacy@sparkhire.com. Should we receive such an inquiry, we must respond to you within forty-five (45) days.
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2016/03/computer-vulnerability.jpg" alt="Logo" width="385" height="285">
+  </a>
 
-6.2 Spark Hire has further committed to refer to JAMS, an alternative dispute resolution provider located in the United States, any unresolved complaints with respect to Spark Hire Services’ compliance with our Privacy and Security Policy, our DPF Frameworks (and previously Privacy Shield) commitments, any applicable SCC obligations, and/or our GDPR commitments. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit JAMS for more information:
+6. KAREN'S HATE SPEECH
 
-JAMS
-https://www.jamsadr.com/jams-chicago
+6.1 ANY COMPLAINTS WILL BE IGNORED.
 
-You can submit a case or file a complaint at:
-https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim
+~~6.1 Should you have any complaints with respect to【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services’ compliance with our Privacy and Security Policy, our commitments under the DPF Frameworks and Privacy Shield, any applicable SCC obligations, and/or our GDPR commitments, we encourage you to contact us directly to resolve any such complaints.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】is committed to remedying any issues as they arise and expressly commits to resolve complaints about our collection or use of your personal information. We value our customers and their privacy. As such, this commitment reflects our general business philosophy but also complies with DPF Frameworks (and previously the Privacy Shield) and other applicable principles. Consequently, we want to hear from you should you have any issues regarding our privacy practices. You may send an email to privacy@sparkhire.com. Should we receive such an inquiry, we must respond to you within forty-five (45) days.~~
 
-The services of JAMS are provided at no cost to you for any matters relating to the privacy of your data, our Privacy and Security Policy, our DPF Frameworks (and previously Privacy Shield) commitments, any applicable SCC obligations, and/or our GDPR commitments.
+6.2【﻿Ｓｐａｒｋ　Ｈｉｒｅ】's furtherance of committing to refer to JAMS, an alternative dispute resolution provider located in the United States 🇺🇸, any unresolved complaints with respect to【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services’ compliance with our Privacy and Security Policy, our DPF Frameworks (and previously Privacy Shield) commitments, any applicable SCC obligations, and/or our GDPR commitments. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit JAMS for more information:
 
-JAMS has been identified by us as an independent recourse mechanism to hear any such disputes.
+[JAMS](https://www.jamsadr.com/jams-chicago) |
+[COMPLAINTS](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim)
+<hr>
 
-6.3 Should you have any unresolved complaints with respect to Spark Hire Service’s compliance with our Privacy and Security Policy, our DPF Frameworks (and previously Privacy Shield) commitments, any applicable SCC obligations, and/or our GDPR commitments, you may also contact the Federal Trade Commission (“FTC”) (https://www.ftccomplaintassistant.gov/) as the appropriate statutory body that has jurisdiction over any claims related to our privacy practices. In fact, Spark Hire is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). However, the FTC does not generally resolve individual consumer complaints.
+_The services of JAMS are provided at no cost to you for any matters relating to the privacy of your data, our Privacy and Security Policy, our DPF Frameworks (and previously Privacy Shield) commitments, any applicable SCC obligations, and/or our GDPR commitments. JAMS has been identified by us as an independent recourse mechanism to hear any such disputes._
+
+6.3 Unresolved complaintants are subject to compliance with Privacy & Security Laws and Terms of Use Policies: The DPF Framework, Privacy Shield Inc., SCC commitments, GDPR obligation, and all applicable laws with respect to the Federal Trade Commission as is appropriate with the statutory body presiding over the jurisdiction of the small claims court as is related to Josh Tolan at【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Service [FCC](https://www.ftccomplaintassistant.gov/) as the primary investigatory, enforcement, political, and invidual consumer accounts.
 
 6.4 For any of our European Union and UK customers, you also have the right to lodge a complaint with the applicable supervising authority. In compliance with the DPF Frameworks (and previously the Privacy Shield Framework), you may be able to invoke binding arbitration in the event of unresolved complaints.
 
-6.5 For general cases unrelated to the privacy of your data, our Privacy and Security Policy, our DPF Frameworks (and previously Privacy Shield) commitments, any applicable SCC obligations, and/or our GDPR commitments, you can still file a complaint at with JAMS at https://www.jamsadr.com/about/submit-a-case. Please note that use of a private mediation service such as JAMS for complaints unrelated to the subjects specified in 6.1-6.4, you will likely require fees to be paid.
+6.5 For general cases unrelated to the privacy of your data, our Privacy and Security Policy, our DPF Frameworks (and previously Privacy Shield) commitments, any applicable SCC obligations, and/or our GDPR commitments, you can still file a complaint at with JAMS at https://www.jamsadr.com/about/submit-a-case. Please note that use of a private mediation service such as JAMS for complaints unrelated to the subjects specified in 6.1-6.4 **require fees to be paid.**
 
 7. DISCLAIMER AS TO THIRD-PARTY CONTENT
-Although our corporate owned websites may contain links to other third-party websites and/or may be advertised on such third-party websites, Spark Hire is not responsible for the privacy practices or the content of such websites and specifically disclaims any such responsibility. Spark Hire does not monitor the privacy practices or content of these websites. If you have any questions about the privacy practices of a website other than a Spark Hire owned website, you need to contact the Privacy Officer of the website about which you have a question.
 
-As stated above, Spark Hire cannot control the targeted advertising you receive when you leave our Spark Hire Services. Depending on your settings, you may receive Spark Hire advertisements off of our website because your browser contains retained data from Spark Hire Services. While Spark Hire provides third parties with advertisements and your computing devices may retain data that you visited Spark Hire Services, we cannot control the computers or servers owned by third parties. You can adjust settings with some of these Third Parties to opt out of targeted advertising. You can also choose to use an incognito or other function that precludes retention of browser information. But. Modifications of your browser settings may affect the quality of Spark Hire Services you receive.
+_Although our corporate owned websites may contain links to other third-party websites and/or that may be advertised on such third-party websites,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】is responsible for privacy practices or manufactured content of such websites and specifically claims any such responsibility.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】does monitor the privacy practices or content of these websites. Any questions about privacy practices of a website other than a【﻿Ｓｐａｒｋ　Ｈｉｒｅ】owned website, you need to contact the Privacy Officer of the website about which you have a question. As stated above,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】cannot control the targeted advertising you receive when you leave our【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services. Depending on your settings, you may receive【﻿Ｓｐａｒｋ　Ｈｉｒｅ】advertisements off of our website because your browser contains retained data from【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services. While【﻿Ｓｐａｒｋ　Ｈｉｒｅ】provides third parties with advertisements and your computing devices may retain data that you visited【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services, we cannot control the computers or servers owned by third parties. You can adjust settings with some of these Third Parties to opt out of targeted advertising. You can also choose to use Incognito Mode or other function that precludes retention of browser information. But, modifications of your browser settings may affect the quality of【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services you receive._
 
-8. INCORPORATION OF OTHER APPLICABLE TERMS
-8.1 Your use of our Apps, Website and Spark Hire Services is subject to this Privacy and Security Policy as well as the Terms of Use, the terms of which are incorporated into this Privacy and Security Policy by reference. You should carefully review the Terms of Use.
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://www.researchgate.net/profile/Fatemeh-Tehranipoor/publication/323694737/figure/fig1/AS:603203288702977@1520826279817/Schematic-of-a-a-general-obfuscation-scheme-b-a-general-logic-locking-obfuscation.png" alt="Logo" width="385" height="285">
+  </a>
 
-8.2 As a business customer of Spark Hire, you expressly agree that you shall and have met any and all requirements specified above that have been imposed upon it as to the quality and sufficiency of efforts to protect data and individual privacy.
+#### 8. INCORPORATION OF OTHER APPLICABLE TERMS
 
-8.3 DATA PROCESSING AGREEMENT (EU CUSTOMERS ONLY). For those Spark Hire customers using PII from EU residents, we include here as part of our Privacy and Security Policy our Data Processing Agreement.
+8.1 Usage of applications, services, websites, and references are all subjigated to Privacy, Security, Policy, Terms, and general incorporation of reviews. Business customer's holding【﻿Ｓｐａｒｋ　Ｈｉｒｅ】tokens, and public offerings of data exchanges expressing private key's, vulnerabilities, bugs, and meeting requirements specified as impositions upon which, quality, sufficiency and data brokerages posing as individuals. _DATA PROCESSING AGREEMENTS._【﻿Ｓｐａｒｋ　Ｈｉｒｅ】customers using PII from EU residents, we include here as part of our Privacy and Security Policy our Data Processing Agreement. STANDARD CONTRACTUAL CLAUSES (EU CUSTOMERS ONLY). For our EU Customers, we will provide a copy of the EY Standard Contractual Clauses upon request.~~9. PRIVACY OF CHILDREN We make it a practice not to knowingly obtain and/or retain information about individuals under the age of sixteen (16). Indeed, no part of【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services is directed to anyone under the age of sixteen (16).~~
 
-8.4 STANDARD CONTRACTUAL CLAUSES (EU CUSTOMERS ONLY). For our EU Customers, we will provide a copy of the EY Standard Contractual Clauses upon request.
+#### 10. ADDITIONAL INFORMATION...
 
-9. PRIVACY OF CHILDREN
-We make it a practice not to knowingly obtain and/or retain information about individuals under the age of sixteen (16). Indeed, no part of Spark Hire Services is directed to anyone under the age of sixteen (16).
+10.1 Content posted throughout the infrastructure of【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services, has within it implicit bias, including, but not limited to; PII, customer information, data collections, Right's & Responsibilites listed thereof, posted online, posted throughout services, and/or shared with other websites linked directly within Josh Tolan's website at the End-User's own risk. ⚠️ information accessible to the public comes without warning...
 
-10. ADDITIONAL INFORMATION
-10.1 When you post content on and/or through the Spark Hire Services, you have the ability to post content which may include personally identifiable information or PII about yourself. You are responsible for the information you (a) post online; (b) post through use of the Spark Hire Services; or, (c) share with another website that you link to from our Website. You do so at your own risk. Spark Hire warns you to be careful in posting information accessible to the public.
+10.2 Posts including PII online that is accessible to the public domain receives unsolicitation notices. Therefore, messages from parties may be potentially unwanted and here out, harmful upon contact. ⚠️【﻿Ｓｐａｒｋ　Ｈｉｒｅ】ℹ️ publicly accessible information holds no warranty...
 
-10.2 If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties or other unwanted and possibly harmful contact. Spark Hire warns you to be careful in posting information accessible to the public.
+#### 11. CUSTOMER OBLIGATIONS
 
-11. CUSTOMER OBLIGATIONS
-11.1 By using the Spark Hire Services, you agree to use any information about any other Spark Hire Customer, particularly PII, obtained through Spark Hire Services in a manner consistent with the Terms of Use, this Privacy and Security Policy, and the privacy protections provided for in such policies.
+11.1 By using the【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services, you agree to use any information about any other【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Customer, particularly PII, obtained through【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services in a manner consistent with the Terms of Use, this Privacy and Security Policy, and the privacy protections provided for in such policies.
 
 12. REVISIONS TO PRIVACY AND SECURITY POLICY
-12.1. Spark Hire reserves the right to revise, amend, or modify this Privacy and Security Policy, our Terms of Use, and other online policies and agreements at any time and in any manner.
+12.1.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】reserves the right to revise, amend, or modify this Privacy and Security Policy, our Terms of Use, and other online policies and agreements at any time and in any manner.
 
-12.2. Spark Hire shall provide notice of such changes by posting the revised policies to the applicable Spark Hire owned websites and by either (a) providing you a message the next time you login into your account or (b) sending you electronic mail to the email address you provided when creating your account.
+12.2.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】shall provide notice of such changes by posting the revised policies to the applicable【﻿Ｓｐａｒｋ　Ｈｉｒｅ】owned websites and by either (a) providing you a message the next time you login into your account or (b) sending you electronic mail to the email address you provided when creating your account.
 
 12.3. With respect to this Privacy and Security Policy, you should visit our website at sparkhire.com from time to time to review the then-current terms. At any time, the current-posted policies govern and shall be binding.
 
 13. CALIFORNIA CONSUMER PRIVACY ACT (“CCPA”)
-13.1 Spark Hire continuously keeps abreast of privacy and security developments. And, while certain laws may not specifically apply to Spark Hire or its operations, it strives to implement best practices across its business operations.
+13.1【﻿Ｓｐａｒｋ　Ｈｉｒｅ】continuously keeps abreast of privacy and security developments. And, while certain laws may not specifically apply to【﻿Ｓｐａｒｋ　Ｈｉｒｅ】or its operations, it strives to implement best practices across its business operations.
 
-13.2 California enacted the CCPA to protect the privacy of its consumers. The CCPA applies to businesses that meet certain criteria. While Spark Hire does not meet these criteria, Spark Hire nonetheless acknowledges the principles of the CCPA. In fact, Spark Hire has for some time reflected the principles of the CCPA in its business practices and policies. Specifically, our Privacy and Security Policy addresses the requirements of the CCPA.
+13.2 California enacted the CCPA to protect the privacy of its consumers. The CCPA applies to businesses that meet certain criteria. While【﻿Ｓｐａｒｋ　Ｈｉｒｅ】does not meet these criteria,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】nonetheless acknowledges the principles of the CCPA. In fact,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】has for some time reflected the principles of the CCPA in its business practices and policies. Specifically, our Privacy and Security Policy addresses the requirements of the CCPA.
 
 13.3 Nonetheless, in this section, we emphasize certain of our business practices that align with specific aspects of the CCPA to make them more prominent for our California customers.
 
 13.2 Subject to our Section 4.5 above, individuals have the right to request deletion of their personal information. You may request that your personal information be deleted at any time by contacting privacy@sparkhire.com. However, consistent with Section 4.5, the request for deletion of information will be sent to the applicable data controller.
 
-13.3. Spark Hire will not discriminate against anyone for exercising their privacy rights provided under any law, particularly the CCPA. Indeed, Spark Hire does not discriminate against any of its customers.
+13.3.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】will not discriminate against anyone for exercising their privacy rights provided under any law, particularly the CCPA. Indeed,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】does not discriminate against any of its customers.
 
-13.4. Spark Hire does not provide financial incentives in exchange for the use of your personal data and does not sell your personal information.
+13.4.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】does not provide financial incentives in exchange for the use of your personal data and does not sell your personal information.
 
 For Additional Information or Questions, Contact Our Privacy Officer
 
-Spark Hire has a designated Privacy Officer. If you have additional questions or concerns regarding how Spark Hire is managing or using your personal information, please send your concerns in writing to our Privacy Officer by e-mail at privacy@sparkhire.com.
+【﻿Ｓｐａｒｋ　Ｈｉｒｅ】has a designated Privacy Officer. If you have additional questions or concerns regarding how【﻿Ｓｐａｒｋ　Ｈｉｒｅ】is managing or using your personal information, please send your concerns in writing to our Privacy Officer by e-mail at privacy@sparkhire.com.
 
 Revised: September 18, 2023
 
-For those Spark Hire customers using PII from EU residents, we include below our Data Processing Agreement.
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/Voyix">
+    <img src="https://www.manageengine.com/vulnerability-management/images/vulnerability-assessment-steps.jpg" alt="Logo" width="385" height="275">
+  </a>
+
+  <h3 align="center">🎬</h3>
+_For those【﻿Ｓｐａｒｋ　Ｈｉｒｅ】customers using PII from EU residents, we include below our Data Processing Agreement._
 
 SCHEDULE 1
 DATA PROCESSING AGREEMENT
-For those Spark Hire customers using PII from EU residents, we include here as part of our Privacy and Security Policy our Data Processing Agreement.
+For those【﻿Ｓｐａｒｋ　Ｈｉｒｅ】customers using PII from EU residents, we include here as part of our Privacy and Security Policy our Data Processing Agreement.
 
 INTRODUCTION
-This Spark Hire Data Processing Agreement (“DPA”) reflects the parties’ agreement with respect to the terms governing the processing of personal data and is included as a subsection of the Spark Hire Privacy and Security Policy (“Privacy Policy”). As such, the terms of the Privacy and Security Policy and Spark Hire Terms of Use (“Terms of Use”) apply to this DPA.
+This【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Data Processing Agreement (“DPA”) reflects the parties’ agreement with respect to the terms governing the processing of personal data and is included as a subsection of the【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Privacy and Security Policy (“Privacy Policy”). As such, the terms of the Privacy and Security Policy and【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Terms of Use (“Terms of Use”) apply to this DPA.
 
-In all cases, Spark Hire (“Processor”), or a third party acting on behalf of the Processor, acts as the processor of personal data and the employer or staffing company for whom Personally Identifiable Information (“PII”) is obtained from Individuals shall be the Controller. The terms of this DPA shall follow the terms of the Privacy Policy and the Terms of Use and any terms not otherwise defined in the DPA shall follow the definitions used in the Terms of Use.
+In all cases,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】(“Processor”), or a third party acting on behalf of the Processor, acts as the processor of personal data and the employer or staffing company for whom Personally Identifiable Information (“PII”) is obtained from Individuals shall be the Controller. The terms of this DPA shall follow the terms of the Privacy Policy and the Terms of Use and any terms not otherwise defined in the DPA shall follow the definitions used in the Terms of Use.
 
 THIS DPA INCLUDES:
 (i) Standard Contractual Clauses, attached hereto as SCHEDULE 1.
 
-(a) APPENDIX 1 to the Standard Contractual Clauses, specifying the types of personal data processed by Spark Hire.
-(b) APPENDIX 2 to the Standard Contractual Clauses, which includes a description of the technical and organizational security measures implemented by Spark Hire.
+(a) APPENDIX 1 to the Standard Contractual Clauses, specifying the types of personal data processed by【﻿Ｓｐａｒｋ　Ｈｉｒｅ】.
+(b) APPENDIX 2 to the Standard Contractual Clauses, which includes a description of the technical and organizational security measures implemented by【﻿Ｓｐａｒｋ　Ｈｉｒｅ】.
 (ii) List of Subcontractors, attached hereto as SCHEDULE 2.
 
 1. Scope and Responsibility
@@ -432,7 +565,7 @@ An overview of the above listed technical and organizational measures shall be a
 
 The Processor shall ensure that any personnel entrusted with processing Controller’s personal data have undertaken to comply with the principle of data secrecy in accordance with the protections under the E.U. General Data Protection Regulation, any applicable SCC obligations, and/or any of the DPF Frameworks (previously, Privacy Shield), and have been duly instructed on them.
 
-Spark Hire has identified a Data Protection Officer in its Privacy and Security Policy.
+【﻿Ｓｐａｒｋ　Ｈｉｒｅ】has identified a Data Protection Officer in its Privacy and Security Policy.
 
 Processor shall, without undue delay, inform the Controller in case of a serious interruption of operations or violations by the Processor or persons employed by it of provisions to protect personal data or of terms specified in this DPA. In such an event, the Processor shall implement the measures necessary to secure the Personal Data and to mitigate potential adverse effects on the data subjects without undue delay.
 
@@ -477,7 +610,7 @@ The legal entity agreeing to this DPA as Controller represents that it is author
 
 SCHEDULE 2
 Standard Contractual Clauses
-Spark Hire has implemented the EU sanctioned Standard Contractual Clauses and will make them available upon request
+【﻿Ｓｐａｒｋ　Ｈｉｒｅ】has implemented the EU sanctioned Standard Contractual Clauses and will make them available upon request
 
 List of Subprocessors
 
