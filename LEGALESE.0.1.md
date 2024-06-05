@@ -397,7 +397,9 @@ _2.3.4, 2.4.6, 3.2, 3.3, 3.4, 4.1, 4.2_ and _4,5_ in secret, or without discreti
 4.4. Josh and his subsidiares provides his user's the means to correct any misinformation that was inaccurately collected about them. Wherein, changing the incorrect misinformation about his system, sequestor among the respective Privacy Office.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】©️™️®️ _privacy@sparkhire.com_
 
 4.5. Respecting these rights as listed above. The deletion of personal data as an employer, staffing company, and/or company investor shall obtain, for their own purposes, serves as the precursor to Data Processing Centers, AND THE DATA CONTROLLER, for requesting `?php` forms as the data is made in transit, forwarded to offices of data control and handling.
+
 <hr>
+
 #### 5. SECURITY
 
 <p align="center">
@@ -438,7 +440,7 @@ D) Provide as much information as possible. The more information you send our wa
     <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2016/03/computer-vulnerability.jpg" alt="Logo" width="385" height="285">
   </a>
 
-6. KAREN'S HATE SPEECH
+#### 6. KAREN'S HATE SPEECH
 
 6.1 ANY COMPLAINTS WILL BE IGNORED.
 
@@ -448,6 +450,7 @@ D) Provide as much information as possible. The more information you send our wa
 
 [JAMS](https://www.jamsadr.com/jams-chicago) |
 [COMPLAINTS](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim)
+
 <hr>
 
 _The services of JAMS are provided at no cost to you for any matters relating to the privacy of your data, our Privacy and Security Policy, our DPF Frameworks (and previously Privacy Shield) commitments, any applicable SCC obligations, and/or our GDPR commitments. JAMS has been identified by us as an independent recourse mechanism to hear any such disputes._
@@ -458,7 +461,7 @@ _The services of JAMS are provided at no cost to you for any matters relating to
 
 6.5 For general cases unrelated to the privacy of your data, our Privacy and Security Policy, our DPF Frameworks (and previously Privacy Shield) commitments, any applicable SCC obligations, and/or our GDPR commitments, you can still file a complaint at with JAMS at https://www.jamsadr.com/about/submit-a-case. Please note that use of a private mediation service such as JAMS for complaints unrelated to the subjects specified in 6.1-6.4 **require fees to be paid.**
 
-7. DISCLAIMER AS TO THIRD-PARTY CONTENT
+#### 7. DISCLAIMER AS TO THIRD-PARTY CONTENT
 
 _Although our corporate owned websites may contain links to other third-party websites and/or that may be advertised on such third-party websites,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】is responsible for privacy practices or manufactured content of such websites and specifically claims any such responsibility.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】does monitor the privacy practices or content of these websites. Any questions about privacy practices of a website other than a【﻿Ｓｐａｒｋ　Ｈｉｒｅ】owned website, you need to contact the Privacy Officer of the website about which you have a question. As stated above,【﻿Ｓｐａｒｋ　Ｈｉｒｅ】cannot control the targeted advertising you receive when you leave our【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services. Depending on your settings, you may receive【﻿Ｓｐａｒｋ　Ｈｉｒｅ】advertisements off of our website because your browser contains retained data from【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services. While【﻿Ｓｐａｒｋ　Ｈｉｒｅ】provides third parties with advertisements and your computing devices may retain data that you visited【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services, we cannot control the computers or servers owned by third parties. You can adjust settings with some of these Third Parties to opt out of targeted advertising. You can also choose to use Incognito Mode or other function that precludes retention of browser information. But, modifications of your browser settings may affect the quality of【﻿Ｓｐａｒｋ　Ｈｉｒｅ】Services you receive._
 
