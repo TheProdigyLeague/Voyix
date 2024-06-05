@@ -388,7 +388,7 @@ _2.3.4, 2.4.6, 3.2, 3.3, 3.4, 4.1, 4.2_ and _4,5_ in secret, or without discreti
 
 4. ACCESS
 
-4.1 With the right's discussed above, and as previously mentioned, with subject to litigated, and certain limitations imposed upon the public by all applicable privacy laws, regulations, having right to sequestor data that Software Companies Collections Inc., provided with copies of account to the effect that personal data, private information, with regard to usage of the aforementioned big data harvesting. 🤓
+4.1 With the right's discussed above, and as previously mentioned, with subject to litigated, and certain limitations imposed upon the public by all applicable privacy laws, regulations, having right to sequester data that Software Companies Collections Inc., provided with copies of account to the effect that personal data, private information, with regard to usage of the aforementioned big data harvesting. 🤓
 
 4.2 Any requests for access to information should be directed to our Privacy Officer at the contact information provided below.
  
