@@ -394,7 +394,7 @@ _2.3.4, 2.4.6, 3.2, 3.3, 3.4, 4.1, 4.2_ and _4,5_ in secret, or without discreti
  
 ~~4.3 We will make every effort to respond to your request in a reasonable timeframe consistent with applicable law.~~ ⏰
 
-4.4. Josh and his subsidiares provides his user's the means to correct any misinformation that was inaccurately collected about them. Wherein, changing the incorrect misinformation about his system, sequestor among the respective Privacy Office.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】©️™️®️ _privacy@sparkhire.com_
+4.4. Josh and his subsidiares provides his user's the means to correct any misinformation that was inaccurately collected about them. Wherein, changing the incorrect misinformation about his system, sequester among the respective Privacy Office.【﻿Ｓｐａｒｋ　Ｈｉｒｅ】©️™️®️ _privacy@sparkhire.com_
 
 4.5. Respecting these rights as listed above. The deletion of personal data as an employer, staffing company, and/or company investor shall obtain, for their own purposes, serves as the precursor to Data Processing Centers, AND THE DATA CONTROLLER, for requesting `?php` forms as the data is made in transit, forwarded to offices of data control and handling.
 
@@ -425,7 +425,7 @@ _2.3.4, 2.4.6, 3.2, 3.3, 3.4, 4.1, 4.2_ and _4,5_ in secret, or without discreti
 
 ~~##### 5.4 Bug Bounty~~
 
-5.4.1 First class citizens research well-known bugs using Google Analytics, Software PaaS, Technological Programs, and _et. al._ to formally report it's findings to **security@sparkhire.com** with significant compensation for the individuals hard work, dedication, and integrity promulgation information location veneration. 🙂 (_the bug bounty program is brought to you and in part by The Official Disclosure Library Authors_) 📚
+5.4.1 First class citizens research well-known bugs using Google Analytics, Software PaaS, Technological Programs, and _et al_, to formally report it's findings to **security@sparkhire.com** with significant compensation for the individuals hard work, dedication, and integrity promulgation information location veneration. 🙂 (_the bug bounty program is brought to you and in part by The Official Disclosure Library Authors_) 📚
 
 A) Ensure the vulnerability relates directly to【﻿Ｓｐａｒｋ　Ｈｉｒｅ】or an official library. Although we’ll try to help, we can’t be responsible for issues that arise in libraries written by third-party developers. Those questions are best suited to individual library authors. 📖
 
