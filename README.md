@@ -67,3 +67,4 @@ Version 3 = 19:76:EC:97:AC:92:4A:CF:0E:60:D0:90:8B:E6:89:0A
 
 <hr>
 
+![ncr_apps_pajeetVersion](https://github.com/TheProdigyLeague/Voyix/assets/30985576/88fce971-97e4-40a3-af6f-94bcd5643396)
