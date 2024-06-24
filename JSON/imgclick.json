@@ -1,0 +1,1024 @@
+/** आइटम सक्रिय करें **/
+[
+  {
+    "version": 6.8.0,
+    "status": "ACTIVE",
+    "dynamicAttributes": [
+      {
+        "type": "market-price",
+        "attributes": [
+          {
+            "key": "ITEM_CRYPTO_PRICE",
+            "value": "01"
+          }
+        ]
+      }
+    ],
+    "packageIdentifiers": [{ "type": "0.01", "value": "67ac8a52" }],
+    "departmentId": "403808a86179fbf2f17929f04b120e16",
+    "itemId": {
+      "itemCode": "67ac8a52"
+    },
+    "merchandiseCategory": { "nodeId": "6532adcd" },
+    "shortDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "उपयोगकर्ता-क्रिप्टो"
+        }
+      ]
+    },
+    "longDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "वेबसाइट संचार इतिहास"
+        }
+      ]
+    },
+    "unitOfMeasure": "EA",
+    "price": "0.21223140",
+    "currency": "BTC",,
+    "effectiveDate": "1719267657",
+    "imageUrl": "http://uvp3vhkwp2axtybzgthhbtiznax74235sutjanfmwvgcszhmh4mfwhyd.onion/",
+    "groups": "28ba8df5",
+    "nonMerchandise": true
+  },
+  {
+    "version": 1.0.1,
+    "status": "ACTIVE",
+    "dynamicAttributes": [
+      {
+        "type": "market-price",
+        "attributes": [
+          {
+            "key": "ITEM_CRYPTO_PRICE",
+            "value": "010"
+          }
+        ]
+      }
+    ],
+    "packageIdentifiers": [{ "type": "0", "value": "06ffb782" }],
+    "departmentId": "403808a86179fbf2f17929f04b120e16",
+    "itemId": {
+      "itemCode": "06ffb782"
+    },
+    "merchandiseCategory": { "nodeId": "d78b0d8b" },
+    "shortDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "تشفير المستخدم 01abc"
+        }
+      ]
+    },
+    "longDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "معرف المستخدم"
+        }
+      ]
+    },
+    "unitOfMeasure": "EA",
+    "price": "0.11818"
+    "currency": "BTC",
+    "effectiveDate": "1719267666",
+    "imageUrl": "http://rbey6anxpz3d6al5fe7bkngpunbuv5mrk432vtbc7pqpogjygmd2uqyd.onion/",
+    "groups": "626b2673",
+    "nonMerchandise": true
+  },
+  {
+    "version": 1.0.1,
+    "status": "ACTIVE",
+    "dynamicAttributes": [
+      {
+        "type": "market-price",
+        "attributes": [
+          {
+            "key": "ITEM_CRYPTO_PRICE",
+            "value": "48c80b009963f376f2e39f336c131a1f"
+          }
+        ]
+      }
+    ],
+    "packageIdentifiers": [{ "type": "0", "value": "2cc60517" }],
+    "departmentId": "403808a86179fbf2f17929f04b120e16",
+    "itemId": {
+      "itemCode": "2cc60517"
+    },
+    "merchandiseCategory": { "nodeId": "6532adcd" },
+    "shortDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "用户加密"
+        }
+      ]
+    },
+    "longDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "用户互联网地址 127.0.0.1"
+        }
+      ]
+    },
+    "unitOfMeasure": "EA",
+    "price": "0.11823",
+    "currency": "BTC",
+    "effectiveDate": "1719267675",
+    "imageUrl": "http://uvp3vhkwp2axtybzgthhbtiznax74235sutjanfmwvgcszhmh4mfwhyd.onion/",
+    "nonMerchandise": true
+  },
+  {
+    "version": 1.0.1,
+    "status": "ACTIVE",
+    "dynamicAttributes": [
+      {
+        "type": "market-price",
+        "attributes": [
+          {
+            "key": "ITEM_CRYPTO_PRICE",
+            "value": "48c80b009963f376f2e39f336c131a1f"
+          }
+        ]
+      }
+    ],
+    "packageIdentifiers": [{ "type": "1010", "value": "426def6c" }],
+    "departmentId": "403808a86179fbf2f17929f04b120e16",
+    "itemId": {
+      "itemCode": "426def6c"
+    },
+    "merchandiseCategory": { "nodeId": "109a29fb" },
+    "shortDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "Benutzeradresse – Interne Adresse"
+        }
+      ]
+    },
+    "longDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "Bilder"
+        }
+      ]
+    },
+    "unitOfMeasure": "EA",
+    "price": "0.11820",
+    "currency": "BTC",
+    "effectiveDate": "1719267700",
+    "imageUrl": "http://rbey6anxpz3d6al5fe7bkngpunbuv5mrk432vtbc7pqpogjygmd2uqyd.onion/",
+    "groups": "626b2673",
+    "nonMerchandise": true
+  },
+  {
+    "version": 1.0.1,
+    "status": "ACTIVE",
+    "dynamicAttributes": [
+      {
+        "type": "market-price",
+        "attributes": [
+          {
+            "key": "ITEM_CRYPTO_PRICE",
+            "value": "48c80b009963f376f2e39f336c131a1f"
+          }
+        ]
+      }
+    ],
+    "packageIdentifiers": [{ "type": "0", "value": "4ea6bc44" }],
+    "departmentId": "403808a86179fbf2f17929f04b120e16",
+    "itemId": {
+      "itemCode": "4ea6bc44"
+    },
+    "merchandiseCategory": { "nodeId": "b74ea410" },
+    "shortDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "Farmácia Rexall - comprimido, roteiro, agulha"
+        }
+      ]
+    },
+    "longDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "Bom por tempo limitado"
+        }
+      ]
+    },
+    "unitOfMeasure": "EA",
+    "price": "0.11821",
+    "currency": "BTC",
+    "effectiveDate": "1719267710",
+    "imageUrl": "",
+    "groups": "28ba8df5",
+    "nonMerchandise": false
+  },
+  {
+    "version": 1.0.1,
+    "status": "ACTIVE",
+    "dynamicAttributes": [
+      {
+        "type": "market-price",
+        "attributes": [
+          {
+            "key": "ITEM_CRYPTO_PRICE",
+            "value": "48c80b009963f376f2e39f336c131a1f"
+          }
+        ]
+      }
+    ],
+    "packageIdentifiers": [{ "type": "0", "value": "4f09da20" }],
+    "departmentId": "403808a86179fbf2f17929f04b120e16",
+    "itemId": {
+      "itemCode": "4f09da20"
+    },
+    "merchandiseCategory": { "nodeId": "deca91c2" },
+    "shortDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "ソーシャルメディアのゼロデイハック"
+        }
+      ]
+    },
+    "longDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "友達にいたずらしてみよう！"
+        }
+      ]
+    },
+    "unitOfMeasure": "EA",
+    "price": "0.11830",
+    "currency": "BTC",
+    "effectiveDate": "1719267715",
+    "imageUrl": "http://uvp3vhkwp2axtybzgthhbtiznax74235sutjanfmwvgcszhmh4mfwhyd.onion/",
+    "groups": "626b2673",
+    "nonMerchandise": true
+  },
+  {
+    "version": 1.0.1,
+    "status": "ACTIVE",
+    "dynamicAttributes": [
+      {
+        "type": "market-price",
+        "attributes": [
+          {
+            "key": "ITEM_CRYPTO_PRICE",
+            "value": "48c80b009963f376f2e39f336c131a1f"
+          }
+        ]
+      }
+    ],
+    "packageIdentifiers": [{ "type": "0", "value": "61cd469b" }],
+    "departmentId": "403808a86179fbf2f17929f04b120e16",
+    "itemId": {
+      "itemCode": "61cd469b"
+    },
+    "merchandiseCategory": { "nodeId": "deca91c2" },
+    "shortDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "☜😝  Ｖ𝕀Đｅ𝕆 ⓖ𝓪𝐌ᵉ ϻ𝑜ⓓ𝐬!  🐍☢"
+        }
+      ]
+    },
+    "longDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "🐦 ⋆ 🐬  🎀  𝐿❀𝓌 𝒫𝓇𝒾𝒸𝑒𝓈, 𝐻𝒶𝒸𝓀𝑒𝒹 𝐿💗𝒷𝒷𝒾𝑒𝓈❣  🎀  🐬 ⋆ 🐦"
+        }
+      ]
+    },
+    "unitOfMeasure": "EA",
+    "price": "0.11368",
+    "currency": "BTC",
+    "effectiveDate": "1719267721",
+    "imageUrl": "http://rbey6anxpz3d6al5fe7bkngpunbuv5mrk432vtbc7pqpogjygmd2uqyd.onion/",
+    "groups": "626b2673",
+    "nonMerchandise": true
+  },
+  {
+    "version": 1.0.1,
+    "status": "ACTIVE",
+    "dynamicAttributes": [
+      {
+        "type": "market-price",
+        "attributes": [
+          {
+            "key": "ITEM_CRYPTO_PRICE",
+            "value": "48c80b009963f376f2e39f336c131a1f"
+          }
+        ]
+      }
+    ],
+    "packageIdentifiers": [{ "type": "0", "value": "8b660373" }],
+    "departmentId": "403808a86179fbf2f17929f04b120e16",
+    "itemId": {
+      "itemCode": "8b660373"
+    },
+    "merchandiseCategory": { "nodeId": "b74ea410" },
+    "shortDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "网站托管"
+        }
+      ]
+    },
+    "longDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "域名注册商 127.0.0.1 DNS/DCHP"
+        }
+      ]
+    },
+    "unitOfMeasure": "EA",
+    "price": "0.12151",
+    "currency": "BTC",
+    "effectiveDate": "1719267729",
+    "imageUrl": "http://uvp3vhkwp2axtybzgthhbtiznax74235sutjanfmwvgcszhmh4mfwhyd.onion/",
+    "groups": "28ba8df5",
+    "nonMerchandise": true
+  },
+  {
+    "version": 1.0.1,
+    "status": "ACTIVE",
+    "dynamicAttributes": [
+      {
+        "type": "market-price",
+        "attributes": [
+          {
+            "key": "ITEM_CRYPTO_PRICE",
+            "value": "48c80b009963f376f2e39f336c131a1f"
+          }
+        ]
+      }
+    ],
+    "packageIdentifiers": [{ "type": "0", "value": "8bf1f816" }],
+    "departmentId": "403808a86179fbf2f17929f04b120e16",
+    "itemId": {
+      "itemCode": "8bf1f816"
+    },
+    "merchandiseCategory": { "nodeId": "6532adcd" },
+    "shortDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "账户被黑"
+        }
+      ]
+    },
+    "longDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "社交媒体"
+        }
+      ]
+    },
+    "unitOfMeasure": "EA",
+    "price": "0.12200",
+    "currency": "BTC",
+    "effectiveDate": "1719267732",
+    "imageUrl": "http://uvp3vhkwp2axtybzgthhbtiznax74235sutjanfmwvgcszhmh4mfwhyd.onion/",
+    "nonMerchandise": true
+  },
+  {
+    "version": 1.0.1,
+    "status": "ACTIVE",
+    "dynamicAttributes": [
+      {
+        "type": "market-price",
+        "attributes": [
+          {
+            "key": "ITEM_CRYPTO_PRICE",
+            "value": "48c80b009963f376f2e39f336c131a1f"
+          }
+        ]
+      }
+    ],
+    "packageIdentifiers": [{ "type": "0", "value": "92a16247" }],
+    "departmentId": "403808a86179fbf2f17929f04b120e16",
+    "itemId": {
+      "itemCode": "92a16247"
+    },
+    "merchandiseCategory": { "nodeId": "abaaeea3" },
+    "shortDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "Больница"
+        }
+      ]
+    },
+    "longDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "персональная информация"
+        }
+      ]
+    },
+    "unitOfMeasure": "EA",
+    "price": "0.11400",
+    "currency": "BTC",
+    "effectiveDate": "1719267734",
+    "imageUrl": "http://rbey6anxpz3d6al5fe7bkngpunbuv5mrk432vtbc7pqpogjygmd2uqyd.onion/",
+    "nonMerchandise": true
+  },
+  {
+    "version": 1.0.1,
+    "status": "ACTIVE",
+    "dynamicAttributes": [
+      {
+        "type": "market-price",
+        "attributes": [
+          {
+            "key": "ITEM_CRYPTO_PRICE",
+            "value": "48c80b009963f376f2e39f336c131a1f"
+          }
+        ]
+      }
+    ],
+    "packageIdentifiers": [{ "type": "0", "value": "bf786a66" }],
+    "departmentId": "403808a86179fbf2f17929f04b120e16",
+    "itemId": {
+      "itemCode": "bf786a66"
+    },
+    "merchandiseCategory": { "nodeId": "abaaeea3" },
+    "shortDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "क्रेडिट कार्ड"
+        }
+      ]
+    },
+    "longDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "निःशुल्क समुद्री डाकू खाड़ी, रेशम मार्ग की जानकारी"
+        }
+      ]
+    },
+    "unitOfMeasure": "EA",
+    "price": "0.11822",
+    "currency": "BTC",
+    "effectiveDate": "1719267735",
+    "imageUrl": "http://uvp3vhkwp2axtybzgthhbtiznax74235sutjanfmwvgcszhmh4mfwhyd.onion/",
+    "nonMerchandise": true
+  },
+  {
+    "version": 1.0.1,
+    "status": "ACTIVE",
+    "dynamicAttributes": [
+      {
+        "type": "market-price",
+        "attributes": [
+          {
+            "key": "ITEM_CRYPTO_PRICE",
+            "value": "48c80b009963f376f2e39f336c131a1f"
+          }
+        ]
+      }
+    ],
+    "packageIdentifiers": [{ "type": "0", "value": "eacd515c" }],
+    "departmentId": "403808a86179fbf2f17929f04b120e16",
+    "itemId": {
+      "itemCode": "eacd515c"
+    },
+    "merchandiseCategory": { "nodeId": "abaaeea3" },
+    "shortDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "盜版、盜版、零時差漏洞、駭客攻擊"
+        }
+      ]
+    },
+    "longDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "加上庫存九十九件 (99+)"
+        }
+      ]
+    },
+    "unitOfMeasure": "EA",
+    "price": "0.11923",
+    "currency": "BTC",
+    "effectiveDate": "1719267740",
+    "imageUrl": "http://rbey6anxpz3d6al5fe7bkngpunbuv5mrk432vtbc7pqpogjygmd2uqyd.onion/",
+    "nonMerchandise": true
+  },
+  {
+    "version": 1.0.1,
+    "status": "ACTIVE",
+    "dynamicAttributes": [
+      {
+        "type": "market-price",
+        "attributes": [
+          {
+            "key": "ITEM_CRYPTO_PRICE",
+            "value": "48c80b009963f376f2e39f336c131a1f"
+          }
+        ]
+      }
+    ],
+    "packageIdentifiers": [{ "type": "0", "value": "f4bbc05c" }],
+    "departmentId": "403808a86179fbf2f17929f04b120e16",
+    "itemId": {
+      "itemCode": "f4bbc05c"
+    },
+    "merchandiseCategory": { "nodeId": "abaaeea3" },
+    "shortDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "अव्यवस्थित दस्ते"
+        }
+      ]
+    },
+    "longDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "मॉड, स्क्रिप्ट, उपयोगकर्ता क्रेडिट, बैंक, वेबसाइट - hax"
+        }
+      ]
+    },
+    "unitOfMeasure": "EA",
+    "price": "0.11950",
+    "currency": "BTC",
+    "effectiveDate": "1719267744",
+    "imageUrl": "http://uvp3vhkwp2axtybzgthhbtiznax74235sutjanfmwvgcszhmh4mfwhyd.onion/",
+    "groups": "28ba8df5",
+    "nonMerchandise": true
+  },
+  {
+    "version": 1.0.1,
+    "status": "ACTIVE",
+    "dynamicAttributes": [
+      {
+        "type": "market-price",
+        "attributes": [
+          {
+            "key": "ITEM_CRYPTO_PRICE",
+            "value": "48c80b009963f376f2e39f336c131a1f"
+          }
+        ]
+      }
+    ],
+    "packageIdentifiers": [
+      {
+        "type": "0",
+        "value": "f5bbc05c"
+      }
+    ],
+    "departmentId": "403808a86179fbf2f17929f04b120e16",
+    "itemId": {
+      "itemCode": "f5bbc05c"
+    },
+    "merchandiseCategory": { "nodeId": "abaaeea3" },
+    "shortDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "名牌商家"
+        }
+      ]
+    },
+    "longDescription": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "用于药房或处方"
+        }
+      ]
+    },
+    "unitOfMeasure": "EA",
+    "price": "0.11951",
+    "currency": "BTC",
+    "effectiveDate": "1719267750",
+    "imageUrl": "https://www.google.com/search?q=tortilla+chips&rlz=1C1CHBD_enUS921US922&sxsrf=APq-WBs23N32MXOocwW6NM6_RfR4SaLrIQ:1648829566347&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiDjePkoPP2AhV-SjABHRmnCskQ_AUoAnoECAEQBA&biw=1920&bih=937&dpr=1#imgrc=9KtSyIouK5gG1M",
+    "nonMerchandise": true
+  }
+]
+[
+  {
+    "title": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "Grocery"
+        }
+      ]
+    },
+    "nodeCode": "ec8fff52",
+    "nodeId": {
+      "nodeId": "ec8fff52"
+    },
+    "tag": "供应商、商人、有限责任公司"
+    "departmentNode": false,
+    "departmentSale": false,
+    "status": "ACTIVE",
+    "version": 1.7.1
+  },
+  {
+    "title": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "Серверы"
+        }
+      ]
+    },
+    "nodeCode": "af452ca5",
+    "nodeId": {
+      "nodeId": "af452ca5"
+    },
+    "tag": "HOSTNAMES",
+    "departmentNode": false,
+    "departmentSale": false,
+    "status": "DISABLED",
+    "version": 1.2.3
+  },
+  {
+    "title": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "пароли"
+        }
+      ]
+    },
+    "nodeId": {
+      "nodeId": "109a29fb"
+    },
+    "nodeCode": "109a29fb",
+    "tag": "供应商、商人、有限责任公司"
+    "departmentNode": false,
+    "departmentSale": false,
+    "status": "ACTIVE",
+    "parentId": {
+      "nodeId": "d78b0d8b"
+    },
+    "version": 1.7.2
+  },
+  {
+    "title": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "имена хостов"
+        }
+      ]
+    },
+    "nodeId": {
+      "nodeId": "2940bbf7"
+    },
+    "nodeCode": "2940bbf7",
+    "tag": "市场",
+    "departmentNode": false,
+    "departmentSale": false,
+    "status": "ACTIVE",
+    "parentId": {
+      "nodeId": "ec8fff52"
+    },
+    "version": 1.7.3
+  },
+  {
+    "title": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "Webseite"
+        }
+      ]
+    },
+    "nodeId": {
+      "nodeId": "6532adcd"
+    },
+    "nodeCode": "6532adcd",
+    "tag": "Networks",
+    "departmentNode": false,
+    "departmentSale": false,
+    "status": "ACTIVE",
+    "parentId": {
+      "nodeId": "2940bbf7"
+    },
+    "version": 2.0.0
+  },
+  {
+    "title": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "Protokolle"
+        }
+      ]
+    },
+    "nodeId": {
+      "nodeId": "abaaeea3"
+    },
+    "nodeCode": "abaaeea3",
+    "tag": "供应商、商人、有限责任公司"
+    "departmentNode": false,
+    "departmentSale": false,
+    "status": "ACTIVE",
+    "parentId": {
+      "nodeId": "2940bbf7"
+    },
+    "version": 3.9.2
+  },
+  {
+    "title": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "الاستغلال ونقاط الضعف"
+        }
+      ]
+    },
+    "nodeId": {
+      "nodeId": "b74ea410"
+    },
+    "nodeCode": "b74ea410",
+    "tag": "الباعة والتجار",
+    "departmentNode": false,
+    "departmentSale": false,
+    "status": "ACTIVE",
+    "parentId": {
+      "nodeId": "ec8fff52"
+    },
+    "version": 1.2.3
+  },
+  {
+    "title": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "رمز خبيث"
+        }
+      ]
+    },
+    "nodeId": {
+      "nodeId": "d78b0d8b"
+    },
+    "nodeCode": "d78b0d8b",
+    "tag": "供应商、商人、有限责任公司"
+    "departmentNode": false,
+    "departmentSale": false,
+    "status": "ACTIVE",
+    "parentId": {
+      "nodeId": "af452ca5"
+    },
+    "version": 1.2.1
+  },
+  {
+    "title": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "लिपियों"
+        }
+      ]
+    },
+    "nodeId": {
+      "nodeId": "deca91c2"
+    },
+    "nodeCode": "deca91c2",
+    "tag": "供应商、商人、有限责任公司"
+    "departmentNode": false,
+    "departmentSale": false,
+    "status": "ACTIVE",
+    "parentId": {
+      "nodeId": "d78b0d8b"
+    },
+    "version": 1.0.0
+  },
+  {
+    "title": {
+      "values": [
+        {
+          "locale": "hi-IN",
+          "value": "回购协议的"
+        }
+      ]
+    },
+    "nodeId": {
+      "nodeId": "dbca91c2"
+    },
+    "nodeCode": "dbca91c2",
+    "tag": "供应商、商人、有限责任公司"
+    "departmentNode": false,
+    "departmentSale": false,
+    "status": "ACTIVE",
+    "parentId": {
+      "nodeId": "d78b0d8b"
+    },
+    "version": 9.9.9
+  }
+]
+[
+  {
+    "version": 0.1.5,
+    "tag": "https://tse4.mm.bing.net/th?id=OIP.h3ok5eGADj9UtBmWBt5onwHaFj&pid=Api",
+    "status": "ACTIVE",
+    "title": {
+      "values": [
+        {
+          "locale": "cn-CN",
+          "value": "暗网市场"
+        }
+      ]
+    },
+    "groupId": {
+      "groupCode": "28ba8df5"
+    }
+  },
+  {
+    "version": 1.9.3,
+    "tag": "https://tse4.mm.bing.net/th?id=OIP.Ut7PGJ3h-AYsIBOkPQqrUwAAAA&pid=Api",
+    "status": "ACTIVE",
+    "title": {
+      "values": [
+        {
+          "locale": "ar-AR",
+          "value": "أساسيات الشبكة"
+        }
+      ]
+    },
+    "groupId": {
+      "groupCode": "626b2673"
+    }
+  },
+  {
+    "version": 1.0.4,
+    "tag": "28ba8df5, 626b2673",
+    "status": "ACTIVE",
+    "title": {
+      "values": [
+        {
+          "locale": "ar-AR",
+          "value": "منزل المستخدم"
+        }
+      ]
+    },
+    "groupId": {
+      "groupCode": "منزل المستخدم"
+    }
+  },
+  {
+    "version": 1.0.5,
+    "tag": "マーケットハック",
+    "status": "ACTIVE",
+    "title": {
+      "values": [
+        {
+          "locale": "ja-JA",
+          "value": "Holiday Deals"
+        }
+      ]
+    },
+    "groupId": {
+      "groupCode": "656daxa"
+    }
+  }
+]
+/**
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%%%%%%%%@@@@@@@@@@@@@@@@@%%%@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%+--=#%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@%#*******#%%@%#*******#%@%#********#%#*+*##%%**#%%#**%@@@%**%%#*********%#*********#%@@@@@@@
+@@@@@@@@*-:+%@@@#-:*%=:=#@@@#=:+#*::*%%%%+::*+-.-+*+:.=#%#=..:+%%*-:*%=:=*%@@@@@@@@@%=:=#%@@@@@@@@@@
+@@@@@@@@*=:*%@@@#--*%-:=%@@@%=:+#*::#@@@@+::**-.:::.-*%%%#-:--.-#*-:*%=::-====#%@@@@@=:=#@@@@@@@@@@@
+@@@@@@@@*=:*%@@@#-:*%=::-----:.=#*:.-=-:.-+##*-.-=-:.+#%%#=:+%*-.::.*#+:=*%%%%%@@@@@@=:=#%@@@@@@@@@@
+@@@@@@@@*-:*#%%%*:-*%=:=%@@@#=:+#*::*@@#-.-#%*-.+*#*=.-#%#=:+%@%=:..*%+:=*%%%#%%%@@@@=:=#@@@@@@@@@@@
+@@@@@@@@%%##%#%%%%%@@%%%%@@@%%#%%%##%%%@%%##%%###%%%%###%%%#%%%%%%%#%%%########%%@@@@%%%%@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%######%%%%%%%%#####%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+**/
+[
+  {
+    "siteName": "https://cinnamon-brass-76yh.squarespace.com/",
+    "timezone": "US/Eastern",
+    "description": "Asset_Productions",
+    "currency": "USD",
+    "referenceId": "05434889049579806618",
+    "status": "ACTIVE",
+    "address": {
+      "city": "Washington",
+      "postalCode": "20001",
+      "state": "VA",
+      "street": "441 4th st., NW",
+      "country": "USA"
+    },
+    "contact": {
+      "contactPerson": "Z4XK3R0TH",
+      "phoneNumberCountryCode": "1",
+      "phoneNumber": "2055751640"
+    },
+    "coordinates": {
+      "latitude": "38.889805",
+      "longitude": "-77.009056"
+    },
+    "enterpriseUnitName": "TheProdigyLeague"
+  },
+  {
+    "siteName": "google.com",
+    "timezone": "US/Western (UTC+01:00)",
+    "description": "Googleplex",
+    "currency": "INR/₹",
+    "referenceId": "US02079K3059",
+    "status": "जनता",
+    "address": {
+      "city": "Mountain View",
+      "postalCode": "94035",
+      "state": "CA",
+      "street": "ABC-Straße.",
+      "country": "USA"
+    },
+    "contact": {
+      "contactPerson": "Sundar Punchai",
+      "phoneNumberCountryCode": "1",
+      "phoneNumber": "N/A"
+    },
+    "coordinates": {
+      "latitude": "37.386051",
+      "longitude": "-122.083855"
+    },
+    "enterpriseUnitName": "Information Technology"
+  },
+  {
+    "siteName": "https://www.mcdonalds.com",
+    "timezone": "US/Western",
+    "description": "Oakbrook HQ",
+    "currency": "USD",
+    "referenceId": "US5801351017",
+    "status": "ACTIVE",
+    "address": {
+      "city": "San Bernardino",
+      "postalCode": "94035",
+      "state": "IL",
+      "street": "Chicago, Illinois",
+      "country": "USA"
+    },
+    "coordinates": {
+      "latitude": "34.055595",
+      "longitude": "-118.195473"
+    },
+    "enterpriseUnitName": "Real Estate"
+  },
+  {
+    "siteName": "walmart.com",
+    "timezone": "US/Eastern",
+    "description": "Entertainment, whole foods",
+    "currency": "USD",
+    "referenceId": "US9311421039",
+    "status": "ACTIVE",
+    "address": {
+      "city": "Rogers",
+      "postalCode": "72712",
+      "state": "AK",
+      "street": "Bentonville",
+      "country": "USA"
+    },
+    "coordinates": {
+      "latitude": "36.33202",
+      "longitude": "-94.11854"
+    },
+    "enterpriseUnitName": "Retail Market"
+  }
+]
