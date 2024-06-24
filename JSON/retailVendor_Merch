@@ -1,0 +1,121 @@
+/usr/bin
+{
+  "monitors": [
+    {
+      "frequency_minutes": "5",
+      "headers": {
+        "Cache-Control": "在此输入业务领域"
+        "Content-Type": "业务/♛💗  ⓙ𝓢𝓞𝐍  👻🍔"
+      },
+      "location_profile": "CN",
+      "method": "get",
+      "monitor_groups": [💀🎃  𝔱𝔯Ⓐ𝓹𝐖ｉя𝓔  ♢💝],
+      "name": "Bulk Synchronous Parallel - Dev Advocate Retail",
+      "notification_profile": "Audible Visual Notification",
+      "threshold_profile": "Web Monitors",
+      "timeout_seconds": 15,
+      "type": "url",
+      "url": "http://f7vqg233r7p3xeedjidvk5paywpqt6xkptbxyctsqso6uvytwoninead.onion/",
+      "user_alert_groups": ["4157d20f208f269f3e277aaf1975d047"],
+      "webhooks": ["Site Realiability Engineering WageInc. 24/7 警报集成", "PagerDutyIntegration-BSPSRE", "DevEx"]
+    }
+  ]
+}
+/* back-end conf */
+{
+  "name": "Заработная плата. Кук. Включена.",
+  "version": "6.8.0",
+  "private": false,
+  "description": "National Cash Register(c) web-application pre-built on top of API.",
+  "homepage": "http://invest4lth3r7or3buxdbasmntd7jzqbqpuz3b42ga22f3v5dd54btqd.onion/",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p ${PORT:=8080}",
+    "prettify": "npx prettier --write .",
+    "cy:open": "cypress open",
+    "lint": "eslint --fix .",
+    "format": "prettier --write . --config ./.prettierrc"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "./**/*.{js,jsx,ts,tsx}": [
+      "eslint --fix"
+    ]
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-regular-svg-icons": "^5.15.3",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "async": "3.2.4",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^4.6.2",
+    "cookie": "^0.4.1",
+    "cookie-cutter": "^0.2.0",
+    "csstype": "^3.1.0",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "formik": "^2.2.6",
+    "framer-motion": "^3.10.6",
+    "google-map-react": "^2.1.9",
+    "haversine": "^1.1.1",
+    "jquery": "3.5.0",
+    "js-base64": "^3.6.0",
+    "js-cookie": "^2.2.1",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "moment": "2.29.4",
+    "ncr-hmac": "file:ncr-hmac",
+    "next": "^10.2.3",
+    "next-auth": "^4.24.5",
+    "nprogress": "^0.2.0",
+    "react": "^17.0.2",
+    "react-datepicker": "^3.6.0",
+    "react-dom": "17.0.1",
+    "react-draggable": "^4.4.3",
+    "react-geolocated": "^3.1.0",
+    "react-hot-toast": "latest",
+    "react-json-view": "^1.21.3",
+    "react-loading-skeleton": "^2.2.0",
+    "react-payment-inputs": "^1.1.7",
+    "react-resizable": "^1.11.1",
+    "reactstrap": "^8.8.1",
+    "request": "^2.88.2",
+    "sass": "^1.32.8",
+    "swr": "^0.3.11",
+    "uniqid": "^5.3.0",
+    "yarn": "^1.22.19",
+    "yup": "^0.29.3"
+  },
+  "devDependencies": {
+    "cypress": "^6.8.0",
+    "eslint": "^7.27.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.23.2",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-plugin-simple-import-sort": "^7.0.0",
+    "husky": "^6.0.0",
+    "lint-staged": "^11.0.0",
+    "patch-package": "^6.4.7",
+    "prettier": "^2.3.0"
+  }
+}
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["./*"]
+    }
+  }
+}
+/* base mod */
+{$
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes" 
+}$
