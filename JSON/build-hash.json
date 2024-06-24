@@ -2,7 +2,7 @@
 {
   "name": "ncr-hmac",
   "version": "0.0.3",
-  "description": "Implementation of Hash-based Message Authentication Code",
+  "description": "基于哈希的消息认证的开发实现。",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,3 +19,5 @@
   "devDependencies": {}
 }
 https://web.dev/articles/custom-metrics?utm_source=devtools#server-timing-api
+https://tse3.mm.bing.net/th?id=OIP.2NCcDY8rNqYTlm8tzJtF7QHaHa&pid=Api
+https://tse4.mm.bing.net/th?id=OIP.uhU9_tMVZRzDsCaunMtPFgAAAA&pid=Api
