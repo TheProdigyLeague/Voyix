@@ -1,0 +1,672 @@
+/* web-app */
+www.cookielaw.org/wp-content/uploads/2020/03/gdpr-laptop.png","contentUrl":"https://www.cookielaw.org/wp-content/uploads/2020/03/gdpr-laptop.png","width":439,"height":237,"caption":"GDPR EU Regulation"},{"@type":"BreadcrumbList","@id":"https://www.cookielaw.org/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.cookielaw.org/#website","url":"https://www.cookielaw.org/","name":"CookieLaw","description":"The top destination for regulatory guidance and news related to cookies and tracking technologies.","publisher":{"@id":"https://www.cookielaw.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.cookielaw.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.cookielaw.org/#organization","name":"CookieLaw","url":"https://www.cookielaw.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.cookielaw.org/#/schema/logo/image/","url":"https://www.cookielaw.org/wp-content/uploads/2019/12/CookieLaw-Color-OnWhiteBackground_1000px-01.png","contentUrl":"https://www.cookielaw.org/wp-content/uploads/2019/12/CookieLaw-Color-OnWhiteBackground_1000px-01.png","width":1000,"height":375,"caption":"CookieLaw"},"image":{"@id":"https://www.cookielaw.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/CookieProOT","https://twitter.com/CookiePro_OT","https://www.instagram.com/cookiepro_onetrust1","https://www.linkedin.com/company/cookiepro/"]}]}</script>
+
+<style id="safe-svg-svg-icon-style-inline-css" type="text/css">
+.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="animate-style-css" href="https://www.cookielaw.org/wp-content/themes/cookielaw/css/animate.css?t=1694079999&#038;ver=1.0" type="text/css" media="all" />
+<link rel="stylesheet" id="styles-css" href="https://www.cookielaw.org/wp-content/themes/cookielaw/bundles/style.css?t=1694080077&#038;ver=1.0" type="text/css" media="all" />
+<script type="text/javascript" src="https://www.cookielaw.org/wp-content/plugins/wpo365-login/apps/dist/pintra-redirect.js?ver=23.0" id="pintraredirectjs-js" async></script>
+<script type="text/javascript" src="https://www.cookielaw.org/wp-content/themes/cookielaw/js/jquery-3.5.1.min.js?t=1694079999&amp;ver=3.5.1" id="jquery-js"></script>
+<link rel="https://api.w.org/" href="https://www.cookielaw.org/wp-json/" /><link rel="alternate" type="application/json" href="https://www.cookielaw.org/wp-json/wp/v2/pages/315" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cookielaw.org/xmlrpc.php?rsd" />
+<link rel="shortlink" href="https://www.cookielaw.org/" />
+<link rel="alternate" type="application/json+oembed" href="https://www.cookielaw.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cookielaw.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.cookielaw.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cookielaw.org%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.102.0" /><link rel="icon" href="https://www.cookielaw.org/wp-content/uploads/2019/12/CookieLaw-FavIcon2.ico" sizes="32x32" />
+<link rel="icon" href="https://www.cookielaw.org/wp-content/uploads/2019/12/CookieLaw-FavIcon2.ico" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.cookielaw.org/wp-content/uploads/2019/12/CookieLaw-FavIcon2.ico" />
+<meta name="msapplication-TileImage" content="https://www.cookielaw.org/wp-content/uploads/2019/12/CookieLaw-FavIcon2.ico" />
+</head>
+<body class="home page-template page-template-pages page-template-home-page page-template-pageshome-page-php page page-id-315 cookielaw">
+<header class="menu-menu animate">
+<nav id="primaryMenu" class="navbar navbar-expand-lg">
+<div class="container">
+<a class="navbar-brand logo" href="https://www.cookielaw.org" rel="home">
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/cookielaw-white-logo.svg" alt="CookieLaw Logo" class="logoImg white-logo" />
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/cookielaw-color-logo.svg" alt class="logoImg color-logo" />
+</a>
+<button class="navbar-toggler menuBtn" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"><i class="fa fa-bars"></i></span>
+</button>
+<div id="navbarNav" class="collapse navbar-collapse"><ul id="menu-main-navigation" class="navbar-nav ml-auto"><li id="menu-item-1638" class="nav-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a class="nav-link"><span class="menuText">Regulations &#038; Frameworks</span><span class="sub"></span></a>
+<ul class="sub-menu">
+<li id="menu-item-1639" class="nav-item menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cookielaw.org/regulations/ccpa/" class="nav-link"><span class="menuText">CCPA</span><span class="sub"> </span></a></li>
+<li id="menu-item-1640" class="nav-item menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cookielaw.org/regulations/gdpr/" class="nav-link"><span class="menuText">GDPR</span><span class="sub"> </span></a></li>
+<li id="menu-item-1668" class="nav-item menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cookielaw.org/regulations/lgpd/" class="nav-link"><span class="menuText">LGPD</span><span class="sub"> </span></a></li>
+<li id="menu-item-1706" class="nav-item menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cookielaw.org/regulations/cnil/" class="nav-link"><span class="menuText">CNIL</span><span class="sub"> </span></a></li>
+<li id="menu-item-1707" class="nav-item menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cookielaw.org/regulations/singapore-pdpa/" class="nav-link"><span class="menuText">Singapore PDPA</span><span class="sub"> </span></a></li>
+<li id="menu-item-1713" class="nav-item menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cookielaw.org/regulations/thailand-pdpa/" class="nav-link"><span class="menuText">Thailand PDPA</span><span class="sub"> </span></a></li>
+</ul>
+</li>
+<li id="menu-item-713" class="nav-item menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cookielaw.org/blog/" class="nav-link"><span class="menuText">Blog</span><span class="sub"> </span></a></li>
+<li id="menu-item-1543" class="nav-item menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cookielaw.org/about-us/" class="nav-link"><span class="menuText">About Us</span><span class="sub"> </span></a></li>
+<li id="menu-item-1299" class="nav-item menu-btn menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="https://www.cookiepro.com/forms/request-demo/#schedule" class="nav-link"><span class="menuText">Request Demo</span><span class="sub"></span></a></li>
+<li id="menu-item-2600" class="nav-item menu-btn menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.cookielaw.org/forms/contact-us/" class="nav-link"><span class="menuText">Contact Us</span><span class="sub"></span></a></li>
+</ul></div> </div>
+</nav>
+</div>
+</header>
+<main id="maincontent" class="site-content" tabindex="0">
+<section id="home" class="header-banner d-flex align-items-center">
+<div class="container">
+<div class="row">
+<div class="col col-12 text-center my-auto">
+<h1>Stay Up-to-Date on Privacy Regulations</h1>
+<hr> <h4>The top destination for regulatory information and the latest privacy <br>news related to cookies and tracking technologies.</h4>
+</div>
+</div>
+</div>
+</section>
+<section class="scanner">
+<div class="container text-center scanner-container animated fadeInLeft">
+<div class="row">
+<div class="col-12">
+<h3>Is My Website Compliant?</h3>
+<h6>Use our free scanning tool to see what cookies your website is using.</h6>
+</div>
+</div>
+<div class="row scan-form-container">
+<div class="col-12">
+<form action="https://kiosk.cookiepro.com/start-scan" target="_blank" method="GET" name="scan" data-gtm-do-not-track="1">
+<div class="input-group">
+<input id="domain-name" name="url" type="text" class="form-control" placeholder="Enter your domain name" required>
+<span class="input-group-btn">
+<button class="btn btn-primary btn-scan" type="submit">SCAN</button>
+</span>
+</div>
+</form>
+</div>
+</div>
+</div>
+</section>
+<section class="carousel-section">
+<div class="container">
+<div class="row title">
+<div class="col col-12 text-center">
+<h2>Privacy Laws Explained</h2>
+<hr> <h6>Meet Regulatory Requirements For Compliance</h6>
+</div>
+</div>
+</div>
+<div class="container-fluid">
+<div class="regulations-list slider">
+<div class="slide regulation-box-default">
+<div class="regulation-slide">
+<div class="regulation-slide-icon">
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/icon-ccpa-white.png" alt="CCPA California Consumer Privacy Act">
+</div>
+<h4 class="regulation-slide-title">
+California Consumer Privacy Act (CCPA) </h4>
+<div class="regulation-slide-description">
+<p>With the CCPA, transparency is key. This regulation went into effect on January 1, 2020 with a 12-month look-back requirement. Because of this, many organizations are taking measures to ensure their websites are compliant.</p>
+</div>
+<div class="regulation-slide-cta">
+<a href="https://www.cookielaw.org/regulations/ccpa/" class="btn btn-default">Learn More</a>
+</div>
+</div>
+</div>
+<div class="slide  regulation-box-blue-bg ">
+<div class="regulation-slide">
+<div class="regulation-slide-icon">
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/gdpr-white-icon.png" alt="General Data Protection Regulation (GDPR)">
+</div>
+<h4 class="regulation-slide-title">
+General Data Protection Regulation (GDPR) </h4>
+<div class="regulation-slide-description">
+<p>The big name in privacy, the GDPR sets the most strict and far-reaching standards for the handling of user data. It is based on principles of consent, transparency, protection, and user control.</p>
+</div>
+<div class="regulation-slide-cta">
+<a href="https://www.cookielaw.org/regulations/gdpr/" class="btn btn-default">Learn More</a>
+</div>
+</div>
+</div>
+<div class="slide  regulation-box-gray-bg ">
+<div class="regulation-slide">
+<div class="regulation-slide-icon">
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/ePrivacy-icon.svg" alt="ePrivacy Regulation">
+</div>
+<h4 class="regulation-slide-title">
+ePrivacy </h4>
+<div class="regulation-slide-description">
+<p>The e-Privacy regulation is a law currently being constructed by the EU Commission. The ePrivacy Regulation compliments the GDPR with a heavier focus on personal privacy, personal data, and confidentiality, specifically in electronic communication.</p>
+</div>
+</div>
+</div>
+<div class="slide  regulation-box-blue-bg ">
+<div class="regulation-slide">
+<div class="regulation-slide-icon">
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/cnil-white-icon.png" alt="CNIL">
+</div>
+<h4 class="regulation-slide-title">
+CNIL </h4>
+<div class="regulation-slide-description">
+<p>In early July 2019, the CNIL <a href="https://www.cookiepro.com/blog/cnil-cookie-compliance-update/" target="_blank" rel="noopener">updated cookie guidelines</a> that repealed those from Article 5.3 of the e-Privacy Directive from 2013, which imposed an obligation to obtain prior consent before placing or accessing cookies and similar technologies.</p>
+</div>
+</div>
+</div>
+<div class="slide regulation-box-default">
+<div class="regulation-slide">
+<div class="regulation-slide-icon">
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/ico-white-icon.png" alt="ICO (UK)">
+</div>
+<h4 class="regulation-slide-title">
+ICO (UK) </h4>
+<div class="regulation-slide-description">
+<p>The ICO covers the following laws already enacted: Data Protection Act; General Data Protection Regulation (GDPR); Freedom of Information Act; Privacy and Electronic Communications Regulations (PECR); Environmental Information Regulations</p>
+</div>
+</div>
+</div>
+<div class="slide  regulation-box-blue-bg ">
+<div class="regulation-slide">
+<div class="regulation-slide-icon">
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/nevada-white-icon.png" alt="Nevada Privacy Law">
+</div>
+<h4 class="regulation-slide-title">
+Nevada Privacy Law (SB-220) </h4>
+<div class="regulation-slide-description">
+<p>Nevada’s new law, SB-220, which requires website operators to honor opt-out procedures, went into effect October 1, 2019. Nevada’s <a tabindex="-1" href="https://legiscan.com/NV/text/SB220/2019" target="_blank" rel="noopener">Senate Bill 220</a>, or “An Act relating to Internet privacy,” requires organizations who run websites that collect and maintain data comply with requirements set by the law.</p>
+</div>
+</div>
+</div>
+<div class="slide regulation-box-default">
+<div class="regulation-slide">
+<div class="regulation-slide-icon">
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/thailand.svg" alt>
+</div>
+<h4 class="regulation-slide-title">
+Thailand PDPA </h4>
+<div class="regulation-slide-description">
+<p>Thailand’s Personal Data Protection Act (PDPA) was created to govern data protection and allow the people of Thailand to exercise their privacy rights. Thailand’s adoptions of this law were partly inspired by many GDPR principles and will drastically increase privacy requirements for businesses operating in Thailand.</p>
+</div>
+</div>
+</div>
+<div class="slide  regulation-box-blue-bg ">
+<div class="regulation-slide">
+<div class="regulation-slide-icon">
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/lgpd-icon.svg" alt="LGPD">
+</div>
+<h4 class="regulation-slide-title">
+Brazilian General Data Protection Law (LGPD) </h4>
+<div class="regulation-slide-description">
+<p>LGPD was unanimously approved on July 10, 2018 and will become law in 2020. The LGPD carries many similarities with the EU’s General Data Protection Regulation (GDPR), however, it is leaner in comparison.</p>
+</div>
+<div class="regulation-slide-cta">
+<a href="https://www.cookielaw.org/regulations/lgpd/" class="btn btn-default">Learn More</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="tabs" class="tabs">
+<div class="container">
+<div class="row title">
+<div class="col col-12 text-center">
+<h2>Building a Complete Consent Program</h2>
+<hr>
+</div>
+</div>
+<div class="tabs-container">
+<ul id="consentTabs" class="nav">
+<li>
+<a class="active" data-target="#tab_1">Cookie Consent</a>
+</li>
+<li>
+<a class data-target="#tab_2">Mobile App Consent</a>
+</li>
+<li>
+<a class data-target="#tab_3">Consumer & Subject Requests</a>
+</li>
+</ul>
+
+<div class="tab-content">
+<div class="tab-pane active" id="tab_1">
+<div class="row h-100">
+<div class="col col-12 col-md-6 col-lg-6 my-auto">
+<img class="animated fadeInLeft" src="https://www.cookielaw.org/wp-content/uploads/2020/03/cookie-consent-website-scanning.png" alt="Cookie consent website scanning Regulatory" />
+</div>
+<div class="col col-12 col-md-6 col-lg-6 my-auto animated fadeInRight">
+<h4>Cookie Consent & Website Scanning </h4>
+<p>Scan your website and easily generate a geo-specific cookie banner, preference center, and cookie policy to reach compliance with global regulations.</p>
+<div class="learn-more">
+<a class="btn btn-primary" href="https://www.cookiepro.com/products/cookie-consent/" target="_blank" rel="noreferrer noopener">Learn More</a>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-pane " id="tab_2">
+<div class="row h-100">
+<div class="col col-12 col-md-6 col-lg-6 my-auto">
+<img class="animated fadeInLeft" src="https://www.cookielaw.org/wp-content/uploads/2020/03/mobile-app-scanning-consent.png" alt="mobile app scanning" />
+</div>
+<div class="col col-12 col-md-6 col-lg-6 my-auto animated fadeInRight">
+<h4>Mobile App Scanning & Consent </h4>
+<p>Scan your mobile app and collect user consent for analytics, advertising, and other tracking technologies.</p>
+<div class="learn-more">
+<a class="btn btn-primary" href="https://www.cookiepro.com/products/mobile-app-consent/" target="_blank" rel="noreferrer noopener">Learn More</a>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-pane " id="tab_3">
+<div class="row h-100">
+<div class="col col-12 col-md-6 col-lg-6 my-auto">
+<img class="animated fadeInLeft" src="https://www.cookielaw.org/wp-content/uploads/2020/03/consumer-subject-requests.png" alt="Consumer subject requests" />
+</div>
+<div class="col col-12 col-md-6 col-lg-6 my-auto animated fadeInRight">
+<h4>Consumer & Subject Requests </h4>
+<p>Automate the request lifecycle from intake to fulfillment in compliance with CCPA Do Not Sell &amp; GDPR Data Subject Rights requirements</p>
+<div class="learn-more">
+<a class="btn btn-primary" href="https://www.cookiepro.com/data-subject-rights/" target="_blank" rel="noreferrer noopener">Learn More</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="cookie-banner">
+<div class="container">
+<div class="row h-100">
+<div class="col col-12 text-center my-auto">
+<h2>Create Your Cookie Banner </h2>
+<h6>Easily set up a cookie banner and block cookies in minutes with our drastically simplified cookie compliance technology.</h6>
+<a class="btn btn-default" href="https://www.cookiepro.com/free-signup" target="_blank" rel="noreferrer noopener">Get Started</a>
+</div>
+</div>
+</div>
+</section>
+<section class="compliance">
+<div class="container">
+<div class="row title">
+<div class="col col-12 text-center hlf-logo">
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/cookiepro-logo-blue.png" alt>
+<hr>
+</div>
+<div class="col col-12 text-center title">
+<h2>Compliance Made Easy</h2>
+</div>
+</div>
+<div class="cards row">
+<div class="cards-wrapper d-flex col-sm-12 col-md-4">
+<div class="image">
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/website-scan-icon.svg" alt="website scanner">
+</div>
+<div class="content-wrapper">
+<h6>Website Scanner </h6>
+<div class="content">
+<p>Scan your websites to detect and identify cookies, trackers, privacy policies, and cookie notices.</p>
+</div>
+</div>
+</div>
+<div class="cards-wrapper d-flex col-sm-12 col-md-4">
+<div class="image">
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/banner-icon.svg" alt="Cookie Banner">
+</div>
+<div class="content-wrapper">
+<h6>Cookie Banner </h6>
+<div class="content">
+<p>Tailor a branded cookie banner that gives visitors the ability to opt-in or opt-out of cookies when they visit your website.</p>
+</div>
+</div>
+</div>
+<div class="cards-wrapper d-flex col-sm-12 col-md-4">
+<div class="image">
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/preferences-icon.svg" alt="Cookie Preference Center">
+</div>
+<div class="content-wrapper">
+<h6>Cookie Preference Center </h6>
+<div class="content">
+<p>Create a dynamic preference center detailing the types of cookies on your website.</p>
+</div>
+</div>
+</div>
+<div class="cards-wrapper d-flex col-sm-12 col-md-4">
+<div class="image">
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/policy-icon.svg" alt="Cookie Notice">
+</div>
+<div class="content-wrapper">
+<h6>Cookie Notice </h6>
+<div class="content">
+<p>Embed an automatically-updated cookie notice on your site that informs users of the types and purpose of cookies found on your site.</p>
+</div>
+</div>
+</div>
+<div class="cards-wrapper d-flex col-sm-12 col-md-4">
+<div class="image">
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/consent-icon.svg" alt="Records of Consent">
+</div>
+<div class="content-wrapper">
+<h6>Records of Consent </h6>
+<div class="content">
+<p>Enable records of consent to record interactions with your banner &amp; preference center, and interact with dashboards to monitor how your consent approach is performing.</p>
+</div>
+</div>
+</div>
+<div class="cards-wrapper d-flex col-sm-12 col-md-4">
+<div class="image">
+<img src="https://www.cookielaw.org/wp-content/uploads/2020/03/audit-icon.svg" alt="Geolocation">
+</div>
+<div class="content-wrapper">
+<h6>Geolocation </h6>
+<div class="content">
+<p>Leverage geolocation to display unique banners and behaviors based on the website visitor&#8217;s location.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col col-12 text-center">
+<a class="btn btn-primary" href="https://www.cookiepro.com/demo-hub/" target="_blank" rel="noreferrer noopener">Request a Demo</a>
+</div>
+</div>
+</div>
+</section>
+<section class="latest-news">
+<div class="container">
+<div class="row title">
+<div class="col col-12 text-center">
+<h2>Our Blog</h2>
+<hr>
+</div>
+</div>
+<div class="row justify-content-center">
+<div class="card-warp col-md-6 col-lg-3">
+<div class="card-inner">
+<a href="https://www.cookielaw.org/blog/the-future-of-eu-cookie-compliance-gdpr-the-e-privacy-regulation/" class="card-link"></a>
+<div class="news-img">
+<img src="https://www.cookielaw.org/wp-content/uploads/2019/11/onetrust_webinar-graphic-1024x601_500x293.png" alt="GDPR EU Regulation" />
+</div>
+<div class="content-wrapper">
+<h5>January 13, 2017 </h5>
+<h6>Future of EU Cookie Compliance Webinar: ... </h6>
+<p>GDPR and now the proposed E-Privacy Regulation mean a stricter regime for cookie compliance, web governance and use of online tracking technologies. Join p... </p>
+<a href="https://www.cookielaw.org/blog/the-future-of-eu-cookie-compliance-gdpr-the-e-privacy-regulation/">View Article <span>→</span></a>
+</div>
+</div>
+</div>
+<div class="card-warp col-md-6 col-lg-3">
+<div class="card-inner">
+<a href="https://www.cookielaw.org/blog/draft-eu-eprivacy-regulation-leaked/" class="card-link"></a>
+<div class="news-img">
+<img src="https://www.cookielaw.org/wp-content/themes/cookielaw/img/cookielaw-color-logo.png" alt="Recent blog thumbnail" />
+</div>
+<div class="content-wrapper">
+<h5>December 14, 2016 </h5>
+<h6>Draft EU ePrivacy Regulation Leaked... </h6>
+<p>A draft of the proposed legislation to replace the outdated EU ePrivacy Directive was leaked on the Politico.eu (PDF) website this week. The proposal is fo... </p>
+<a href="https://www.cookielaw.org/blog/draft-eu-eprivacy-regulation-leaked/">View Article <span>→</span></a>
+</div>
+</div>
+</div>
+<div class="card-warp col-md-6 col-lg-3">
+<div class="card-inner">
+<a href="https://www.cookielaw.org/blog/gdpr-compliance-means-cookie-notices-must-change/" class="card-link"></a>
+<div class="news-img">
+<img src="https://www.cookielaw.org/wp-content/themes/cookielaw/img/cookielaw-color-logo.png" alt="Recent blog thumbnail" />
+</div>
+<div class="content-wrapper">
+<h5>November 3, 2016 </h5>
+<h6>GDPR Compliance Means Cookie Notices Mus... </h6>
+<p>Are you one of those people that ticked the cookie law box ages ago and not thought about it since? Well the game has changed and now is the time to re-vis... </p>
+<a href="https://www.cookielaw.org/blog/gdpr-compliance-means-cookie-notices-must-change/">View Article <span>→</span></a>
+</div>
+</div>
+</div>
+<div class="card-warp col-md-6 col-lg-3">
+<div class="card-inner">
+<a href="https://www.cookielaw.org/blog/optanon-acquired-by-onetrust/" class="card-link"></a>
+<div class="news-img">
+<img src="https://www.cookielaw.org/wp-content/themes/cookielaw/img/cookielaw-color-logo.png" alt="Recent blog thumbnail" />
+</div>
+<div class="content-wrapper">
+<h5>September 21, 2016 </h5>
+<h6>Optanon Acquired by OneTrust... </h6>
+<p>We are pleased to announce that Optanon, along with parent company Governor Technology, has been acquired by OneTrust.... </p>
+<a href="https://www.cookielaw.org/blog/optanon-acquired-by-onetrust/">View Article <span>→</span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<script>
+    $(document).ready(function(){ 
+        $("#consentTabs a").click(function(e){
+            e.preventDefault();
+            $(this).tab('show');
+        });
+    });
+</script>
+<link rel="stylesheet" href="https://www.cookielaw.org/wp-content/themes/cookielaw/bundles/pages/home.css" type="text/css" />
+<script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function() {
+
+                // Add global scripts for legacy forms here
+
+        });
+</script>
+<section class="newsletter">
+<div class="container">
+<div class="row">
+<div class="col col-12 col-lg-3 text-md-left my-auto text-center ">
+<h4>Be in the Know</h4>
+<p>Subscribe to our newsletter</p>
+</div>
+<div class="col col-12 col-lg-6 my-auto">
+<form name="CookiePro_Newsletter" id="form20" class="newsletter-form captcha-form" data-captcha-action="otFooterNewsletter" action="https://web.onetrust.com/api/submit-newsletter.php" method="post" onsubmit="return handleFormSubmit(this)">
+<input type="hidden" name="elqFormName" value="CookiePro_Newsletter">
+<input type="hidden" name="elqSiteID" value="2025046056">
+<input type="hidden" name="elqCampaignId">
+<input type="hidden" name="ret_url" id="fe688" value="https://www.cookielaw.org/thank-you-subscribe/?ref=form" />
+<input type="hidden" name="elqCustomerGUID" value>
+<input type="hidden" name="elqCookieWrite" value="0">
+<input type="hidden" name="lead_source" value="Website">
+<div class="input-group">
+<input type="email" name="emailAddress" id="fe185" required class="elq-item-input form-control" placeholder="Enter your email">
+<span class="input-group-btn">
+<button class="btn btn-default btn-theme" type="submit" id="fe186">Subscribe</button>
+</span>
+</div>
+</form>
+<script type="text/javascript" src="https://img06.en25.com/i/livevalidation_standalone.compressed.js"></script>
+</div>
+<div class="col col-12 col-lg-3 text-center footer-social-media-icons">
+<a class="media-link" href="https://www.linkedin.com/company/cookiepro/" target="_blank"><img src="https://www.cookielaw.org/wp-content/uploads/2020/03/linkedin.svg" alt="linkedin" /></a>
+<a class="media-link" href="https://www.facebook.com/officialonetrust" target="_blank"><img src="https://www.cookielaw.org/wp-content/uploads/2020/03/facebook.svg" alt /></a>
+<a class="media-link" href="https://twitter.com/CookiePro_OT/" target="_blank"><img src="https://www.cookielaw.org/wp-content/uploads/2020/03/twitter.svg" alt /></a>
+</div>
+</div>
+</div>
+</section>
+</main> 
+<footer>
+<div class="container">
+<div class="row mobile-hidden">
+<div class="col col-12 col-md-6 col-lg-3 footer-col">
+<h6>Knowledge</h6>
+<ul>
+<li><a href="https://www.cookiepro.com/blog/">Blog</a></li>
+<li><a href="https://www.cookiepro.com/resources/" target="_blank" rel="noreferrer noopener">Resources</a></li>
+<li><a href="https://www.cookiepro.com/knowledge/" target="_blank" rel="noreferrer noopener">CookiePro Knowledgebase</a></li>
+</ul>
+</div>
+<div class="col col-12 col-md-6 col-lg-3 footer-col">
+<h6>Regulations</h6>
+<ul class="footer-left-links">
+<li><a href="https://www.cookielaw.org/regulations/ccpa/">CCPA</a></li>
+<li><a href="https://www.cookielaw.org/regulations/gdpr/">GDPR</a></li>
+<li><a href="https://www.cookielaw.org/regulations/lgpd/">LGPD</a></li>
+</ul>
+<ul class="footer-right-links">
+</ul>
+</div>
+<div class="col col-12 col-md-6 col-lg-3 footer-col">
+<h6>Company</h6>
+<ul>
+<li><a href="https://www.cookielaw.org/about-us/">About Us</a></li>
+<li><a href="https://www.cookielaw.org/forms/contact-us/" target="_blank" rel="noreferrer noopener">Contact Us</a></li>
+</ul>
+</div>
+<div class="col col-12 col-md-6 col-lg-3 footer-col">
+<h6>Products</h6>
+<ul class="footer-left-links">
+<li><a href="https://www.cookiepro.com/products/cookie-consent/" target="_blank" rel="noreferrer noopener">Cookie Consent</a></li>
+<li><a href="https://www.cookiepro.com/products/consumer-data-subject-rights-management/" target="_blank" rel="noreferrer noopener">Data Subject Rights</a></li>
+<li><a href="https://www.cookiepro.com/products/mobile-app-consent/" target="_blank" rel="noreferrer noopener">Mobile App Consent</a></li>
+</ul>
+<ul class="footer-right-links">
+</ul>
+</div>
+</div>
+<hr>
+<div class="row  copyright-row d-flex align-items-center">
+<div class="col col-12 col-lg-6 copyright">
+© 2024 Cookielaw. All Rights Reserved </div>
+<div class="col col-12 col-lg-6 privacy-links">
+<ul>
+<li><a href="https://www.onetrust.com/privacy/" target="_blank" rel="noreferrer noopener">Privacy Notice</a></li>
+<li><a href="https://www.cookielaw.org/cookie-notice/">Cookie Notice</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</footer>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=TurnstileCallback" async defer></script>
+<script type="text/javascript">
+        //document.addEventListener('DOMContentLoaded', function() {
+            window.TurnstileCallback = function () {
+                jQuery( '.captcha-form' ).each(function(index) {
+                    var id = $( this ).attr('id');
+                    var action = $('#' + id).attr('data-captcha-action');
+                    turnstile.render('#' + id, {
+                        sitekey: '0x4AAAAAAABK7RXHcBmxCJt9',
+                        action: action,
+                        'timeout-callback': function() {
+                            turnstile.reset('#' + id);
+                        }
+                    });
+                });
+            };
+        //});
+
+        document.addEventListener('DOMContentLoaded', function() {
+            var forms = document.querySelectorAll('.captcha-form'); // select <form> elements to add captcha
+            //forms.forEach(function(el) {
+            Array.prototype.forEach.call(forms, function (el) {
+                el.addEventListener('submit', function(e) {
+                    if (!e.defaultPrevented && !e.target.classList.contains('captcha-executed')) { 
+                        // form validation passed (default not prevented by validator) & captcha has not been executed
+                        e.target.classList.add('captcha-executed'); // prevent multiple captcha executions
+                        var actionName;
+                        // Fire custom event to notify Adobe Experience Cloud of form submit  
+                        const formSubmitEvent = new CustomEvent("_otadobe_formsubmit", {
+                                detail: {name: e.target.id},
+                                bubbles: true,
+                                cancelable: false,
+                                composed: false,
+                        });
+                        e.target.dispatchEvent(formSubmitEvent); 
+                        e.target.submit();
+                    }
+                    e.preventDefault(); // stop normal form submission
+                });
+            });
+        });        
+    </script>
+<script type="text/javascript" src="https://www.cookielaw.org/wp-content/themes/cookielaw/js/jquery-ui/jquery-ui.min.js?t=09302019&amp;ver=6.5.4" id="jquery-ui-js"></script>
+<script type="text/javascript" src="https://www.cookielaw.org/wp-content/themes/cookielaw/js/bootstrap/bootstrap.bundle.min.js?t=1694079999&amp;ver=6.5.4" id="bootstrap-bundle-js"></script>
+<script type="text/javascript" src="https://www.cookielaw.org/wp-content/themes/cookielaw/js/script.js?t=1694079999&amp;ver=1.12.1" id="script-js"></script>
+<script type="text/javascript" src="https://www.cookielaw.org/wp-content/themes/cookielaw/bundles/js/utm.js?t=1694079999&amp;ver=1.1" id="utm-js"></script>
+<script type="text/javascript" src="https://www.cookielaw.org/wp-content/themes/cookielaw/js/vendors/slick.min.js?t=1694079999&amp;ver=6.5.4" id="home-slider-js"></script>
+<script type="text/javascript" src="https://www.cookielaw.org/wp-content/themes/cookielaw/js/homepage.js?t=1694079999&amp;ver=6.5.4" id="home-custom-js"></script>
+<script type="text/javascript">
+  var timerId = null, timeout = 5;
+</script>
+<script type="text/javascript">
+// Declare Eloqua object
+var _elqQ = _elqQ || [];
+function WaitUntilCustomerGUIDIsRetrieved() {
+if (!!(timerId)) {
+    if (timeout == 0) {
+return;
+}
+if (typeof this.GetElqCustomerGUID === 'function') {
+        document.forms["CookiePro_Newsletter"].elements["elqCustomerGUID"].value = GetElqCustomerGUID();
+return;
+}
+timeout -= 1;
+}
+timerId = setTimeout("WaitUntilCustomerGUIDIsRetrieved()", 500);
+return;
+}
+window.onload = WaitUntilCustomerGUIDIsRetrieved;
+_elqQ.push(['elqGetCustomerGUID']);
+</script>
+
+<script language="javascript">
+window.onAdobeReady = (callback, interval = 250, maxWaitDuration = 5000) => {
+    const checkInterval = setInterval(() => {
+        if (!window._satellite) return;
+        if (!window.adobe) return;
+        if (typeof(OptanonActiveGroups) == 'undefined') return;
+        clearInterval(checkInterval);
+        callback();
+    }, interval);
+    setTimeout(() => clearInterval(checkInterval), maxWaitDuration);
+};
+onAdobeReady(() => { // All page load events should be within this block
+    // Page view event
+    var pageView = {
+        "eventName": "page view",
+        "attributes": {
+            "page": {
+                "title": "Home",
+                "type": "page",
+                "tags": "",
+            },
+            "site": {
+                "name": "cookielaw.org",
+            }
+        }
+    };
+        
+    _satellite.track("event", pageView);
+});
+</script>
+
+<script language="javascript">
+var _otadobe={};_otadobe.params=new URLSearchParams(window.location.search);var gqp=function(p){return _otadobe.params.get(p);};var resourceTypeFilters=decodeURIComponent(gqp("resource_type"));(function(){function trackResourceSearch(searchTerm,searchFilters,hasResults){var resourceSearch={"eventName":"search","attributes":{"page":{"title":"Home","type":"page",},"site":{"name":"cookielaw.org",},"search":{"scope":"resources","filters":searchFilters,"term":searchTerm,"hasResults":hasResults}}};_satellite.track("event",resourceSearch);}
+function doUpdateSearchResults(){if(document.querySelectorAll("#tiles > div > div.tiles-row.tiles-row-results.row div").length>0){var searchTerm=document.querySelector("input.search-bar-input").value.toLowerCase();var searchFilters=[];var resourceTypeFilters=document.querySelectorAll("div.dropdown-resource-type div.dropdown-item input");resourceTypeFilters.forEach(function(f){if(f.checked){searchFilters.push("filter:resourcetype:"+f.name.toLowerCase());}})
+var topicFilters=document.querySelectorAll("div.dropdown-topic div.dropdown-item input");topicFilters.forEach(function(f){if(f.checked){searchFilters.push("filter:topic:"+f.name.toLowerCase());}})
+var sort=document.querySelector("select#sort-by").value;searchFilters.push("sort:"+sort);var quantity=document.querySelector("div.page-quantity > button.quantity.active").innerText;searchFilters.push("quantity:"+quantity);var hasResults=(document.querySelectorAll("img[alt='no results image']").length>0)?"false":"true";trackResourceSearch(searchTerm,searchFilters,hasResults);}}
+if(window.document.location.pathname=="/resources/"){const resultsGrid=document.querySelector("div.tiles-row-results");const observer=new MutationObserver(function(){setTimeout(doUpdateSearchResults,500);});observer.observe(resultsGrid,{subtree:true,childList:true});}
+function trackFormStart(fid){var formStart={"eventName":"form start","attributes":{"page":{"title":"Home","type":"page",},"site":{"name":"cookielaw.org",},"form":{"id":fid,}}};_satellite.track("event",formStart);}
+function trackFormCompletion(fid){var formCompletion={"eventName":"form completion","attributes":{"page":{"title":"Home","type":"page",},"site":{"name":"cookielaw.org",},"form":{"id":fid,}}};_satellite.track("event",formCompletion);}
+function trackFormError(fid,error){var formError={"eventName":"form error","attributes":{"page":{"title":"Home","type":"page",},"site":{"name":"cookielaw.org",},"form":{"id":fid,"error":error,}}};_satellite.track("event",formError);}
+_otadobe.forms_started=[];const formfields=document.querySelectorAll("form input");formfields.forEach(element=>{element.addEventListener('focus',(e)=>{try{var fid=e.target.closest('form').id;if(typeof(fid)!="undefined"&&fid!=""){if(_otadobe.forms_started.indexOf(fid)<0){_otadobe.forms_started.push(fid);trackFormStart(fid);}}}catch(err){_satellite.logger.warn("unable to set form listener: "+err.message);}})});})();
+</script>
+
+<div style="display:none">Onetrust All Rights Reserved</div>
+</body>
+</html>
+/* optanon */
+isGpcEnabled=0&datestamp=Sun+Jun+23+2024+19:04:53+GMT-0500+(Peru+Standard+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=78e58a82-64e8-442d-8d10-481f72872c22&interactionCount=1&isAnonUser=1&landingPath=https://www.cookielaw.org/&groups=1:1,2:0,4:0
+GA1.1.102394871.1719186951
+GS1.1.1719186950.1.1.1719189272.0.0.0
+Y.TJw8vd9w9vjv6r8nx50naPdgwK8nr_KySgA.Mfc_A-1719189221-1.0.1.1-Jlzt3bsxUtps2vBI2uNnKEXoCa.6Hg1HjRcxKiEOJpTPqT1miK4Mz8L2gV1inMSxvPjBFpZk6arS18vTGcdrTg
+id:605-BQY-740&token:_mch-ncrvoyix.com-1719186944014-45884
