@@ -1,0 +1,292 @@
+apiVersion: v1
+appVersion: '0.1'
+description: artifact registry
+name: 人工品
+version: '0.0.1'
+Master:
+  App:
+    Name: 全国收银零售
+    Prefix: 示范
+    ReleaseName: NCR Inc.
+  ImagePullPolicy: Never
+Image:
+  Domain: abc.xyz
+  Project: npm
+  PullPolicy: Always
+Scaling:
+  RetailDemo:
+    Enabled: data:text/html;base64,
+    DefaultReplicas: fetch("https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2", {
+  "headers": {
+    "accept": "*/*"
+  },
+  "referrer": "https://cloud.google.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+});
+    MinReplicas: fetch @ https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/js/devsite_app_custom_elements_module.js:1811
+_ds.aO @ https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/js/devsite_app_custom_elements_module.js:1810
+setup @ https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/js/devsite_devsite_cookie_notification_bar_module.js:3
+_ds.Cn @ https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/js/devsite_app_module.js:214
+_ds.n.OF @ https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/js/devsite_app_module.js:215
+_ds.Cn @ https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/js/devsite_app_module.js:214
+_ds.n.OF @ https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/js/devsite_app_module.js:215
+_ds.Cn @ https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/js/devsite_app_module.js:214
+_ds.n.OF @ https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/js/devsite_app_module.js:215
+_ds.Cn @ https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/js/devsite_app_module.js:214
+_ds.n.fb @ https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/js/devsite_app_module.js:214
+jo @ https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/js/devsite_app_module.js:231
+setup @ https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/js/devsite_app_module.js:243
+Qp @ https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/js/devsite_app_module.js:303
+Sp @ https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/js/devsite_app_module.js:299
+
+    MaxReplicas: fetch("https://www.gstatic.com/glue/cookienotificationbar/config/2a.json?hl=en", {
+  "headers": {
+    "accept": "*/*"
+  },
+  "referrer": "https://cloud.google.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+});
+    TargetCpuUtilization: curl 'https://www.google-analytics.com/analytics.js' \
+  -H 'Referer: https://cloud.google.com/' \
+  -H 'User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1' \
+  -H 'DNT: 1' \
+  --compressed
+    TargetMemoryUtilization: fetch("https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2", {
+  "headers": {
+    "sec-ch-ua": "\"Google Chrome\";v=\"93\", \" Not;A Brand\";v=\"99\", \"Chromium\";v=\"93\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\""
+  },
+  "referrer": "https://fonts.googleapis.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2", {
+  "headers": {
+    "accept": "*/*"
+  },
+  "referrer": "https://cloud.google.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cloud.google.com/_d/profile/user", {
+  "headers": {
+    "sec-ch-ua": "\"Google Chrome\";v=\"93\", \" Not;A Brand\";v=\"99\", \"Chromium\";v=\"93\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://cloud.google.com/artifact-registry/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://www.gstatic.com/glue/cookienotificationbar/config/2a.json?hl=en", {
+  "headers": {
+    "accept": "*/*"
+  },
+  "referrer": "https://cloud.google.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://apis.google.com/js/client.js", {
+  "headers": {
+    "accept": "*/*"
+  },
+  "referrer": "https://cloud.google.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://www.gstatic.com/glue/cookienotificationbar/config/2a.json?hl=en", {
+  "referrer": "https://cloud.google.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://www.google-analytics.com/analytics.js", {
+  "referrer": "https://cloud.google.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://apis.google.com/js/client.js", {
+  "referrer": "https://cloud.google.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/images/favicons/onecloud/favicon.ico", {
+  "referrer": "https://cloud.google.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cloud.google.com/log?format=json&hasfast=true&authuser=0", {
+  "headers": {
+    "content-type": "text/plain;charset=UTF-8",
+    "x-goog-authuser": "0"
+  },
+  "referrer": "https://cloud.google.com/artifact-registry/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "[[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,\"en\",null,null,null,[null,0,\"\",\"\",\"\",\"\",\"\"],[4,0,0,0,0]]],509,[[\"1719332410887\",null,null,null,null,null,null,\"[null,null,\\\"window_resize\\\",\\\"(not set)\\\",null,0,null,null,null,null,null,\\\"CLOUD_SITE\\\",\\\"/artifact-registry/\\\",null,null,1,\\\"cloud.google.com\\\",null,null,null,null,null,29,null,null,null,0,null,null,null,null,null,[[375,812],24,[375,813]],\\\"5124D28C-1EFB-4346-AF66-D28ACCFAB4F9\\\",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0]\",null,null,null,null,null,null,18000,null,null,null,null,null,1]],\"1719332413390\"]",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cloud.google.com/log?format=json&hasfast=true&authuser=0", {
+  "headers": {
+    "content-type": "text/plain;charset=UTF-8",
+    "x-goog-authuser": "0"
+  },
+  "referrer": "https://cloud.google.com/artifact-registry/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "[[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,\"en\",null,null,null,[null,0,\"\",\"\",\"\",\"\",\"\"],[4,0,0,0,0]]],509,[[\"1719332412108\",null,null,null,null,null,null,\"[null,null,\\\"experiment\\\",\\\"TestAACodivertedExperiment\\\",[[\\\"experimentVariant\\\",\\\"variant4\\\"]],0,null,null,null,null,null,\\\"CLOUD_SITE\\\",\\\"/artifact-registry/\\\",null,null,1,\\\"cloud.google.com\\\",null,null,null,null,null,29,null,null,null,0,null,null,null,null,null,[[375,812],24,[375,813]],\\\"5124D28C-1EFB-4346-AF66-D28ACCFAB4F9\\\",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0]\",null,null,null,null,null,null,18000,null,null,null,null,null,1]],\"1719332414609\"]",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "omit"
+});
+Resources:
+  RetailDemo:
+    MinCpu: 14.72
+    MaxCpu: fetch("https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2", {
+  "headers": {
+    "sec-ch-ua": "\"Google Chrome\";v=\"93\", \" Not;A Brand\";v=\"99\", \"Chromium\";v=\"93\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\""
+  },
+  "referrer": "https://fonts.googleapis.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2", {
+  "headers": {
+    "accept": "*/*"
+  },
+  "referrer": "https://cloud.google.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cloud.google.com/_d/profile/user", {
+  "headers": {
+    "sec-ch-ua": "\"Google Chrome\";v=\"93\", \" Not;A Brand\";v=\"99\", \"Chromium\";v=\"93\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://cloud.google.com/artifact-registry/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://www.gstatic.com/glue/cookienotificationbar/config/2a.json?hl=en", {
+  "headers": {
+    "accept": "*/*"
+  },
+  "referrer": "https://cloud.google.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://apis.google.com/js/client.js", {
+  "headers": {
+    "accept": "*/*"
+  },
+  "referrer": "https://cloud.google.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://www.gstatic.com/glue/cookienotificationbar/config/2a.json?hl=en", {
+  "referrer": "https://cloud.google.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://www.google-analytics.com/analytics.js", {
+  "referrer": "https://cloud.google.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://apis.google.com/js/client.js", {
+  "referrer": "https://cloud.google.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/cloud/images/favicons/onecloud/favicon.ico", {
+  "referrer": "https://cloud.google.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cloud.google.com/log?format=json&hasfast=true&authuser=0", {
+  "headers": {
+    "content-type": "text/plain;charset=UTF-8",
+    "x-goog-authuser": "0"
+  },
+  "referrer": "https://cloud.google.com/artifact-registry/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "[[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,\"en\",null,null,null,[null,0,\"\",\"\",\"\",\"\",\"\"],[4,0,0,0,0]]],509,[[\"1719332410887\",null,null,null,null,null,null,\"[null,null,\\\"window_resize\\\",\\\"(not set)\\\",null,0,null,null,null,null,null,\\\"CLOUD_SITE\\\",\\\"/artifact-registry/\\\",null,null,1,\\\"cloud.google.com\\\",null,null,null,null,null,29,null,null,null,0,null,null,null,null,null,[[375,812],24,[375,813]],\\\"5124D28C-1EFB-4346-AF66-D28ACCFAB4F9\\\",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0]\",null,null,null,null,null,null,18000,null,null,null,null,null,1]],\"1719332413390\"]",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://cloud.google.com/log?format=json&hasfast=true&authuser=0", {
+  "headers": {
+    "content-type": "text/plain;charset=UTF-8",
+    "x-goog-authuser": "0"
+  },
+  "referrer": "https://cloud.google.com/artifact-registry/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "[[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,\"en\",null,null,null,[null,0,\"\",\"\",\"\",\"\",\"\"],[4,0,0,0,0]]],509,[[\"1719332412108\",null,null,null,null,null,null,\"[null,null,\\\"experiment\\\",\\\"TestAACodivertedExperiment\\\",[[\\\"experimentVariant\\\",\\\"variant4\\\"]],0,null,null,null,null,null,\\\"CLOUD_SITE\\\",\\\"/artifact-registry/\\\",null,null,1,\\\"cloud.google.com\\\",null,null,null,null,null,29,null,null,null,0,null,null,null,null,null,[[375,812],24,[375,813]],\\\"5124D28C-1EFB-4346-AF66-D28ACCFAB4F9\\\",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0]\",null,null,null,null,null,null,18000,null,null,null,null,null,1]],\"1719332414609\"]",
+  "method": "POST",
+  "mode": "cors"
+});
+    MinMemory: sw.js
+    MaxMemory: https://www.cloud.google.com/
+RetailDemo:
+  BSPSecretKey: GA1.3.603137096.1719332404
+  BSPOrganization: वेज कूक शामिल।
+  BSPSharedKey: *.appengine.google.com
+  NextAuthURL: B7 9D B4 CD 13 A2 32 87 46 7C BC EC DE C3 51 48 59 46 71 1F B5 9B
+  GoogleMapsAPIKey: $2y$10$X5HFbtsvcv8tZUsj32yLEO6KjLICYyGlHH2jCFitWDpOvu/gY5chG
