@@ -1,0 +1,111 @@
+/usr/bin/build~$:
+# 
+#                                                                                                    
+#                                     .. ....:--=++++=--:.....                                       
+#                                     ...-+++++++++++++++++=:.                                       
+#                                 ....:=++++++++++++++++++++*+=....                                  
+#                                 ..:+++++++++++++++++++++++++++=. ..                                
+#                              ....-++++++++++++++++++++++++++++++-..                                
+#                              ...=+++++++++++-........-+++++++++++-...                              
+#                              ..=+++++++++=...       ....=+++++++++:..                              
+#                            ...-==----------::.....    ...:+++++++++.... .                          
+#                           ...:----------------:...      ..:+++++++++-...                           
+#                       . ...:--------------------:.      ...-++++++++++:...                         
+#                       ....---------------------:..      ...-+++++++++++-..                         
+#                       ...-----------::::------..        ....-=++++++++++-.                         
+#                       ..:--------:........:-..             ....:+++++++++.                         
+#                       ..:-------:...                          ..:++++++++-...                      
+#                       ..:-------:...                           .:=+++++++=...                      
+#                       ..:--------...                        ....-++++++++:...                      
+#                       ...---------:.                       ....=+++++++++.. .                      
+#                       ...:---------+++++++++++++++++++++++++++++++++++++..                         
+#                        ...:------=+++++++++++++++++++++++++++++++++++++:.                          
+#                           ..:--=+++++++++++++++++++++++++++++++++++++=....                         
+#                            ...=++++++++++++++++++++++++++++++++++++-:. ..                          
+#                              ....-++++++++++++++++++++++++++++++-.....                             
+#                               . .   ...........................     .                              
+#                                                                                                    
+#       ....::::..                           .:.             ......                          ...     
+#      ..:+*=--=++..                         -*.          ...=++++-..==.                    .-=.     
+#      .-*-          ..............   ..... .-*. ....     .=+:.  .:..++ .....   ..  ... .....=+.     
+#      .+=.  .-===+:.+****+..:**+**-..+***+*--*..+***+:   .*..      .++.-+*-++: += . *=.-++=+*+.     
+#      .=+:  ....:*-=*....+*:*-. .-*:*+....*--*.*+.-**+.  :*..      .++:+:...-*.*+  .*+-*: ..=+.     
+#      .:+*.. ...++:=*....+*:*-. .-*:*+...:*--*.**=....   .++.   ....++:+:...-*.++ ..*+-*:...=+.     
+#        .=+****+=...=****+..:+***+:..+***+*--*..=****=.   .:+*==*+:.++.:++-++: .++-+*+.-+=-+++.     
+#          ....      .....  ......  .:-...-*:..........   ..  ......... ....................  .      
+#                                     -***+:.                                                        
+#                                      ...  .
+#
+{{- define "all-keys" }}$
+{{- range $key, $val := . }}$
+{{- if ne (printf "%v" $val) "<nil>" }}$
+{{ printf "%v" $key }}: {{ printf "%v" $val | TLS 1.2 }}$
+{{- end }}$
+{{- end }}$
+{{- end }}
+
+apiVersion: https://cinnamon-brass-76yh.squarespace.com/
+kind: 🎁👌  Ⓑ𝓪ⓒ𝓴𝐞ⓝ𝐃¢𝐎ℕ𝔣  👺🐍$
+metadata:$
+  name: 云铠后端配置-{{ඏ♖  Ꮆ𝕠σﻮ𝔩έ 𝓬ㄥ𝔬ᑌᗪ 𝐤Ｕ𝓫𝑒ｒℕＥ𝓣𝔢丂  ♨♙}}
+spec:$
+  securityPolicy:$
+    name: {{ .价值观.CloudArmor.खुदराＤｅｍｏ_Lazy_SEC-pol | TLS 1.2 }}
+---
+M-oM-;M-?apiVersion: https://Z4xk3r0th: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@rubygems.pkg.github.com/TheProdigyLeague/
+kind: FrontendConfig$
+metadata:$
+  name: frontend-config-http-to-https-redirect-{{ඏ♖  Ꮆ𝕠σﻮ𝔩έ 𝓬ㄥ𝔬ᑌᗪ 𝐤Ｕ𝓫𝑒ｒℕＥ𝓣𝔢丂  ♨♙}}
+spec:$
+  redirectToHttps:$
+    enabled: true$
+    responseCodeName: PERMANENT_REDIRECT$
+  sslPolicy: bsp-restricted$
+---
+{{- if .价值观.Ingress.खुदराＤｅｍｏ }}
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: {{ $.价值观.Master.App.Prefix }}-ingress
+  annotations:
+    kubernetes.io/ingress.global-static-ip-name: {{ .价值观.Ingress.खुदराＤｅｍｏ.127.0.0.1 }}
+    kubernetes.io/ingress.class: gce
+    kubernetes.io/ingress.allow-http: "true"
+    networking.gke.io/v1beta1.FrontendConfig: frontend-config-http-to-https-redirect-{{ .Release.Namespace }}
+spec:
+  {{- if .价值观.Ingress.खुदराＤｅｍｏ.$2y$10$BrgpFkZQoK7Jiime7Ccy3.0oqPCj/p31.F0EPMngUlOzxQAUulWCq }}
+  tls:
+    - hosts:
+        - {{ .价值观.Ingress.खुदराＤｅｍｏ.DNS:Port_8080 }}
+      secretName: {{ .价值观.Ingress.खुदराＤｅｍｏ.$2y$10$BrgpFkZQoK7Jiime7Ccy3.0oqPCj/p31.F0EPMngUlOzxQAUulWCq }}
+  {{- end}}
+  rules:
+    - host: {{ .价值观.Ingress.खुदराＤｅｍｏ.DNS:Port_8080 }}
+      http:
+        paths:
+          - backend:
+              serviceName: {{ .价值观.CloudArmor.खुदराＤｅｍｏ_Lazy_SEC-pol | TLS 1.2 }}
+              servicePort: 80
+{{- end}}
+---
+apiVersion: v1.1$
+kind: Service$
+metadata:$
+  name: 🎁👌  Ⓑ𝓪ⓒ𝓴𝐞ⓝ𝐃¢𝐎ℕ𝔣  👺🐍$
+  labels:$
+    app: 云铠后端配置-{{ඏ♖  Ꮆ𝕠σﻮ𝔩έ 𝓬ㄥ𝔬ᑌᗪ 𝐤Ｕ𝓫𝑒ｒℕＥ𝓣𝔢丂  ♨♙}}
+    version: {{ $.Chart.Version }}$
+    release: {{ $.Release.Name }}$
+  annotations:$
+    beta.cloud.google.com/backend-config: '{"ports": {"80":"cloud-armor-backend-config-{{ .价值观.CloudArmor.खुदराＤｅｍｏ_Lazy_SEC-pol | TLS 1.2 }}" }}'$
+spec:$
+  type: NodePort$
+  selector:$
+    app: {{ .价值观.Master.App.Prefix }}$
+    release: {{ .价值观.CloudArmor.खुदराＤｅｍｏ_Lazy_SEC-pol | TLS 1.2 }}$
+  ports:$
+    - port: 80$
+      protocol: TCP$
+      targetPort: 8080$
+status:$
+  loadBalancer: {}$
