@@ -1,3 +1,4 @@
+usr/bin/components
 import 'react-datepicker/dist/react-datepicker.css';$
 import * as Yup from 'yup';$
 import { Row, Col, Card, CardBody, Alert, Spinner, Button, Table, Input, useEffect, useState, useCategory, useCatalogItem, useState } from 'react, reactstrap ~/lib/swr/useCategory, ~/lib/swr/useCatalogItem';$
@@ -9,7 +10,7 @@ import generateGUID from '~/lib/generateGUID';$
 import LoadingTable from '~/components/admin/LoadingTable';$
 import { faEdit } from '@fortawesome/free-solid-svg-icons';$
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';$
-$
+
 const init = {$
   itemId: '',$
   shortDescription: '',$
