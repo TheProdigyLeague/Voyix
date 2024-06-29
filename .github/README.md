@@ -9,7 +9,7 @@
 
 ## Key Points 🔐
 
-**CI/CD** - Considering version control when leveraging GitHub Actions for source code builds will continously integrate delivery and deployment. ✈️
+**CI/CD** - Considering version control when leveraging GitHub Actions for source code builds will continuously integrate delivery and deployment. ✈️
 
 * A.I. implementation 🤖
 * Pentesting ✍️
@@ -19,21 +19,21 @@
 
 ### IaC 🏗️
 
-Infrastructure as Code manages many tools, such as, Terraform or JSON manifests. _This ensures scale as deployments become massive and version-controlled._
+Infrastructure as Code manages many tools, such as Terraform or JSON manifests. _This ensures scale as deployments become massive and version-controlled._
 
 #### Micro Arch 🛠️
 
-* Deconstruct Developer Applications into indepedent, loosely couple, and less monitored micro-service architectures... 🖱️
-* Promoters will use a more scalable, maintainable, and indepedent factors of pre-deployed, pre-packaged, and pre-functionality programs. 💻
+* Deconstruct Developer Applications into independent, loosely coupled, and less monitored microservice architectures... 🖱️
+* Promoters will use more scalable, maintainable, and independent factors of pre-deployed, pre-packaged, and pre-functionality programs. 💻
 
 #### Containerization 📦
 
-* Packaging becomes micro-serviced as their dependencies rely on more Dockerfile containers. 📦
+* Packaging becomes microservice as their dependencies rely on more Dockerfile containers. 📦
 * Containerization becomes more simple for deployments and ensures consistent `subsystem/usr/kernel/env`
 
 #### Kubernetes 🎻
 
-Use `utils Dockerfile man` for containerization utilization orchestration. 📦 (Management at scale). 🤖 Because, at large scales, kubernetes automates deployments, scalar penetration tenestration, fiber optic cable balancing, pre-compiled source code, loader interpreting and pre-processed containerized applicator handlers. 👾
+Use `utils Dockerfile man` for containerization utilization orchestration. 📦 (Management at scale). 🤖 Because, at large scales, kubernetes automates deployments, scalar penetration testation, fiber optic cable balancing, pre-compiled source code, loader interpreting and pre-processed containerized applicator handlers. 👾
 
 #### Application Programming Interface (Man) 🇨🇳
 
@@ -41,14 +41,14 @@ Implementation of portal gateway manager accessibility 🚪 is crucial for OpSec
 
 #### ML 🤖
 
-Machine Learning training pipelines establish this automated pipelines for training and deployment mods. 🖥️ This integrates modulus efficiency iterations, on deployment sectors. 🔄
+Machine Learning training pipelines establish that automated pipelines for training and deployment mods. 🖥️ This integrates modulus efficiency iterations, on deployment sectors. 🔄
 
 * Mod Server
 * Mod containers
 * Mod ML
 * Mod deployment
 * Mod app
-* Mod microsrv
+* Mod `microsrv`
 * Mod kubs
 * Mod scale
 * Mod man
@@ -58,17 +58,17 @@ Machine Learning training pipelines establish this automated pipelines for train
 
 * **Access** - API's provide a more secure and controller based access with relevancy. Thanks to API marketing applications and customer dashboards. 🗝️
 * **Leverage** - Key takeaways are authenticator player based mechanisms and other leveraging API keys. ⌨️
-* **Data** - OpSec implements robust protection measures handling sensitive data with Policy ML models accessable in the dashboards. 🏙️
+* **Data** - OpSec implements robust protection measures handling sensitive data with Policy ML models accessible in the dashboards. 🏙️
 * **Crypto** - Auditors regularly involve accessing controls and policy and procedures. (Encryption to Decryption). 🔑
 * **Benefits** - Streamlining CI/CD IaC management. (A.I. Workflows and job error handling).
 
 #### Menus
 
-- Microservices with containerized versions enables easy access and independent content deployment. 🛸
-- Deployments are more secure and reliable within Kubernetes environments and IaC realibility infrastructure. 🤖
+- Microservices with containerized versions enable easy access and independent content deployment. 🛸
+- Deployments are more secure and reliable within Kubernetes environments and IaC reliability infrastructure. 🤖
 - Consistent and efficient ML integration allows automated job pipelines with workflow model training. 🤖
 <br>
 How to get started?
 <hr>
 
-_Many tools are no longer free and open source. Therefore, the individual is at a severe competitive disadvantage. Businesses have bought out most, if not all of, the technology sector. 🇷🇸🇮🇳🇸🇦 Most people do not understand that this disallows most of society from accessing the most important requirements. Barring virtually anybody from even the most benign requirements. (If the tool was even purchased, it comes with defects and severe obfuscations and deprecations). Technocratic LLCs and bureaucrats create an anti-competitive, pre-rigged marketplace that creates a predetermined conformity that pushes even the most ruthless, skilled, and competitive programmers to pre-paid, legal corporate client pipelines that are integrated with Kubernetes. This approach makes ownership obvious and identifies who is responsible for what. For coding major ML components, data conduits, and infrastructures at least. The surveillance program is fake. entirely biased in the large data brokerages' and bloated IT companies' favor. Keeping the DevOps community gatekeeper and excluding those who would excel in other roles. Whereby, anything that is improved leads to an automation of the developer workload. Artificial Intelligence is being ingrained in everything in this digital age. particularly in employment._
+_Many tools are no longer free and open source. Therefore, the individual is at a severe competitive disadvantage. Businesses have bought out most, if not all of, the technology sector. 🇷🇸🇮🇳🇸🇦 Most people do not understand that this disallows most of society from accessing the most important requirements. Barring virtually anybody from even the most benign requirements. (If the tool was even purchased, it comes with defects and severe obfuscations and deprecations). Technocratic LLCs and bureaucrats create an anti-competitive, pre-rigged marketplace that creates a predetermined conformity that pushes even the most ruthless, skilled, and competitive programmers to prepaid, legal corporate client pipelines that are integrated with Kubernetes. This approach makes ownership obvious and identifies who is responsible for what. For coding major ML components, data conduits, and infrastructures at least. The surveillance program is fake. entirely biased in the large data brokerages' and bloated IT companies' favor. Keeping the DevOps community gatekeeper and excluding those who would excel in other roles. Whereby, anything that is improved leads to an automation of the developer workload. Artificial Intelligence is being ingrained in everything in this digital age. particularly in employment._
