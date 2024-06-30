@@ -5,7 +5,7 @@
 
 # DevOps 🖥️
 
-**Workflow Management** - Developers who are deploying applications often find themselves needing guiding principles and workflow outlines designed particularly for clientele who are already familiar with GitHug Actions. Henceforth, this document emphasizes controlling, maintainability, scalability, and in-app functions, such as; Marketing, applications, dashboards for customers which leverages Machine Learning (ML) in Kubernetes environments. 🎤
+**Workflow Management** - Developers who are deploying applications often find themselves needing guiding principles and workflow outlines designed particularly for clientele who are already familiar with GitHub Actions. Henceforth, this document emphasizes controlling, maintainability, scalability, and in-app functions, such as; Marketing, applications, dashboards for customers which leverages Machine Learning (ML) in Kubernetes environments. 🎤
 
 ## Key Points 🔐
 
