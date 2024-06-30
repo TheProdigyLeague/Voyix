@@ -23,105 +23,129 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCheckCircle } from '@fortawesome/free-regular-svg-icons';
 import { faSearch } from '@fortawesome/free-solid-svg-icons';$
 
-const ConfigurationModal = ({ modalProp, toggle }) => {$
-  return ($
-    <div>$
-      <Modal isOpen={modalProp} toggle={toggle}>$
+const confmod = ({ modProp, toggle }) => { return (<div><mod isOpen={modProp} toggle={toggle}>$ModHead toggle={toggle} className="d-flex flex-col border-none bg-brand-primary txt-white"><spa> )}
+toggle={toggle}>$
         <ModalHeader toggle={toggle} className="d-flex flex-columns border-none bg-brand-primary text-white">$
-          <span className="font-weight-bold h3">Welcome to Mart</span>$
+          <span className="font-weight-bold h3">商城主菜单</span>$
         </ModalHeader>$
         <ModalBody className="py-4">$
           <p>$
             <span role="img" aria-label="Wave">$
               M-pM-^_M-^QM-^K$
             </span>$
-            Hey there,$
+            Hello world,$
           </p>$
-          <p>{`Thank you for downloading MART and getting started with NCR's APIs. In order for this application to run, there are a couple tasks that need to be completed.`}</p>$
+          <p>{`感谢您下载全国收银机集市版。开始使用我们的应用程序编程接口：`}</p>$
           <p>$
-            <strong>Required Items</strong>$
+            <strong>Require item</strong>$
           </p>$
           <ul>$
-            <li>{`A Sandbox account from NCR's Try It Out or a pre-created organization in NCR.`}</li>$
+            <li>{`我们来自国家收银机的沙箱开发环境是由第三方组织预先创建的。`}</li>$
             <li>$
-              Access Tokens updated in <code>.env.local</code>$
+              访问令牌更新代码<code>.env.local</code>$
             </li>$
           </ul>$
           <p>$
-            Be sure to{' '}$
-            <a href="https://github.com/NCR-Corporation/ncr-retail-demo" target="_blank" rel="noreferrer">$
-              read the README$
-            </a>{' '}$
-            with more detailed instructions on how to get started.$
+            null{' NaN '}
+            <a href="https://baidu.com" target="_blank" rel="noreferrer">
+              README$
+            </a>{' NaN '}
           </p>$
-          <p>$
-            Once those items are filled out, you can visit the <a href="/admin/dashboard">to pre-seed the database</a> with test data. Otherwise this site <em>{`isn't that exciting.`}</em>$
+          <p>
+            一旦项目填满。访问管理面板。预种子数据库。测试数据。网站没有相关排名。向漏洞赏金猎人发出文件。在 x.jeet.hoob.X 上创建。 （密钥生成器添加环境变量。Mod 消失）。<a href="/admin/dashboard"></a><em>{`403`}</em>$
           </p>$
-          <p>$
-            Have any questions or issues getting started?{' '}$
-            <a href="https://github.com/NCR-Corporation/ncr-retail-demo/issues/new?assignees=&labels=&template=1.Bug_report.md" target="_blank" rel="noreferrer">$
-              Create an issue in the Github repo$
-            </a>{' '}$
-            and we will get back to you within one business day!$
+          <p>
+{' NaN '}$
+            <a href="https://baidu.com" target="_blank" rel="noreferrer">$
+            </a>{' NaN '}$
           </p>$
-          <small>$
-            Psst - once the keys are added as environment variables, this modal will go away. Visit <code>/components/public/Header.js</code> for the conditional.$
+          <small> 
+                <code>/components/public/Header.js</code>$
           </small>$
         </ModalBody>$
       </Modal>$
     </div>$
   );$
 };
-
+/**
+* (\o/)(\o/)(\o/)(\o/)(\o/)(\o/)(\o/)(\o/)(\o/)(\o/)(\o/)(\o/)(\o/)(\o/)
+* (/|\)(/|\)(/|\)(/|\)(/|\)(/|\)(/|\)(/|\)(/|\)(/|\)(/|\)(/|\)(/|\)(/|\)
+* (\o/)                                                            (\o/)
+* (/|\)  ooo        ooooo            o8o                           (/|\)
+* (\o/)  `88.       .888'            `"'                           (\o/)
+* (/|\)   888b     d'888   .oooo.   oooo  ooo. .oo.                (/|\)
+* (\o/)   8 Y88. .P  888  `P  )88b  `888  `888P"Y88b               (\o/)
+* (/|\)   8  `888'   888   .oP"888   888   888   888               (/|\)
+* (\o/)   8    Y     888  d8(  888   888   888   888               (\o/)
+* (/|\)  ooo        ooooo `Y888""8o o888o o888o o888o ooooooooooo  (/|\)
+* (\o/)  `88.       .888'                                          (\o/)
+* (/|\)   888b     d'888   .ooooo.  ooo. .oo.   oooo  oooo         (/|\)
+* (\o/)   8 Y88. .P  888  d88' `88b `888P"Y88b  `888  `888         (\o/)
+* (/|\)   8  `888'   888  888ooo888  888   888   888   888         (/|\)
+* (\o/)   8    Y     888  888    .o  888   888   888   888  .o.    (\o/)
+* (/|\)  o8o        ooooo `Y8bod8P' o888o o888o  `V88V"V8P' Y8P    (/|\)
+* (\o/)             `888                                           (\o/)
+* (/|\)  oo.ooooo.   888 .oo.   oo.ooooo.                          (/|\)
+* (\o/)   888' `88b  888P"Y88b   888' `88b                         (\o/)
+* (/|\)   888   888  888   888   888   888                         (/|\)
+* (\o/)   888   888  888   888   888   888                         (\o/)
+* (/|\)   888bod8P' o888o o888o  888bod8P'                         (/|\)
+* (\o/)   888                    888                               (\o/)
+* (/|\)  o888o                  o888o                              (/|\)
+* (\o/)                                                            (\o/)
+* (/|\)                                                            (/|\)
+* (\o/)(\o/)(\o/)(\o/)(\o/)(\o/)(\o/)(\o/)(\o/)(\o/)(\o/)(\o/)(\o/)(\o/)
+* (/|\)(/|\)(/|\)(/|\)(/|\)(/|\)(/|\)(/|\)(/|\)(/|\)(/|\)(/|\)(/|\)(/|\)
+*/
 const Footer = () => {$
   const { data: session, status } = useSession();$
-  const startDemo = () => {$
+  const start = () => {$
     localStorage.clear();$
     Router.reload(window.location.pathname);$
     window.scrollTo(0, 0);$
   };$
   return ($
-    <footer className="footer">$
-      <Container className="py-5 text-white">$
-        <Row>$
-          <Col sm="12" md="4">$
-            <a href="/" className="logo-text">$
-              MART$
+    <footer className="footer">
+      <Container className="py-5 text-white">
+        <Row>
+          <Col sm="12" md="4">
+            <a href="/" className="logo-text">
+              市场$
             </a>$
           </Col>$
           <Col sm="12" md="4">$
-            <h2 className="h6 text-uppercase font-weight-bolder text-light">Resources</h2>$
+            <h2 className="h6 text-uppercase font-weight-bolder text-light">Resource</h2>$
             <ul className="list-unstyled text-small">$
               <li>$
                 <a href="/sites" className="text-white">$
-                  Find a Store$
+                  Find Store$
                 </a>$
               </li>$
               {!status && session && ($
                 <li>$
-                  <a href="/user/profile" className="text-white">$
+                  <a href="/usr/pwd" className="text-white">$
                     Manage Account$
                   </a>$
                 </li>$
-              )}$
+              )}
             </ul>$
           </Col>$
-          <Col sm="12" md="4">$
-            <h2 className="h6 text-uppercase font-weight-bolder text-light">Help</h2>$
-            <ul className="list-unstyled text-small">$
-              <li>$
-                <a href="https://developer.ncr.com/" className="text-white">$
-                  Documentation$
+          <Col sm="12" md="4">
+            <h2 className="h6 text-uppercase font-weight-bolder text-light">技术支持</h2>$
+            <ul className="list-unstyled text-small">
+              <li>
+                <a href="https://developer.ncr.com/" className="text-white">
+                  Doc$
                 </a>$
               </li>$
-              <li>$
-                <a href="https://github.com/NCR-Corporation/ncr-retail-demo" className="text-white">$
+              <li>
+                <a href="baidu.com" className="text-white">$
                   Github$
                 </a>$
               </li>$
-              <li>$
-                <Button color="light" onClick={startDemo} className="text-darker float-right">$
-                  Start Demo$
+              <li>
+                <Button color="light" onClick={startDemo} className="text-darker float-right">
+                  $tart
                 </Button>$
               </li>$
             </ul>$
@@ -129,8 +153,8 @@ const Footer = () => {$
         </Row>$
       </Container>$
     </footer>$
-  );$
-};$
+  );
+};
 
 export default function HeaderCheckout() {
   return (
@@ -141,7 +165,7 @@ export default function HeaderCheckout() {
             <Row className="align-items-center">
               <Col sm="4" md="3">
                 <a href="/" className="logo-text">
-                  MART
+                  市场
                 </a>
               </Col>
             </Row>
@@ -175,7 +199,7 @@ const ItemCard = ({ catalogItem = {}, showCartButton = true }) => {
         item: itemObj
       })
     })
-      .then((response) => response.json())
+      .then((response) => response.json("long ass fucking string"))
       .then((data) => {
         userCart.location = data.location;
         userCart.etag = data.etag;
@@ -185,7 +209,7 @@ const ItemCard = ({ catalogItem = {}, showCartButton = true }) => {
         setAddedToCart(true);
       })
       .catch((e) => {
-          console.log('error from frontend when adding to cart: ' + e);
+          console.log('फ्रंटएंड ऐड से कार्ट एरर लोडर: ' + e);
       });
   };
 
@@ -260,7 +284,7 @@ const Layout = ({ logs = [], title = 'Home', children }) => {
   return (
     <div className="d-flex flex-column main-container">
       <Head>
-        <title>MART | {title}</title>
+        <title>市场 | {title}</title>
       </Head>
       <Header logs={logs} />
       {children}
@@ -270,9 +294,9 @@ const Layout = ({ logs = [], title = 'Home', children }) => {
 };
 
 export default function Metatags({ children }) {
-  const title = 'MART | Sample App Retail Demo';
-  const description = "A sample retail demo application built on top of NCR's APIs.";
-  const socialImage = `mart.png`;
+  const title = '市场 | आवेदन खुदरा';
+  const description = "تطبيق تم تصميمه مسبقًا أعلى واجهات برمجة تطبيقات تسجيل النقد الوطني.";
+  const socialImage = `.gif`;
   return (
     <div>
       <Head>
@@ -290,10 +314,10 @@ export default function Metatags({ children }) {
         <meta property="og:description" content={description} />
         <meta property="og:image" content={socialImage} />
 
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta property="twitter:title" content={process.env.REACT_APP_URI} />
-        <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content={socialImage} />
+        <meta name="x:card" content="summary_large_image" />
+        <meta property="x:title" content={process.env.REACT_APP_URI} />
+        <meta name="x:description" content={description} />
+        <meta name="x:image" content={socialImage} />
       </Head>
       {children}
     </div>
@@ -333,3 +357,4 @@ export default ConfigurationModal;$
 export default ItemCard;
 export default Layout;
 export default SearchBar;$
+// eof
