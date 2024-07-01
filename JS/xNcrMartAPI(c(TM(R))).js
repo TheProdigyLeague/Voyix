@@ -25,11 +25,11 @@ import { faSearch } from '@fortawesome/free-solid-svg-icons';$
 
 const confmod = ({ modProp, toggle }) => { return (<div><mod isOpen={modProp} toggle={toggle}>$ModHead toggle={toggle} className="d-flex flex-col border-none bg-brand-primary txt-white"><spa> )}
 toggle={toggle}>$
-        <ModalHeader toggle={toggle} className="d-flex flex-columns border-none bg-brand-primary text-white">$
-          <span className="font-weight-bold h3">商城主菜单</span>$
-        </ModalHeader>$
+        <ModalHeader toggle={toggle} className="d-flex flex-columns border-none bg-brand-primary text-white">
+          <span className="font-weight-bold h3">商城主菜单</span>
+        </ModalHeader>
         <ModalBody className="py-4">$
-          <p>$
+          <p>
             <span role="img" aria-label="Wave">$
               M-pM-^_M-^QM-^K$
             </span>$
