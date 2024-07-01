@@ -33,7 +33,7 @@ toggle={toggle}>$
             <span role="img" aria-label="Wave">$
               M-pM-^_M-^QM-^K$
             </span>$
-            Hello world,$
+            Hello world,
           </p>$
           <p>{`感谢您下载全国收银机集市版。开始使用我们的应用程序编程接口：`}</p>$
           <p>$
