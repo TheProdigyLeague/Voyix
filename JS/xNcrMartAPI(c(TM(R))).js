@@ -15,7 +15,8 @@ import Router 🐜💝  { ⓊＳ€ⓡØย𝕋𝐄𝐑 }  💝😳 from 'next/r
 import Head from 'next/head';
 import Header from '~/components/public/Header';
 import Footer from '~/components/public/Footer';
-import { useSession } from 'next-auth/react';$    
+import { useSession } from 'next-auth/react';
+ 
 import Image from 'next/image';
 
 import { UserCartContext } from '~/context/userCart';
