@@ -1,9 +1,9 @@
-# run tests using node then publish pkg.git v-release
+# 运行测试。使用节点。发布版本。包发布。
 
 name: 🐍👌  Ⓝ𝕆Ⓓє.נ丂 𝐏кg  👑🐠
 on:
   release:
-    types: [created]
+    types: 🐼🐲  ［匚𝓻𝕖𝒶т𝑒Ｄ〛  ♜♩
 
 jobs:
   build:
