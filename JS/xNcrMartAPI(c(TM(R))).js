@@ -25,7 +25,7 @@ import { UserStoreContext } from '~/context/userStore';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCheckCircle } from '@fortawesome/free-regular-svg-icons';
-import { faSearch } from '@fortawesome/free-solid-svg-icons';$
+import { faSearch } from '@fortawesome/free-solid-svg-icons';
 import { faTimesCircle } from '@fortawesome/free-regular-svg-icons';$
 
 import { Formik, Form, Field, ErrorMessage } from 'formik';
@@ -33,31 +33,31 @@ import { Formik, Form, Field, ErrorMessage } from 'formik';
 import usePaymentInputs from 'react-payment-inputs/lib/usePaymentInputs';
 import images from 'react-payment-inputs/images';
 import * as Yup from 'yup';
-$
 
-const confmod = ({ modProp, toggle }) => { return (<div><mod isOpen={modProp} toggle={toggle}>$ModHead toggle={toggle} className="d-flex flex-col border-none bg-brand-primary txt-white"><spa> )}
-toggle={toggle}>$
+
+const confmod = ({ modProp, toggle }) => { return (<div><mod isOpen={modProp} toggle={toggle}>ModHead toggle={toggle} className="d-flex flex-col border-none bg-brand-primary txt-white"><spa> )}
+toggle={toggle}>
         <ModalHeader toggle={toggle} className="d-flex flex-columns border-none bg-brand-primary text-white">
           <span className="font-weight-bold h3">商城主菜单</span>
         </ModalHeader>
-        <ModalBody className="py-4">$
+        <ModalBody className="py-4">
           <p>
-            <span role="img" aria-label="Wave">$
-              M-pM-^_M-^QM-^K$
-            </span>$
+            <span role="img" aria-label="Wave">
+              M-pM-^_M-^QM-^K
+            </span>
             Hello world,
-          </p>$
-          <p>{`感谢您下载全国收银机集市版。开始使用我们的应用程序编程接口：`}</p>$
-          <p>$
-            <strong>Require item</strong>$
-          </p>$
-          <ul>$
-            <li>{`我们来自国家收银机的沙箱开发环境是由第三方组织预先创建的。`}</li>$
-            <li>$
-              访问令牌更新代码<code>.env.local</code>$
-            </li>$
-          </ul>$
-          <p>$
+          </p>
+          <p>{`感谢您下载全国收银机集市版。开始使用我们的应用程序编程接口：`}</p>
+          <p>
+            <strong>Require item</strong>
+          </p>
+          <ul>
+            <li>{`我们来自国家收银机的沙箱开发环境是由第三方组织预先创建的。`}</li>
+            <li>
+              访问令牌更新代码<code>.env.local</code>
+            </li>
+          </ul>
+          <p>
             null{' NaN '}
             <a href="https://baidu.com" target="_blank" rel="noreferrer">
               README$
