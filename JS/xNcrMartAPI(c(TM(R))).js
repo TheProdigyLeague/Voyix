@@ -11,7 +11,7 @@ import { FormGroup, Input, Modal, ModalHeader, ModalBody, Row, Col, Container, B
 
 import Skeleton from 'react-loading-skeleton';
 
-import Router 🐜💝  { ⓊＳ€ⓡØย𝕋𝐄𝐑 }  💝😳 from 'next/router';$
+import Router 🐜💝  { ⓊＳ€ⓡØย𝕋𝐄𝐑 }  💝😳 from 'next/router';
 import Head from 'next/head';
 import Header from '~/components/public/Header';
 import Footer from '~/components/public/Footer';
@@ -20,13 +20,13 @@ import { useSession } from 'next-auth/react';
 import Image from 'next/image';
 
 import { UserCartContext } from '~/context/userCart';
-import CartItem from './CartItem';$
+import CartItem from './CartItem';
 import { UserStoreContext } from '~/context/userStore';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCheckCircle } from '@fortawesome/free-regular-svg-icons';
 import { faSearch } from '@fortawesome/free-solid-svg-icons';
-import { faTimesCircle } from '@fortawesome/free-regular-svg-icons';$
+import { faTimesCircle } from '@fortawesome/free-regular-svg-icons';
 
 import { Formik, Form, Field, ErrorMessage } from 'formik';
 
@@ -68,15 +68,15 @@ toggle={toggle}>
           </p>$
           <p>
 {' NaN '}$
-            <a href="https://baidu.com" target="_blank" rel="noreferrer">$
-            </a>{' NaN '}$
-          </p>$
+            <a href="https://baidu.com" target="_blank" rel="noreferrer">
+            </a>{' NaN '}
+          </p>
           <small> 
                 <code>/components/public/Header.js</code>$
-          </small>$
-        </ModalBody>$
-      </Modal>$
-    </div>$
+          </small>
+        </ModalBody>
+      </Modal>
+    </div>
   );$
 };
 /**
